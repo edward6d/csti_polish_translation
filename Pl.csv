@@ -565,14 +565,14 @@ CropPlotEmpty_CardInteractions[3].ActionName,Plant Coffee,Posadź kawowce
 CropPlotEmpty_CardInteractions[3].ActionLog.LogText,I planted some Coffe on a crop plot.,Posadzono kawowce na działce uprawnej.
 CropPlotEmpty_CardInteractions[4].ActionName,Plant Lemongrass,Posadź trawę cytrynową
 CropPlotEmpty_CardInteractions[4].ActionLog.LogText,I planted some Lemongrass on a crop plot.,Posadzono trawę cytrynową na działce uprawnej.
-CropPlotEmpty_CardInteractions[5].ActionName,Plant Snake Grass,Posadź trawę wężową
-CropPlotEmpty_CardInteractions[5].ActionLog.LogText,I planted some snake grass on a crop plot.,Posadzono trawę wężową na działce uprawnej.
+CropPlotEmpty_CardInteractions[5].ActionName,Plant Snake Grass,Posadź wetiwerię
+CropPlotEmpty_CardInteractions[5].ActionLog.LogText,I planted some snake grass on a crop plot.,Posadzono wetiwerię na działce uprawnej.
 CropPlotEmpty_CardInteractions[6].ActionName,Plant Aloe Vera,Posadź aloes
 CropPlotEmpty_CardInteractions[6].ActionLog.LogText,I planted some aloe vera on a crop plot.,Posadzono aloes na działce uprawnej.
-CropPlotEmpty_CardInteractions[7].ActionName,Plant Kava,Posadź kavę
-CropPlotEmpty_CardInteractions[7].ActionLog.LogText,I planted some Kava on a crop plot.,Posadzono kavę na działce uprawnej.
-CropPlotEmpty_CardInteractions[8].ActionName,Plant Spider Lily,Posadź pajęcze lilie
-CropPlotEmpty_CardInteractions[8].ActionLog.LogText,I planted some Spider Lily on a crop plot.,Posadzono pajęcze lilie na działce uprawnej.
+CropPlotEmpty_CardInteractions[7].ActionName,Plant Kava,Posadź pieprz metystynowy
+CropPlotEmpty_CardInteractions[7].ActionLog.LogText,I planted some Kava on a crop plot.,Posadzono pieprz metystynowy na działce uprawnej.
+CropPlotEmpty_CardInteractions[8].ActionName,Plant Spider Lily,Posadź lilie pajęcze
+CropPlotEmpty_CardInteractions[8].ActionLog.LogText,I planted some Spider Lily on a crop plot.,Posadzono lilie pajęcze na działce uprawnej.
 CropPlotEmpty_CardInteractions[9].ActionName,Plant Ginger,Posadź imbirowce
 CropPlotEmpty_CardInteractions[9].ActionLog.LogText,I planted some Ginger on a crop plot.,Posadzono imbirowce na działce uprawnej.
 CropPlotEmpty_CardInteractions[10].ActionName,Plant Yam,Posadź pochrzyn
@@ -597,12 +597,12 @@ CropPlotEmpty_CardInteractions[19].ActionName,Plant Palm Tree,Posadź palmy
 CropPlotEmpty_CardInteractions[19].ActionLog.LogText,I planted some Palm Trees on a crop plot.,Posadzono palmy na działce uprawnej.
 CropPlotEmpty_CardInteractions[20].ActionName,Plant Mango Tree,Posadź mango
 CropPlotEmpty_CardInteractions[20].ActionLog.LogText,I planted some Mango on a crop plot.,Posadzono mango na działce uprawnej.
-CropPlotEmpty_CardInteractions[21].ActionName,Plant Palm Bush,Posadź palmowe krzewy
-CropPlotEmpty_CardInteractions[21].ActionLog.LogText,I planted some Palm Bushes on a crop plot.,Posadzono palmowe krzewy na działce uprawnej.
+CropPlotEmpty_CardInteractions[21].ActionName,Plant Palm Bush,Posadź krzewy palmowe
+CropPlotEmpty_CardInteractions[21].ActionLog.LogText,I planted some Palm Bushes on a crop plot.,Posadzono krzewy palmowe na działce uprawnej.
 CropPlotEmpty_CardInteractions[22].ActionName,Water,Podlej
 CropPlotEmpty_CardInteractions[23].ActionName,Fertilize,Dodaj nawozu
 CropPlotEmpty_CardInteractions[24].ActionName,Fertilize,Dodaj nawozu
-CropPlotGinger_CardName,Ginger Crop Plot,Uprawa imbiru
+CropPlotGinger_CardName,Ginger Crop Plot,Uprawa imbirowca
 CropPlotGinger_CardDescription,I should keep it hydrated and wait for it to grow.,"Aby rośliny dobrze wyrosły, potrzebują regularnego nawadniania i czasu."
 CropPlotGinger_SpoilageTime.CardStatName,Fertilizer,Nawóz
 CropPlotGinger_UsageDurability.CardStatName,Health,Zdrowie
@@ -632,7 +632,7 @@ CropPlotJasmine_CardInteractions[0].ActionName,Water,Podlej
 CropPlotJasmine_CardInteractions[1].ActionName,Fertilize,Dodaj nawozu
 CropPlotJasmine_CardInteractions[2].ActionName,Fertilize,Dodaj nawozu
 CropPlotJasmine_DismantleActions[0].ActionName,Destroy,Zniszcz
-CropPlotKava_CardName,Kava Crop Plot,Uprawa kavy
+CropPlotKava_CardName,Kava Crop Plot,Uprawa pieprzu metystynowego
 CropPlotKava_CardDescription,I should keep it hydrated and wait for it to grow.,"Aby rośliny dobrze wyrosły, potrzebują regularnego nawadniania i czasu."
 CropPlotKava_SpoilageTime.CardStatName,Fertilizer,Nawóz
 CropPlotKava_UsageDurability.CardStatName,Health,Zdrowie
@@ -766,7 +766,7 @@ CropPlotSagoPalm_CardInteractions[0].ActionName,Water,Podlej
 CropPlotSagoPalm_CardInteractions[1].ActionName,Fertilize,Dodaj nawozu
 CropPlotSagoPalm_CardInteractions[2].ActionName,Fertilize,Dodaj nawozu
 CropPlotSagoPalm_DismantleActions[0].ActionName,Destroy,Zniszcz
-CropPlotSnakeGrass_CardName,Snake Grass Crop Plot,Uprawa trawy wężowej
+CropPlotSnakeGrass_CardName,Snake Grass Crop Plot,Uprawa wetiwerii
 CropPlotSnakeGrass_CardDescription,I should keep it hydrated and wait for it to grow.,"Aby rośliny dobrze wyrosły, potrzebują regularnego nawadniania i czasu."
 CropPlotSnakeGrass_SpoilageTime.CardStatName,Fertilizer,Nawóz
 CropPlotSnakeGrass_UsageDurability.CardStatName,Health,Zdrowie
@@ -781,7 +781,7 @@ CropPlotSnakeGrass_CardInteractions[0].ActionName,Water,Podlej
 CropPlotSnakeGrass_CardInteractions[1].ActionName,Fertilize,Dodaj nawozu
 CropPlotSnakeGrass_CardInteractions[2].ActionName,Fertilize,Dodaj nawozu
 CropPlotSnakeGrass_DismantleActions[0].ActionName,Destroy,Zniszcz
-CropPlotSpiderLily_CardName,Spider Lily Crop Plot,Uprawa pajęczych lilii
+CropPlotSpiderLily_CardName,Spider Lily Crop Plot,Uprawa lilii pajęczych
 CropPlotSpiderLily_CardDescription,I should keep it hydrated and wait for it to grow.,"Aby rośliny dobrze wyrosły, potrzebują regularnego nawadniania i czasu."
 CropPlotSpiderLily_SpoilageTime.CardStatName,Fertilizer,Nawóz
 CropPlotSpiderLily_UsageDurability.CardStatName,Health,Zdrowie
@@ -926,15 +926,15 @@ AlembicOn_DismantleActions[1].ActionName,Extinguish Fire,Zgaś ogień
 AlembicOn_DismantleActions[2].ActionName,Pick Up,Podnieś
 AlembicOn_CookingRecipes[0].ActionName,Continue Water,Kontynuuj gotowanie wody
 AlembicOn_CookingRecipes[1].ActionName,Start Water,Rozpocznij gotowanie wody
-AlembicOn_CookingRecipes[2].ActionName,Start Aqua Fortis,Rozpocznij wytwarzanie Aqua Fortis
-AlembicOn_CookingRecipes[3].ActionName,Continue Aqua Fortis,Kontynuuj wytwarzanie Aqua Fortis
+AlembicOn_CookingRecipes[2].ActionName,Start Aqua Fortis,Rozpocznij wytwarzanie kwasu azotowego
+AlembicOn_CookingRecipes[3].ActionName,Continue Aqua Fortis,Kontynuuj wytwarzanie kwasu azotowego
 Campfire_CardName,Campfire,Ognisko
 Campfire_CardDescription,Perfect for cooking food and warming yourself up.,Idealne do gotowania i ogrzania się.
 Campfire_CardInteractions[0].ActionName,Feed Coconut,Dorzuć skorupę kokosa
 Campfire_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
 Campfire_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 Campfire_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewnego
-Campfire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
+Campfire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć wetiwerię
 Campfire_CardInteractions[5].ActionName,Light Tinder,Zapal podpałkę
 Campfire_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 Campfire_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
@@ -966,7 +966,7 @@ Campfire_CookingRecipes[16].ActionName,Drunken Crab,Pijany krab
 Campfire_CookingRecipes[17].ActionName,Coconut Fish,Ryba kokosowa
 Campfire_CookingRecipes[18].ActionName,Coconut Meat,Miąższ kokosa
 Campfire_CookingRecipes[19].ActionName,Coffee,Kawa
-Campfire_CookingRecipes[20].ActionName,Conch Meat,Mięso ślimaka morskiego
+Campfire_CookingRecipes[20].ActionName,Conch Meat,Mięso ślimaka
 Campfire_CookingRecipes[21].ActionName,Cook Jerrycan,Gotuj kanister
 Campfire_CookingRecipes[22].ActionName,Crab,Krab
 Campfire_CookingRecipes[23].ActionName,Dry Mud,Wysusz błoto
@@ -1009,7 +1009,7 @@ Campfire_CookingRecipes[59].ActionName,Scrappy Soup,Zupa z resztek
 Campfire_CookingRecipes[60].ActionName,Shark,Rekin
 Campfire_CookingRecipes[61].ActionName,Seahound,Morski Ogar
 Campfire_CookingRecipes[62].ActionName,Snake,Wąż
-Campfire_CookingRecipes[63].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+Campfire_CookingRecipes[63].ActionName,Soft Conch Meat,Zmiękczony ślimak
 Campfire_CookingRecipes[64].ActionName,Threadfin,Wiciak
 Campfire_CookingRecipes[65].ActionName,Tropical Almonds,Migdały tropikalne
 Campfire_CookingRecipes[66].ActionName,Urchin,Jeżowiec
@@ -1035,7 +1035,7 @@ ClayFirePit_CardInteractions[0].ActionName,Feed Coconut,Dorzuć skorupę kokosa
 ClayFirePit_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
 ClayFirePit_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 ClayFirePit_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewnego
-ClayFirePit_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
+ClayFirePit_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć wetiwerię
 ClayFirePit_CardInteractions[5].ActionName,Light Tinder,Zapal podpałkę
 ClayFirePit_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 ClayFirePit_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
@@ -1064,7 +1064,7 @@ ClayFirePit_CookingRecipes[15].ActionName,Drunken Crab,Pijany krab
 ClayFirePit_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
 ClayFirePit_CookingRecipes[17].ActionName,Coconut Meat,Miąższ kokosa
 ClayFirePit_CookingRecipes[18].ActionName,Coffee,Kawa
-ClayFirePit_CookingRecipes[19].ActionName,Conch Meat,Mięso ślimaka morskiego
+ClayFirePit_CookingRecipes[19].ActionName,Conch Meat,Mięso ślimaka
 ClayFirePit_CookingRecipes[20].ActionName,Cook Jerrycan,Gotuj kanister
 ClayFirePit_CookingRecipes[21].ActionName,Crab,Krab
 ClayFirePit_CookingRecipes[22].ActionName,Dry Mud,Wysusz błoto
@@ -1107,7 +1107,7 @@ ClayFirePit_CookingRecipes[58].ActionName,Scrappy Soup,Zupa z resztek
 ClayFirePit_CookingRecipes[59].ActionName,Shark,Rekin
 ClayFirePit_CookingRecipes[60].ActionName,Seahound,Morski Ogar
 ClayFirePit_CookingRecipes[61].ActionName,Snake,Wąż
-ClayFirePit_CookingRecipes[62].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+ClayFirePit_CookingRecipes[62].ActionName,Soft Conch Meat,Zmiękczony ślimak
 ClayFirePit_CookingRecipes[63].ActionName,Threadfin,Wiciak
 ClayFirePit_CookingRecipes[64].ActionName,Tropical Almonds,Migdały tropikalne
 ClayFirePit_CookingRecipes[65].ActionName,Urchin,Jeżowiec
@@ -1131,7 +1131,7 @@ Fire_CardInteractions[0].ActionName,Feed Coconut,Dorzuć skorupę kokosa
 Fire_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
 Fire_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
 Fire_CardInteractions[3].ActionName,Feed Charcoal,Dorzuć węgla drzewnego
-Fire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć trawy wężowej
+Fire_CardInteractions[4].ActionName,Feed Snakegrass,Dorzuć wetiwerię
 Fire_CardInteractions[5].ActionName,Light Tinder,Zapal podpałkę
 Fire_CardInteractions[6].ActionName,Feed Leaves,Dorzuć liści
 Fire_CardInteractions[7].ActionName,Make Rustic Spear,Zrób dzidę
@@ -1161,7 +1161,7 @@ Fire_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
 Fire_CookingRecipes[17].ActionName,Drunken Crab,Pijany krab
 Fire_CookingRecipes[18].ActionName,Coconut Meat,Miąższ kokosa
 Fire_CookingRecipes[19].ActionName,Coffee,Kawa
-Fire_CookingRecipes[20].ActionName,Conch Meat,Mięso ślimaka morskiego
+Fire_CookingRecipes[20].ActionName,Conch Meat,Mięso ślimaka
 Fire_CookingRecipes[21].ActionName,Cook Jerrycan,Gotuj kanister
 Fire_CookingRecipes[22].ActionName,Crab,Krab
 Fire_CookingRecipes[23].ActionName,Dry Mud,Wysusz błoto
@@ -1204,7 +1204,7 @@ Fire_CookingRecipes[59].ActionName,Scrappy Soup,Zupa z resztek
 Fire_CookingRecipes[60].ActionName,Shark,Rekin
 Fire_CookingRecipes[61].ActionName,Seahound,Morski Ogar
 Fire_CookingRecipes[62].ActionName,Snake,Wąż
-Fire_CookingRecipes[63].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+Fire_CookingRecipes[63].ActionName,Soft Conch Meat,Zmiękczony ślimak
 Fire_CookingRecipes[64].ActionName,Threadfin,Wiciak
 Fire_CookingRecipes[65].ActionName,Tropical Almonds,Migdały tropikalne
 Fire_CookingRecipes[66].ActionName,Urchin,Jeżowiec
@@ -1285,7 +1285,7 @@ GasCookerOn_CookingRecipes[15].ActionName,Drunken Crab,Pijany krab
 GasCookerOn_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
 GasCookerOn_CookingRecipes[17].ActionName,Coconut Meat,Miąższ kokosa
 GasCookerOn_CookingRecipes[18].ActionName,Coffee,Kawa
-GasCookerOn_CookingRecipes[19].ActionName,Conch Meat,Mięso ślimaka morskiego
+GasCookerOn_CookingRecipes[19].ActionName,Conch Meat,Mięso ślimaka
 GasCookerOn_CookingRecipes[20].ActionName,Cook Jerrycan,Gotuj kanister
 GasCookerOn_CookingRecipes[21].ActionName,Crab,Krab
 GasCookerOn_CookingRecipes[22].ActionName,Dry Mud,Wysusz błoto
@@ -1328,7 +1328,7 @@ GasCookerOn_CookingRecipes[58].ActionName,Scrappy Soup,Zupa z resztek
 GasCookerOn_CookingRecipes[59].ActionName,Shark,Rekin
 GasCookerOn_CookingRecipes[60].ActionName,Seahound,Morski Ogar
 GasCookerOn_CookingRecipes[61].ActionName,Snake,Wąż
-GasCookerOn_CookingRecipes[62].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+GasCookerOn_CookingRecipes[62].ActionName,Soft Conch Meat,Zmiękczony ślimak
 GasCookerOn_CookingRecipes[63].ActionName,Stone,Kamień
 GasCookerOn_CookingRecipes[64].ActionName,Threadfin,Wiciak
 GasCookerOn_CookingRecipes[65].ActionName,Tropical Almonds,Migdały tropikalne
@@ -1491,7 +1491,7 @@ Stove_CookingRecipes[19].ActionName,Drunken Crab,Pijany krab
 Stove_CookingRecipes[20].ActionName,Coconut Fish,Ryba kokosowa
 Stove_CookingRecipes[21].ActionName,Coconut Meat,Miąższ kokosa
 Stove_CookingRecipes[22].ActionName,Coffee,Kawa
-Stove_CookingRecipes[23].ActionName,Conch Meat,Mięso ślimaka morskiego
+Stove_CookingRecipes[23].ActionName,Conch Meat,Mięso ślimaka
 Stove_CookingRecipes[24].ActionName,Cook Jerrycan,Gotuj kanister
 Stove_CookingRecipes[25].ActionName,Crab,Krab
 Stove_CookingRecipes[26].ActionName,Egg,Jajko
@@ -1546,7 +1546,7 @@ Stove_CookingRecipes[68].ActionName,Shark,Rekin
 Stove_CookingRecipes[69].ActionName,Shark Smoked,Wędzony rekin
 Stove_CookingRecipes[70].ActionName,Seahound,Morski Ogar
 Stove_CookingRecipes[71].ActionName,Snake,Wąż
-Stove_CookingRecipes[72].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+Stove_CookingRecipes[72].ActionName,Soft Conch Meat,Zmiękczony ślimak
 Stove_CookingRecipes[73].ActionName,Threadfin,Wiciak
 Stove_CookingRecipes[74].ActionName,Threadfin Smoked,Wędzony wiciak
 Stove_CookingRecipes[74].CustomCookingText,Smoked in {0},Wędzono przez {0}
@@ -1560,7 +1560,7 @@ Stove_CookingRecipes[80].ActionName,Dry Chilies,Susz papryczki chili
 Stove_CookingRecipes[80].CustomCookingText,Drying...,Suszenie...
 Stove_CookingRecipes[81].ActionName,Dry Ginger,Susz imbir
 Stove_CookingRecipes[81].CustomCookingText,Drying...,Suszenie...
-Stove_CookingRecipes[82].ActionName,Dry Spider Lily,Susz pajęcze lilie
+Stove_CookingRecipes[82].ActionName,Dry Spider Lily,Susz lilie pajęcze
 Stove_CookingRecipes[82].CustomCookingText,Drying...,Suszenie...
 StoveExtinguished_CardName,Stove,Kuchenka
 StoveExtinguished_CardDescription,I should be able to light it with some lit tinder.,Można ją rozpalić rozżarzoną podpałką.
@@ -1662,8 +1662,8 @@ DryingRack_CardName,Drying Rack,Stojak do suszenia
 DryingRack_CardDescription,I can hang vegetables and meat to dry here.,Można tu suszyć warzywa i mięso.
 DryingRack_DismantleActions[0].ActionName,Dissasemble,Rozmontuj
 DryingRack_CookingRecipes[0].ActionName,Chilli,Papryka chili
-DryingRack_CookingRecipes[1].ActionName,Spider Lily,Pajęcza lilia
-DryingRack_CookingRecipes[2].ActionName,Kava,Kava
+DryingRack_CookingRecipes[1].ActionName,Spider Lily,Lilia pajęcza
+DryingRack_CookingRecipes[2].ActionName,Kava,Pieprz metystynowy
 DryingRack_CookingRecipes[3].ActionName,Ginger,Imbir
 DryingRack_CookingRecipes[4].ActionName,Cinchona Bark,Kora chinowca
 DryingRack_CookingRecipes[5].ActionName,Fish,Ryba
@@ -1732,14 +1732,14 @@ LoomEmpty_CardInteractions[2].ActionName,Unweave Cloth,Rozpleć tkaninę
 LoomEmpty_CardInteractions[3].ActionName,Unweave Cloth,Rozpleć tkaninę
 LoomEmpty_DismantleActions[0].ActionName,Disassemble Loom,Rozmontuj krosno
 MudPile_CardName,Mud Pile,Kupka błota
-MudPile_CardDescription,"Could mix it with temper to make a brick. Sand, crushed seashells or ash should work.","Można wymieszać z usztywniaczem, aby uzyskać cegłę. Piasek, pokruszone muszle lub popiół powinny się nadać."
+MudPile_CardDescription,"Could mix it with temper to make a brick. Sand, crushed seashells or ash should work.","Można ją wymieszać z utwardzaczem, aby uzyskać cegłę. Piasek, pokruszone muszle lub popiół powinny się nadać."
 MudPile_SpoilageTime.OnZero.ActionDescription,Mud dried up!,Błoto wyschło!
 MudPile_CardInteractions[0].ActionName,Make a Mud Brick,Zrób błotną cegłę
 MudPile_CardInteractions[1].ActionName,Make Clay,Zrób glinę
 MudPile_DismantleActions[0].ActionName,Make Clay,Zrób glinę
 MudPile_DismantleActions[1].ActionName,Apply to Body,Nałóż na ciało
 ParachuteDeployed_CardName,Deployed Parachute,Zniszczony spadochron
-ParachuteDeployed_CardDescription,"My parachute, perhaps I can find some use for it.","Resztki mojego spadochronu, może da się go jeszcze jakoś wykorzystać."
+ParachuteDeployed_CardDescription,"My parachute, perhaps I can find some use for it.","Resztki mojego spadochronu, może da się go jeszcze do czegoś wykorzystać."
 ParachuteDeployed_CardInteractions[0].ActionName,Cut plastic sheet,Wytnij plastikową płachtę
 PartridgeFeeder_CardName,Partridge Feeder,Karmnik dla kuropatw
 PartridgeFeeder_CardDescription,A device to feed partridges with minimal work.,Urządzenie do karmienia kuropatw przy minimalnym wysiłku.
@@ -1804,8 +1804,8 @@ Smoker_CardInteractions[8].ActionName,Cook Grouper,Upiecz granika
 Smoker_CardInteractions[9].ActionName,Cook Boar Meat,Upiecz mięso dzika
 Smoker_CardInteractions[10].ActionName,Cook Bonefish,Upiecz albulę
 Smoker_CardInteractions[11].ActionName,Cook Crab,Upiecz kraba
-Smoker_CardInteractions[12].ActionName,Cook Conch Meat,Upiecz ślimaka morskiego
-Smoker_CardInteractions[13].ActionName,Cook Soft Conch Meat,Upiecz zmiękczonego ślimaka morskiego
+Smoker_CardInteractions[12].ActionName,Cook Conch Meat,Upiecz ślimaka
+Smoker_CardInteractions[13].ActionName,Cook Soft Conch Meat,Upiecz zmiękczonego ślimaka
 Smoker_CardInteractions[14].ActionName,Cook Clay Bowl,Wypal glinianą miskę
 Smoker_CardInteractions[15].ActionName,Cook Clay Vase,Wypal glinianą wazę
 Smoker_CardInteractions[16].ActionName,Cook Parrot Fish,Upiecz papugorybę
@@ -1819,8 +1819,8 @@ Smoker_CardInteractions[23].ActionName,Make Lye,Zrób ług
 Smoker_DismantleActions[0].ActionName,Take Embers,Zbierz żar
 Smoker_DismantleActions[1].ActionName,Extinguish Fire,Zgaś ogień
 Smoker_DismantleActions[2].ActionName,Remove Smoker,Zabierz wędzarkę
-Smoker_CookingRecipes[0].ActionName,Conch Meat,Mięso ślimaka morskiego
-Smoker_CookingRecipes[1].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+Smoker_CookingRecipes[0].ActionName,Conch Meat,Mięso ślimaka
+Smoker_CookingRecipes[1].ActionName,Soft Conch Meat,Zmiękczony ślimak
 Smoker_CookingRecipes[2].ActionName,Crab,Krab
 Smoker_CookingRecipes[3].ActionName,Boar,Dzik
 Smoker_CookingRecipes[4].ActionName,Boar Smoked,Wędzony dzik
@@ -1889,8 +1889,8 @@ SmokerPlastic_CardInteractions[8].ActionName,Cook Grouper,Upiecz granika
 SmokerPlastic_CardInteractions[9].ActionName,Cook Boar Meat,Upiecz mięso dzika
 SmokerPlastic_CardInteractions[10].ActionName,Cook Bonefish,Upiecz albulę
 SmokerPlastic_CardInteractions[11].ActionName,Cook Crab,Upiecz kraba
-SmokerPlastic_CardInteractions[12].ActionName,Cook Conch Meat,Upiecz ślimaka morskiego
-SmokerPlastic_CardInteractions[13].ActionName,Cook Soft Conch Meat,Upiecz zmiękczonego ślimaka morskiego
+SmokerPlastic_CardInteractions[12].ActionName,Cook Conch Meat,Upiecz ślimaka
+SmokerPlastic_CardInteractions[13].ActionName,Cook Soft Conch Meat,Upiecz zmiękczonego ślimaka
 SmokerPlastic_CardInteractions[14].ActionName,Cook Clay Bowl,Wypal glinianą miskę
 SmokerPlastic_CardInteractions[15].ActionName,Cook Clay Vase,Wypal glinianą wazę
 SmokerPlastic_CardInteractions[16].ActionName,Cook Parrot Fish,Upiecz papugorybę
@@ -1900,8 +1900,8 @@ SmokerPlastic_CardInteractions[19].ActionName,Feed Palm Leaves to the Fire,Dorzu
 SmokerPlastic_DismantleActions[0].ActionName,Take Embers,Zbierz żar
 SmokerPlastic_DismantleActions[1].ActionName,Extinguish Fire,Zgaś ogień
 SmokerPlastic_DismantleActions[2].ActionName,Remove Smoker,Zabierz wędzarkę
-SmokerPlastic_CookingRecipes[0].ActionName,Conch Meat,Mięso ślimaka morskiego
-SmokerPlastic_CookingRecipes[1].ActionName,Soft Conch Meat,Zmiękczony ślimak morski
+SmokerPlastic_CookingRecipes[0].ActionName,Conch Meat,Mięso ślimaka
+SmokerPlastic_CookingRecipes[1].ActionName,Soft Conch Meat,Zmiękczony ślimak
 SmokerPlastic_CookingRecipes[2].ActionName,Crab,Krab
 SmokerPlastic_CookingRecipes[3].ActionName,Boar,Dzik
 SmokerPlastic_CookingRecipes[4].ActionName,Boar Smoked,Wędzony dzik
@@ -1971,7 +1971,7 @@ Bp_ButterBakedOysters_CardName,Butter Baked Oysters,Ostrygi pieczone w maśle
 Bp_ButterBakedOysters_CardDescription,Wow!,Wow!
 Bp_ButterBakedOysters_UnlockConditionsDesc,More Cooking Needed,Wymagane wyższe Gotowanie
 Bp_CandiedGinger_CardName,Candied Ginger,Imbir kandyzowany
-Bp_CandiedGinger_CardDescription,Tasty and durable.,Pyszne i wolno się psują.
+Bp_CandiedGinger_CardDescription,Tasty and durable.,Pyszny i wolno się psuje.
 Bp_CandiedGinger_UnlockConditionsDesc,More Cooking Needed,Wymagane wyższe Gotowanie
 Bp_Cheese_CardName,Cheese,Ser
 Bp_Cheese_CardDescription,Can turn milk into tasty cheese.,Zamienia mleko w smaczny ser.
@@ -2479,9 +2479,9 @@ Bp_SeashellNecklace_BlueprintFinishedLog.LogText,I made a seashell necklace.,Wyk
 Bp_SharkHeadpiece_CardName,Shark Headpiece,Korona z paszczy rekina
 Bp_SharkHeadpiece_CardDescription,A headpiece containing the spirit of a shark. It will make me stronger in combat.,"Korona, w której żyje duch rekina. Powinna pomóc mi w walce."
 Bp_SharkHeadpiece_BlueprintFinishedLog.LogText,I crafted a shark headpiece.,Wykonano koronę z paszczy rekina.
-Bp_SharpenedStone_CardName,Sharpened Stone,Zaostrzony kamień
+Bp_SharpenedStone_CardName,Sharpened Stone,Naostrzony kamień
 Bp_SharpenedStone_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","Przydatne narzędzie. Można go użyć na długim kiju, aby zrobić dzidę lub połączyć z drewnem, aby uzyskać siekierę."
-Bp_SharpenedStone_BlueprintFinishedLog.LogText,I made a sharpened stone.,Wykonano zaostrzony kamień.
+Bp_SharpenedStone_BlueprintFinishedLog.LogText,I made a sharpened stone.,Wykonano naostrzony kamień.
 Bp_Shed_CardName,Shed,Duży szałas
 Bp_Shed_CardDescription,A small shed that should protect me from the weather and serve as a storage space.,"Większy niż zwykły szałas, ochroni mnie przed pogodą i może też posłużyć jako magazyn."
 Bp_Shed_UnlockConditionsDesc,Basket Needed,Wymagany kosz
@@ -4087,7 +4087,7 @@ LeatherPants_DismantleActions[0].ActionName,Dismantle,Rozbierz na części
 LeatherShoes_CardName,Leather Shoes,Skórzane buty
 LeatherShoes_CardDescription,Sturdy leather shoes. Should protect my feet from damage.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,"Solidne, skórzane buty. Powinny dobrze chronić moje stopy.\n\n<b>TRZEBA JE WYPOSAŻYĆ, ABY DAWAŁY EFEKT</b>"
 LeatherShoes_DismantleActions[0].ActionName,Dismantle,Rozbierz na części
-MaskMakeshift_CardName,Makeshift Mask,Improwizowana maska
+MaskMakeshift_CardName,Makeshift Mask,Prowizoryczna maska
 MaskMakeshift_CardDescription,This cloth should help neutralize toxic gases a bit. Specially if I get it wet.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,"Ta tkanina powinna nieco neutralizować toksyczne gazy - zwłaszcza po zwilżeniu.\n\n<b>TRZEBA JĄ WYPOSAŻYĆ, ABY DAWAŁA EFEKT</b>"
 MaskMakeshift_CardInteractions[0].ActionName,Wet,Wilgoć
 MaskMakeshift_DismantleActions[0].ActionName,Recover Cloth,Odzyskaj tkaninę
@@ -4190,8 +4190,8 @@ CoconutFlask_CardInteractions[5].ActionName,Fill with Unsafe Water,Napełnij bru
 CoconutFlask_CardInteractions[6].ActionName,Fill with Salt Water,Napełnij słoną wodą
 CoconutFlask_CardInteractions[7].ActionName,Fill with Lye,Napełnij ługiem
 CoconutFlask_CardInteractions[8].ActionName,Fill with Milk,Napełnij mlekiem
-CoconutFlask_CardInteractions[9].ActionName,Fill with Kava,Napełnij kavą
-CoconutFlask_CardInteractions[10].ActionName,Fill with Spider Lily,Napełnij pajęczą lilią
+CoconutFlask_CardInteractions[9].ActionName,Fill with Kava,Napełnij pieprzowym naparem
+CoconutFlask_CardInteractions[10].ActionName,Fill with Spider Lily,Napełnij liliowym naparem
 CoconutFlask_CardInteractions[11].ActionName,Fill from Container,Napełnij z pojemnika
 CoconutFlask_CardInteractions[12].ActionName,Fill from Container (unsafe),Napełnij z pojemnika (brudna)
 CoconutFlask_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszczówkę
@@ -4760,17 +4760,17 @@ CoffeeBerryPulp_DismantleActions[0].ActionName,Eat,Zjedz
 CoffeeRoastedBeans_CardName,Roasted Coffee Beans,Palone ziarna kawy
 CoffeeRoastedBeans_CardDescription,Add hot water and Voila! Coffee!,Zalej gorącą wodą i gotowe! Kawusia!
 CoffeeRoastedBeans_CardInteractions[0].ActionName,Make Coffee,Zaparz kawę
-ConchMeat_CardName,Conch Meat,Mięso ślimaka morskiego
+ConchMeat_CardName,Conch Meat,Mięso ślimaka
 ConchMeat_CardDescription,"Quite rubbery and hard to eat, would taste better after being hammered and cooked.","Dość gumowate i ciężkie do zjedzenia, lepiej by smakowało po rozbiciu i ugotowaniu."
 ConchMeat_CardInteractions[0].ActionName,Soften,Zmiękcz
 ConchMeat_DismantleActions[0].ActionName,Eat,Zjedz
-ConchMeatCooked_CardName,Cooked Conch Meat,Pieczone mięso ślimaka morskiego
+ConchMeatCooked_CardName,Cooked Conch Meat,Pieczone mięso ślimaka
 ConchMeatCooked_CardDescription,Quite rubbery and cooked. Would have tasted better if I had softened its meat before cooking it.,"Dość gumowate, choć ugotowane. Lepiej by smakowało, gdybym mięso zostało zmiękczone przed ugotowaniem."
 ConchMeatCooked_DismantleActions[0].ActionName,Eat,Zjedz
-ConchMeatSoft_CardName,Soft Conch Meat,Zmiękczony ślimak morski
+ConchMeatSoft_CardName,Soft Conch Meat,Zmiękczony ślimak
 ConchMeatSoft_CardDescription,"Not as rubbery as before but still slimy, should cook it for extra nutrition and flavour.","Nie tak gumowate jak wcześniej, ale wciąż śliskie - warto je ugotować, by zyskało więcej smaku i wartości odżywczych."
 ConchMeatSoft_DismantleActions[0].ActionName,Eat,Zjedz
-ConchMeatSoftCooked_CardName,Cooked Soft Conch Meat,Pieczony zmiękczony ślimak morski
+ConchMeatSoftCooked_CardName,Cooked Soft Conch Meat,Pieczony zmiękczony ślimak
 ConchMeatSoftCooked_CardDescription,Tasty mollusk meat.,Smaczne mięso z mięczaka.
 ConchMeatSoftCooked_DismantleActions[0].ActionName,Eat,Zjedz
 Crab_CardName,Crab,Krab
@@ -4835,17 +4835,17 @@ GastricPellet_CardDescription,"A disgusting ball of hair, bones and god knows wh
 GastricPellet_DismantleActions[0].ActionName,Harvest,Zbierz
 GastricPellet_DismantleActions[0].ActionDescription,Yuck...,Bleee...
 Ginger_CardName,Ginger,Imbir
-Ginger_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można rozdrobnić i zaparzyć - wzmocni odporność i pomoże na problemy żołądkowe.
+Ginger_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można go rozdrobnić i zaparzyć. Wzmacnia odporność i pomoże na problemy żołądkowe.
 Ginger_Progress.OnFull.ActionDescription,Ginger dried up!,Imbir się ususzył!
 Ginger_CardInteractions[0].ActionName,Grind Root,Zmiel korzeń
 Ginger_DismantleActions[0].ActionName,Eat,Zjedz
 GingerDried_CardName,Dried Ginger,Suszony imbir
-GingerDried_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można rozdrobnić i zaparzyć - wzmocni odporność i pomoże na problemy żołądkowe.
+GingerDried_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można go rozdrobnić i zaparzyć. Wzmacnia odporność i pomoże na problemy żołądkowe.
 GingerDried_Progress.OnFull.ActionDescription,Ginger dried up!,Imbir się ususzył!
 GingerDried_CardInteractions[0].ActionName,Grind Root,Zmiel korzeń
 GingerDried_DismantleActions[0].ActionName,Eat,Zjedz
 GingerGround_CardName,Ground Ginger,Mielony imbir
-GingerGround_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można rozdrobnić i zaparzyć - wzmocni odporność i pomoże na problemy żołądkowe.
+GingerGround_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można go rozdrobnić i zaparzyć. Wzmacnia odporność i pomoże na problemy żołądkowe.
 GingerGround_CardInteractions[0].ActionName,Soak,Namocz
 GingerGround_DismantleActions[0].ActionName,Eat,Zjedz
 Goatfish_CardName,Goatfish,Barwena
@@ -4923,17 +4923,17 @@ JasmineFlowersGround_DismantleActions[0].ActionName,Eat,Zjedz
 JujubeFruits_CardName,Jujube Fruits,Owoce jujuby
 JujubeFruits_CardDescription,Sweet and acidic.,Słodkie i kwaskowate.
 JujubeFruits_DismantleActions[0].ActionName,Eat,Zjedz
-KavaRoot_CardName,Kava Root,Korzeń kavy
+KavaRoot_CardName,Kava Root,Korzeń pieprzu
 KavaRoot_CardDescription,Can be ground and soaked in water to make a soothing brew that should improve my mood as well as help against pain and fever.,Można go rozdrobnić i namoczyć w wodzie - powstanie kojący napar poprawiający nastrój oraz łagodzący ból i gorączkę.
-KavaRoot_Progress.OnFull.ActionDescription,Kava Roots dried up!,Korzenie kavy się ususzyły!
+KavaRoot_Progress.OnFull.ActionDescription,Kava Roots dried up!,Korzenie pieprzu się ususzyły!
 KavaRoot_CardInteractions[0].ActionName,Grind Root,Zmiel korzeń
 KavaRoot_DismantleActions[0].ActionName,Eat Root,Zjedz korzeń
-KavaRootDried_CardName,Dried Kava Root,Suszony korzeń kavy
+KavaRootDried_CardName,Dried Kava Root,Suszony korzeń pieprzu
 KavaRootDried_CardDescription,Can be ground and soaked in water to make a soothing brew that should improve my mood as well as help against pain and fever.,Można go rozdrobnić i namoczyć w wodzie - powstanie kojący napar poprawiający nastrój oraz łagodzący ból i gorączkę.
-KavaRootDried_Progress.OnFull.ActionDescription,Kava Roots dried up!,Korzenie kavy się ususzyły!
+KavaRootDried_Progress.OnFull.ActionDescription,Kava Roots dried up!,Korzenie pieprzu się ususzyły!
 KavaRootDried_CardInteractions[0].ActionName,Grind Root,Zmiel korzeń
 KavaRootDried_DismantleActions[0].ActionName,Eat Root,Zjedz korzeń
-KavaRootGround_CardName,Ground Kava Root,Mielony korzeń kavy
+KavaRootGround_CardName,Ground Kava Root,Mielony korzeń pieprzu
 KavaRootGround_CardDescription,Can be mixed with water for a soothing brew that should improve my mood as well as help against pain and fever.,"Można wymieszać z wodą, by przygotować kojący napar poprawiający nastrój i łagodzący ból oraz gorączkę."
 KavaRootGround_CardInteractions[0].ActionName,Soak,Namocz
 KavaRootGround_DismantleActions[0].ActionName,Eat Ground Root,Zjedz mielony korzeń
@@ -5176,8 +5176,8 @@ SagoFlour_DismantleActions[0].ActionName,Eat,Zjedz
 SagoPulp_CardName,Sago Pulp,Miazga z sago
 SagoPulp_CardDescription,I should let it dry to get flour.,"Trzeba dać jej wyschnąć, aby uzyskać mąkę."
 SagoPulp_DismantleActions[0].ActionName,Eat,Zjedz
-SagoSawdust_CardName,Sago Sawdust,Pył z sago
-SagoSawdust_CardDescription,"I should soak it, grind it and dry it to turn it into flour.","Trzeba to namoczyć, zmielić i wysuszyć, aby uzyskać mąkę."
+SagoSawdust_CardName,Sago Sawdust,Trociny sago
+SagoSawdust_CardDescription,"I should soak it, grind it and dry it to turn it into flour.","Trzeba je namoczyć, zmielić i wysuszyć, aby uzyskać mąkę."
 SagoSawdust_CardInteractions[0].ActionName,Soak,Namocz
 SagoSawdust_DismantleActions[0].ActionName,Eat,Zjedz
 SeagullCarcass_CardName,Seagull Carcass,Truchło mewy
@@ -5229,24 +5229,24 @@ SharkSmoked_DismantleActions[0].ActionName,Eat,Zjedz
 SnakeCooked_CardName,Cooked Snake Meat,Pieczony wąż
 SnakeCooked_CardDescription,It's fine.,Nie najgorsze.
 SnakeCooked_DismantleActions[0].ActionName,Eat,Zjedz
-SnakeGrassGround_CardName,Ground Snake Grass,Mielona trawa wężowa
+SnakeGrassGround_CardName,Ground Snake Grass,Mielona wetiweria
 SnakeGrassGround_CardDescription,Bugs don't like it.,Owady jej nie znoszą.
 SnakeGrassGround_DismantleActions[0].ActionName,Eat,Zjedz
 SnakeSkinned_CardName,Skinned Snake,Oskórowany wąż
 SnakeSkinned_CardDescription,Should probably cook it.,Lepiej to najpierw ugotować.
 SnakeSkinned_DismantleActions[0].ActionName,Eat,Zjedz
-SpiderLilyGround_CardName,Ground Spider Lily,Mielona pajęcza lilia
+SpiderLilyGround_CardName,Ground Spider Lily,Mielona lilia pajęcza
 SpiderLilyGround_CardDescription,Can be boiled for an antibiotic decoction.,"Zalej wrzątkiem, żeby uzyskać napar antybiotykowy."
 SpiderLilyGround_CardInteractions[0].ActionName,Soak,Namocz
 SpiderLilyGround_DismantleActions[0].ActionName,Eat,Zjedz
-SpiderLilyLeaves_CardName,Spider Lily Leaves,Liście pajęczej lilii
+SpiderLilyLeaves_CardName,Spider Lily Leaves,Liście lilii pajęczej
 SpiderLilyLeaves_CardDescription,Can be ground and boiled for an antibiotic decoction.,Można zmielić i zagotować na napar antybiotykowy.
-SpiderLilyLeaves_Progress.OnFull.ActionDescription,Spider Lily Leaves dried up,Liście pajęczej lilii się ususzyły
+SpiderLilyLeaves_Progress.OnFull.ActionDescription,Spider Lily Leaves dried up,Liście lilii pajęczej się ususzyły
 SpiderLilyLeaves_CardInteractions[0].ActionName,Grind Leaves,Zmiel liście
 SpiderLilyLeaves_DismantleActions[0].ActionName,Eat,Zjedz
-SpiderLilyLeavesDried_CardName,Dried Spider Lily Leaves,Suszone liście pajęczej lilii
+SpiderLilyLeavesDried_CardName,Dried Spider Lily Leaves,Suszone liście lilii pajęczej
 SpiderLilyLeavesDried_CardDescription,Can be ground and boiled for an antibiotic decoction.,Można zmielić i zagotować na napar antybiotykowy.
-SpiderLilyLeavesDried_Progress.OnFull.ActionDescription,Spider Lily Leaves dried up,Liście pajęczej lilii się ususzyły
+SpiderLilyLeavesDried_Progress.OnFull.ActionDescription,Spider Lily Leaves dried up,Liście lilii pajęczej się ususzyły
 SpiderLilyLeavesDried_CardInteractions[0].ActionName,Grind Leaves,Zmiel liście
 SpiderLilyLeavesDried_DismantleActions[0].ActionName,Eat,Zjedz
 Sugar_CardName,Sugar,Cukier
@@ -5622,7 +5622,7 @@ SpindleFiber_DismantleActions[0].ActionName,Get Cord,Skręć sznurek
 SpindleFiber_DismantleActions[1].ActionName,Get Yarn,Zrób przędzę
 StoneAxe_CardName,Stone Axe,Kamienna siekiera
 StoneAxe_CardDescription,I can get wood with this.,Tym mogę zdobyć drewno.
-StoneSharpened_CardName,Sharpened Stone,Zaostrzony kamień
+StoneSharpened_CardName,Sharpened Stone,Naostrzony kamień
 StoneSharpened_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","Przydatne narzędzie. Można go użyć na długim kiju, aby zrobić dzidę lub połączyć z drewnem, aby uzyskać siekierę."
 TorchOff_CardName,Torch,Pochodnia
 TorchOff_CardDescription,A portable source of light.,Przenośne źródło światła.
@@ -6040,7 +6040,7 @@ W_UrchinWoundSpines_DismantleActions[0].ActionName,Remove Spines,Wyjmij kolce
 ArrowSimple_CardName,Simple Arrow,Prosta strzała
 ArrowSimple_CardDescription,Could shoot it with a bow.,Można nią strzelić z łuku.
 Ash_CardName,Ash,Popiół
-Ash_CardDescription,Could use it to temper clay or mud.,Można go użyć jako usztywniacz do błota lub gliny.
+Ash_CardDescription,Could use it to temper clay or mud.,Można go użyć jako utwardzacz do błota lub gliny.
 Ash_CardInteractions[0].ActionName,Soak,Namocz
 AshDressing_CardName,Ash Dressing,Opatrunek z popiołu
 AshDressing_CardDescription,"Sterile wound dressing, should help protect wounds from infection and help them heal faster.\n","Sterylny opatrunek, chroni rany przed zakażeniem i przyspiesza gojenie.\n"
@@ -6083,8 +6083,8 @@ BoarSkinned_CardInteractions[1].ActionName,Butcher,Opraw
 BoarSkinned_CardInteractions[1].ActionLog.LogText,I butchered the boar.,Dzik oprawiony.
 BoneNeedle_CardName,Bone Needle,Kościana igła
 BoneNeedle_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
-BoneNeedle_CardInteractions[0].ActionName,Thread,Nić
-BoneNeedleThreaded_CardName,Threaded Needle,Igła z nicią
+BoneNeedle_CardInteractions[0].ActionName,Thread,Nawlecz
+BoneNeedleThreaded_CardName,Threaded Needle,Nawleczona igła
 BoneNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
 BoneNeedleThreaded_DismantleActions[0].ActionName,Remove Cord,Zabierz sznurek
 Bones_CardName,Bones,Kości
@@ -6094,7 +6094,7 @@ BonesBird_CardName,Bird Bones,Ptasie kości
 BonesBird_CardDescription,Useful to craft hooks or needles.,Przydatne do robienia haczyków lub igieł.
 BonesBird_DismantleActions[0].ActionName,Craft Hook,Zrób haczyk
 BonesBird_DismantleActions[1].ActionName,Craft Needle,Zrób igłę
-BoneSplinters_CardName,Bone Splinters,Kościane drzazgi
+BoneSplinters_CardName,Bone Splinters,Odłamki kości
 BoneSplinters_CardDescription,Useful to craft hooks or needles.,Przydatne do robienia haczyków lub igieł.
 BoneSplinters_CardInteractions[0].ActionName,Ground,Rozdrobnij
 BoneSplinters_DismantleActions[0].ActionName,Craft Hook,Zrób haczyk
@@ -6138,7 +6138,7 @@ Cloth_DismantleActions[2].ActionName,Craft Foot Wrappings,Zrób onuce
 Cloth_DismantleActions[3].ActionName,Craft Hand Wrappings,Uszyj osłonę na dłonie
 ClothLarge_CardName,Large Cloth,Duży płat tkaniny
 ClothLarge_CardDescription,"A piece of cloth, I could make myself clothes with it. Or make it larger by combining it with more cloth on a loom.",Kawałek tkaniny - mogę uszyć z niego ubranie albo powiększyć go z użyciem krosna.
-ClothLarge_DismantleActions[0].ActionName,Makeshift Mask,Improwizowana maska
+ClothLarge_DismantleActions[0].ActionName,Makeshift Mask,Prowizoryczna maska
 ClothLarge_DismantleActions[1].ActionName,Rip Cloth,Rozedrzyj tkaninę
 ClothSmall_CardName,Small Cloth,Mały kawałek tkaniny
 ClothSmall_CardDescription,"A small piece of cloth, I could make it larger by combining it with more cloth on a loom.",Mały kawałek tkaniny - można go powiększyć z użyciem krosna.
@@ -6169,11 +6169,11 @@ CoconutPerforated_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszczówk
 CoconutRotten_CardName,Rotten Coconut,Zgniły kokos
 CoconutRotten_CardDescription,This has gone bad.,Zepsuł się.
 CoconutRotten_CardInteractions[0].ActionName,Crack open,Rozbij
-Conch_CardName,Conch,Ślimak morski
-Conch_CardDescription,I need to get the animal from inside.,Trzeba wydobyć zwierzę ze środka.
+Conch_CardName,Conch,Ślimak
+Conch_CardDescription,I need to get the animal from inside.,Trzeba wydobyć go jakoś ze środka.
 Conch_CardInteractions[0].ActionName,Break Conch,Rozbij muszlę
 ConchBroken_CardName,Crushed Conch,Odłamki muszli
-ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,"Można ich użyć jako usztywniacz albo spalić je w piecu, by uzyskać wapno."
+ConchBroken_CardDescription,Can be used as temper or burned inside the Kiln to get  quicklime.,"Można ich użyć jako utwardzacza albo spalić je w piecu, by uzyskać wapno."
 Copper_CardName,Copper,Miedź
 Copper_CardDescription,Ready to be cast in molds to make tools.,Gotowa do wlania w formy i przetworzenia na narzędzia.
 CopperOre_CardName,Copper Ore,Ruda miedzi
@@ -6330,7 +6330,7 @@ Oyster_CardDescription,It might contain something nice inside.,Może skrywać co
 Oyster_CardInteractions[0].ActionName,Open,Otwórz
 Oyster_CardInteractions[0].ActionLog.LogText,I sharpened a stone to use it as a tool.,Kamień naostrzony - teraz mogę go użyć jako nóż.
 PalmBushSeeds_CardName,Palm Bush Seeds,Nasiona krzewu palmowego
-PalmBushSeeds_CardDescription,I don't think these are edible.,To chyba niejadalne.
+PalmBushSeeds_CardDescription,I don't think these are edible.,Chyba nie są jadalne.
 PalmFronds_CardName,Palm Fronds,Liście palmowe
 PalmFronds_CardDescription,Useful for crafts and roofing.,Przydatne przy wyrobach i kryciu dachów.
 PalmFronds_CardInteractions[0].ActionName,Weave,Upleć
@@ -6380,14 +6380,14 @@ Rope_CardName,Rope,Lina
 Rope_CardDescription,Plenty of uses for it. Could help climb palm trees too.,Ma wiele zastosowań. Pomaga też przy wspinaczce. <b>MOŻNA ZAŁOŻYĆ NA SLOT EKWIPUNKU</b>
 Rope_DismantleActions[0].ActionName,Unbraid,Rozpleć
 SagoSeeds_CardName,Sago Seeds,Nasiona sago
-SagoSeeds_CardDescription,I don't think these are edible.,To chyba niejadalne.
+SagoSeeds_CardDescription,I don't think these are edible.,Chyba nie są jadalne.
 Salt_CardName,Salt,Sól
 Salt_CardDescription,Could use it to salt fish or meat so that it lasts longer.,"Można nią zasolić ryby lub mięso, żeby wolniej się psuły."
 Saltpeter_CardName,Saltpeter,Saletra
 Saltpeter_CardDescription,Useful as fertilizer. Can also combine it with Vitriol to make Aqua Fortis on an Alembic. Essential for making Dynamite!,Przydatna jako nawóz. Można ją połączyć z witriolem i uzyskać kwas azotowy w alembiku. Niezbędna do produkcji dynamitu!
 Saltpeter_CardInteractions[0].ActionName,Soak,Namocz
 Sand_CardName,Sand,Piasek
-Sand_CardDescription,Could use it to temper clay or mud.,Można go użyć jako usztywniacz do błota lub gliny.
+Sand_CardDescription,Could use it to temper clay or mud.,Można go użyć jako utwardzacz do błota lub gliny.
 SandCastle_CardName,Sand Castle,Zamek z piasku
 SandCastle_CardDescription,A nice sand castle. I'm proud of myself.,Fajny zamek z piasku. Rozpiera mnie duma.
 SandCastle_CardInteractions[0].ActionName,Repair,Napraw
@@ -6425,8 +6425,8 @@ Skull_DismantleActions[0].ActionName,Talk to it,Porozmawiaj z nią
 Sling_CardName,Sling,Proca
 Sling_CardDescription,I can hunt seagulls with this.,Można nią zapolować na mewy.
 Sling_DismantleActions[0].ActionName,Train,Trenuj
-SnakeGrass_CardName,Snake Grass,Trawa wężowa
-SnakeGrass_CardDescription,I should be able to extract fibers for cordage from this. Could also grind it to protect myself from bugs.,Powinienem móc wydobyć z tego włókna na sznurki. Można też ją rozdrobnić i używać przeciwko owadom.
+SnakeGrass_CardName,Snake Grass,Wetiweria
+SnakeGrass_CardDescription,I should be able to extract fibers for cordage from this. Could also grind it to protect myself from bugs.,Dobre źródło włókien na sznurki. Można też ją rozdrobnić i używać jako środek na owady.
 SnakeGrass_CardInteractions[0].ActionName,Grind,Rozdrobnij
 SnakeGrass_DismantleActions[0].ActionName,Extract Fibers,Wydobądź włókna
 SoapDry_CardName,Soap,Mydło
@@ -6492,7 +6492,7 @@ TV_Leaflet_CardName,Victory Leaflet,Ulotka zwycięstwa
 TV_Leaflet_CardDescription,A small leaflet to congratulate you for your victory.,Mała ulotka z gratulacjami twojej wygranej.
 TV_Leaflet_DismantleActions[0].ActionName,Read,Czytaj
 Urchin_CardName,Urchin,Jeżowiec
-Urchin_CardDescription,I need to get the animal from inside.,Trzeba wydobyć zwierzę ze środka.
+Urchin_CardDescription,I need to get the animal from inside.,Trzeba wydobyć go jakoś ze środka.
 Urchin_CardInteractions[0].ActionName,Break Urchin,Rozbij jeżowca
 VentBrimstone_CardName,Brimstone Vent,Wulkaniczny otwór
 VentBrimstone_CardDescription,This does not smell good and is not good to breathe.,Śmierdzi strasznie. Wdychanie tych oparów nie może być dobre dla zdrowia.
@@ -6569,7 +6569,7 @@ LQ_Coffee_CardDescription,It should help me stay awake!,Powinno pomóc nie zasn�
 LQ_Coffee_DismantleActions[0].ActionName,Drink,Wypij
 LQ_DissolvedNiter_CardName,Dissolved Niter,Rozpuszczone azotany
 LQ_DissolvedNiter_CardDescription,Saltpeter dissolved in Vitriol. Distill in an Alembic to make Aqua Fortis.,"Saletra rozpuszczona w witriolu. Dokonaj destylacji w alembiku, aby uzyskać kwas azotowy."
-LQ_GingerTea_CardName,Ginger Tea,Napar z imbiru
+LQ_GingerTea_CardName,Ginger Tea,Imbirowy napar
 LQ_GingerTea_CardDescription,"Helps with nausea and has many health benefits, including antibiotic properties.","Pomaga na nudności i ma wiele właściwości zdrowotnych, w tym antybiotyczne."
 LQ_GingerTea_DismantleActions[0].ActionName,Drink,Wypij
 LQ_Honey_CardName,Honey,Miód
@@ -6585,7 +6585,7 @@ LQ_HoneyWater_DismantleActions[0].ActionName,Drink,Wypij
 LQ_JasmineTea_CardName,Jasmine Tea,Napar jaśminowy
 LQ_JasmineTea_CardDescription,Relaxing and aromatic.,Relaksujący i aromatyczny.
 LQ_JasmineTea_DismantleActions[0].ActionName,Drink,Wypij
-LQ_Kava_CardName,Kava,Kava
+LQ_Kava_CardName,Kava,Pieprzowy napar
 LQ_Kava_CardDescription,A relaxing and analgesic drink.,Relaksujący napój o działaniu przeciwbólowym.
 LQ_Kava_DismantleActions[0].ActionName,Drink,Wypij
 LQ_Lye_CardName,Lye,Ług
@@ -6642,7 +6642,7 @@ LQ_SoakedYam_CardDescription,Should boil it on a fire.,Trzeba go ugotować na og
 LQ_SoakedYam_DismantleActions[0].ActionName,Eat,Zjedz
 LQ_SoapMix_CardName,Soap Mix,Mieszanka mydlana
 LQ_SoapMix_CardDescription,Should boil it to make soap.,"Trzeba to zagotować, aby dostać mydło."
-LQ_SpiderLily_CardName,Spider Lily Tea,Napar z pajęczej lilii
+LQ_SpiderLily_CardName,Spider Lily Tea,Napar z lilii pajęczej
 LQ_SpiderLily_CardDescription,It has antibiotic properties.,Ma właściwości antybiotyczne.
 LQ_SpiderLily_DismantleActions[0].ActionName,Drink,Wypij
 LQ_SugarWater_CardName,Sugar Water,Woda z cukrem
@@ -6902,7 +6902,7 @@ ShaftMidChamberToLowChamber_CardDescription,Can climb down from here.\n\n<b>(onl
 ShaftMidChamberToLowChamber_DismantleActions[0].ActionName,Climb Down,Opuść się w dół
 ShaftMidChamberToLowChamber_DismantleActions[0].FadeMessage,Traveling to the Jungle..,Podróżowanie do dżungli...
 Tunnel_CardName,Tunnel,Tunel
-Tunnel_CardDescription,This tunnel seems to go deeper into the mountain.,Tunel wydaje się prowadzić wgłąb góry.
+Tunnel_CardDescription,This tunnel seems to go deeper into the mountain.,Tunel wydaje się prowadzić w głąb góry.
 Tunnel_SpoilageTime.CardStatName,Filthiness,Brud
 Tunnel_CardInteractions[0].ActionName,Clean,Umyj
 TunnelEntrance_CardName,Tunnel Entrance,Wejście do tunelu
@@ -7314,13 +7314,13 @@ Mangroves_DismantleActions[0].ActionName,Explore,Eksploruj
 Mangroves_ExplorationResults[0].Action.ActionName,Grasslands W,Zach. równiny
 Mangroves_ExplorationResults[1].Action.ActionName,Mangroves Explored,Zwiedzono las namorzynowy
 Outskirts_CardName,Jungle Outskirts,Obrzeża dżungli
-Outskirts_CardDescription,"I could look for resources here, specially wood. If there's a way inland, it's probably here too.",
+Outskirts_CardDescription,"I could look for resources here, specially wood. If there's a way inland, it's probably here too.","Mogę tu poszukać surowców, zwłaszcza drewna. Jeśli jest jakieś przejście w głąb wyspy, to pewnie właśnie tutaj."
 Outskirts_CardInteractions[0].ActionName,Cut Wood,Narąb drewna
 Outskirts_CardInteractions[1].ActionName,Cut Wood,Narąb drewna
 Outskirts_DismantleActions[0].ActionName,Explore,Eksploruj
 Outskirts_ExplorationResults[0].Action.ActionName,Beach,Plaża
 Rocks_CardName,Rocks,Skały
-Rocks_CardDescription,A rocky area below the cliffs of the island. Could probably get stones and crabs from here.,
+Rocks_CardDescription,A rocky area below the cliffs of the island. Could probably get stones and crabs from here.,Skalisty teren u podnóża klifów wyspy. Można tu pewnie znaleźć kamienie i kraby.
 Rocks_DismantleActions[0].ActionName,Explore,Eksploruj
 Rocks_ExplorationResults[0].Action.ActionName,Tide Pool 1,Basen pływowy 1
 Rocks_ExplorationResults[1].Action.ActionName,Tide Pool 2,Basen pływowy 2
@@ -7348,7 +7348,7 @@ Sea_Atoll_DismantleActions[0].ActionName,Drink,Wypij
 Sea_Atoll_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Atoll_DismantleActions[1].ProducedCards[3].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Atoll_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Atoll_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Atoll_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Atoll_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Atoll_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_Bay_CardName,Sea,Morze
@@ -7367,7 +7367,7 @@ Sea_Bay_DismantleActions[0].ActionName,Drink,Wypij
 Sea_Bay_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Bay_DismantleActions[1].ProducedCards[9].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Bay_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Bay_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Bay_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Bay_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Bay_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_Beach_CardName,Sea,Morze
@@ -7386,7 +7386,7 @@ Sea_Beach_DismantleActions[0].ActionName,Drink,Wypij
 Sea_Beach_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Beach_DismantleActions[1].ProducedCards[3].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Beach_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Beach_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Beach_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Beach_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Beach_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_Cove_CardName,Sea,Morze
@@ -7406,7 +7406,7 @@ Sea_Cove_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Cove_DismantleActions[1].ProducedCards[3].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Cove_DismantleActions[1].ProducedCards[4].CollectionMessages[0],No luck...,Niestety...
 Sea_Cove_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Cove_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Cove_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Cove_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Cove_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_DesolateBeach_CardName,Sea,Morze
@@ -7424,7 +7424,7 @@ Sea_DesolateBeach_DismantleActions[0].ActionName,Drink,Wypij
 Sea_DesolateBeach_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_DesolateBeach_DismantleActions[1].ProducedCards[5].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_DesolateBeach_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_DesolateBeach_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_DesolateBeach_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_DesolateBeach_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_DesolateBeach_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_Mangroves_CardName,Sea,Morze
@@ -7442,7 +7442,7 @@ Sea_Mangroves_DismantleActions[0].ActionName,Drink,Wypij
 Sea_Mangroves_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Mangroves_DismantleActions[1].ProducedCards[4].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Mangroves_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Mangroves_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Mangroves_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Mangroves_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Mangroves_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 Sea_Raft_CardName,Sea,Morze
@@ -7475,7 +7475,7 @@ Sea_Rocks_DismantleActions[0].ActionName,Drink,Wypij
 Sea_Rocks_DismantleActions[1].ActionName,Dive,Nurkuj
 Sea_Rocks_DismantleActions[1].ProducedCards[3].CollectionMessages[0],You found nothing!,Nic nie znajdujesz!
 Sea_Rocks_DismantleActions[2].ActionName,Wash yourself,Umyj się
-Sea_Rocks_DismantleActions[3].ActionName,Return to the sea,Wróć do morza
+Sea_Rocks_DismantleActions[3].ActionName,Return to the sea,Wróć w głębiny
 Sea_Rocks_DismantleActions[3].ActionDescription,Warning: This will end the game.,Uwaga: To zakończy grę.
 Sea_Rocks_DismantleActions[3].ActionLog.LogText,I went back to the depths of the ocean.,Powrót w morskie głębiny.
 SecretValley_CardName,Secret Valley,Ukryta Dolina
@@ -7710,7 +7710,7 @@ Path_WetlandsToJungleHighlands_DismantleActions[1].ActionName,Train Climbing,Tre
 AlembicUndeployed_CardName,Alembic,Alembik
 AlembicUndeployed_CardDescription,Can place it on a campfire to distill water.,"Można postawić na ognisku, żeby destylować wodę."
 ControlPanelOff_CardName,Control Panel,Panel sterowania
-ControlPanelOff_CardDescription,"My plane's control panel. The engines are not running, but I could charge my radio here if they were.",
+ControlPanelOff_CardDescription,"My plane's control panel. The engines are not running, but I could charge my radio here if they were.","Panel kontrolny mojego samolotu. Silniki nie działają, ale gdyby działały, mógłbym tu naładować radio."
 ControlPanelOff_DismantleActions[0].ActionName,Start Engine,Uruchom silnik
 ControlPanelOff_DismantleActions[1].ActionName,Check Radio Compartment,Sprawdź schowek na radio
 ControlPanelOn_CardName,Control Panel,Panel sterowania
@@ -7729,7 +7729,7 @@ Engine1Repaired_CardName,Engine (repaired),Silnik (naprawiony)
 Engine1Repaired_CardDescription,The plane's remaining engine. It will work as long as it has fuel.,"Pozostały silnik samolotu. Zadziała, jeśli będzie miał paliwo."
 Engine1Repaired_CardInteractions[0].ActionName,Fill,Napełnij
 Engine2Closed_CardName,Engine,Silnik
-Engine2Closed_CardDescription,Here's the other engine. I might be able to dissasemble it for parts if I had a screwdriver.,
+Engine2Closed_CardDescription,Here's the other engine. I might be able to dissasemble it for parts if I had a screwdriver.,"Drugi silnik. Jeśli by gdzieś się udało znaleźć śrubokręt, może udałoby się go rozebrać na części."
 Engine2Closed_CardInteractions[0].ActionName,Open,Otwórz
 Engine2Dissassembled_CardName,Engine (dissassembled),Silnik (rozmontowany)
 Engine2Dissassembled_CardDescription,Here's the other engine. It no longer has any usable parts.,To drugi silnik. Nie ma już w nim nic przydatnego.
@@ -7741,7 +7741,7 @@ Radio_CardDescription,Looks to be in good shape. Should work as long as its batt
 Radio_DismantleActions[0].ActionName,Tune Radio,Nastrój radio
 Radio_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Not enough battery...,Bateria jest rozładowana...
 AloeVera_CardName,Aloe Vera,Aloes
-AloeVera_CardDescription,I could harvest its leaves and make a gel out of it that can help me treat and prevent sunburns. It's also good for back pain and bug bites.,
+AloeVera_CardDescription,I could harvest its leaves and make a gel out of it that can help me treat and prevent sunburns. It's also good for back pain and bug bites.,Mogę zebrać jego liście i zrobić z nich żel pomocny w przeciwdziałaniu i leczeniu oparzeń słonecznych. Pomaga też na ból pleców i ukąszenia owadów.
 AloeVera_DismantleActions[0].ActionName,Harvest Leaves,Zbierz liście
 AloeVera_DismantleActions[0].ActionLog.LogText,I cut some aloe vera leaves.,Zebrano liście aloesu.
 AssortedMushroomsPlant_CardName,Assorted Mushrooms,Różne grzyby
@@ -7774,16 +7774,16 @@ CoffeePlant_CardDescription,I could harvest coffee beans from here.,Można z nie
 CoffeePlant_DismantleActions[0].ActionName,Harvest,Zbierz
 CoffeePlant_DismantleActions[0].ActionLog.LogText,I harvested some Chilies.,Zebrano papryczki chili.
 GingerPlant_CardName,Ginger Plant,Imbirowiec
-GingerPlant_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można rozdrobnić i zaparzyć - wzmocni odporność i pomoże na problemy żołądkowe.
+GingerPlant_CardDescription,Can be ground and prepared into a brew that should boost my immune system and help with stomach problems.,Można go rozdrobnić i zaparzyć. Wzmacnia odporność i pomoże na problemy żołądkowe.
 GingerPlant_DismantleActions[0].ActionName,Harvest Roots,Zbierz korzenie
 GingerPlant_DismantleActions[0].ActionLog.LogText,I harvested some ginger roots.,Zebrano imbir.
 JasminePlant_CardName,Jasmine Flowers,Kwiaty jaśminu
 JasminePlant_CardDescription,An aromatic plant I could use for decoration or making a relaxing tea.,"Aromatyczna roślina, którą można wykorzystać do dekoracji albo zaparzenia uspokajającej herbatki."
 JasminePlant_DismantleActions[0].ActionName,Harvest Flowers,Zbierz kwiaty
-KavaPlant_CardName,Kava Plant,Krzak kava
-KavaPlant_CardDescription,I could harvest its root and prepare it into a soothing brew that should improve my mood as well as help against pain and fever.,
+KavaPlant_CardName,Kava Plant,Pieprz metystynowy
+KavaPlant_CardDescription,I could harvest its root and prepare it into a soothing brew that should improve my mood as well as help against pain and fever.,Mogę zebrać jego korzeń i przygotować kojący napar poprawiający nastrój oraz łagodzący ból i gorączkę.
 KavaPlant_DismantleActions[0].ActionName,Harvest Roots,Zbierz korzenie
-KavaPlant_DismantleActions[0].ActionLog.LogText,I harvested some kava roots.,Zebrano korzenie kavy.
+KavaPlant_DismantleActions[0].ActionLog.LogText,I harvested some kava roots.,Zebrano korzenie pieprzu metystynowego.
 LargeTree_CardName,Large Tree,Duże drzewo
 LargeTree_CardDescription,"A light soft wood, could be good for making buildings.","Lekkie, miękkie drewno. Dobry budulec."
 LargeTree_Progress.OnZero.ActionDescription,Tree Down!,Drzewo powalone!
@@ -7916,26 +7916,26 @@ PuffballsPlant_DismantleActions[0].ActionName,Harvest,Zbierz
 RicePlant_CardName,Rice,Ryż
 RicePlant_CardDescription,I should cut its stalks and thresh them to get their grain.,"Trzeba ściąć łodygi i je wymłócić, aby uzyskać ryż."
 RicePlant_CardInteractions[0].ActionName,Harvest,Zbierz
-SagoPalm_CardName,Sago Palm,Palma sago
-SagoPalm_CardDescription,I could make sago flour out of this tree. I just need to fell it and wet its sawdust.,
+SagoPalm_CardName,Sago Palm,Sagowiec
+SagoPalm_CardDescription,I could make sago flour out of this tree. I just need to fell it and wet its sawdust.,Z pnia tego drzewa mogę zrobić mąkę. Wystarczy je ściąć i namoczyć jego trociny.
 SagoPalm_CardInteractions[0].ActionName,Cut Tree,Zetnij drzewo
-SagoPalm_CardInteractions[0].ActionLog.LogText,I cut down a sago palm.,Ścięto palmę sago.
+SagoPalm_CardInteractions[0].ActionLog.LogText,I cut down a sago palm.,Ścięto sagowiec.
 SagoPalm_CardInteractions[1].ActionName,Cut Tree,Zetnij drzewo
-SagoPalmFelled_CardName,Felled Sago Palm,Powalona palma sago
-SagoPalmFelled_CardDescription,I should split the log in two to extract its sawdust.,"Trzeba rozrąbać jej pień, aby pozyskać z niej pył."
+SagoPalmFelled_CardName,Felled Sago Palm,Powalony sagowiec
+SagoPalmFelled_CardDescription,I should split the log in two to extract its sawdust.,"Trzeba rozrąbać jego pień, aby pozyskać z niego trociny."
 SagoPalmFelled_CardInteractions[0].ActionName,Split Log,Rozrąb pień
 SagoPalmFelled_CardInteractions[1].ActionName,Split Log,Rozrąb pień
-SagoSplitLog_CardName,Split Log,Przepołowiony pień sago
+SagoSplitLog_CardName,Split Log,Przepołowiony pień sagowca
 SagoSplitLog_CardDescription,I should extract its pith.,Trzeba teraz z niego wydłubać miazgę.
-SagoSplitLog_CardInteractions[0].ActionName,Extract Sawdust,Wydłub pył drzewny
+SagoSplitLog_CardInteractions[0].ActionName,Extract Sawdust,Wydłub trociny
 SnakegrassPatch_CardName,Snakegrass Patch,Kępa trawy wężowej
 SnakegrassPatch_CardDescription,I should be able to extract fibres for cordage from this. ,Można z niej pozyskać włókna na sznurki.
 SnakegrassPatch_DismantleActions[0].ActionName,Harvest,Zbierz
-SnakegrassPatch_DismantleActions[0].ActionLog.LogText,I harvested some Snakegras.,Zebrano trawę wężową.
-SpiderLily_CardName,Spider Lily,Pajęcza lilia
+SnakegrassPatch_DismantleActions[0].ActionLog.LogText,I harvested some Snakegras.,Zebrano wetiwerię.
+SpiderLily_CardName,Spider Lily,Lilia pajęcza
 SpiderLily_CardDescription,"I could harvest its leaves, they have antibiotic properties.","Można zebrać jej liście, mają właściwości antybiotyczne."
 SpiderLily_DismantleActions[0].ActionName,Harvest Leaves,Zbierz liście
-SpiderLily_DismantleActions[0].ActionLog.LogText,I harvested some spider lily leaves.,Zebrano liście pajęczej lilii.
+SpiderLily_DismantleActions[0].ActionLog.LogText,I harvested some spider lily leaves.,Zebrano liście lilii pajęczej.
 TropicalAlmondTree_CardName,Tropical Almond Tree,Migdałowiec
 TropicalAlmondTree_CardDescription,I could get tropical almonds from here.,Można stąd zebrać migdały tropikalne.
 TropicalAlmondTree_FuelCapacity.CardStatName,Almond Growth,Dojrzewanie migdałów
@@ -8066,7 +8066,7 @@ PalmTreeYoung_CardDescription,"A young palm, it will grow into a tall coconut tr
 PalmTreeYoung_Progress.OnFull.ActionDescription,Palm Tree has matured!,Palma dojrzała!
 PalmTreeYoung_CardInteractions[0].ActionName,Cut Tree,Zetnij drzewo
 PassingShip_CardName,Passing Ship,Przepływający statek
-PassingShip_CardDescription,A passing Ship! If only I could catch its attention! A Flare or Torch would really help.,
+PassingShip_CardDescription,A passing Ship! If only I could catch its attention! A Flare or Torch would really help.,Przepływający statek! Gdyby tylko udało się zwrócić jego uwagę! Raca albo pochodnia bardzo by w tym pomogły.
 PassingShip_SpoilageTime.CardStatName,Time Left,Pozostały czas
 PassingShip_SpoilageTime.OnZero.ActionDescription,The ship left!,Statek odpłynął!
 PassingShip_UsageDurability.CardStatName,Leave,Wyjdź
@@ -8088,11 +8088,11 @@ Puddle_DismantleActions[1].ActionName,Dig up Dirt,Wykop ziemię
 RainCatcher_CardName,Rain Catcher,Łapacz deszczówki
 RainCatcher_DismantleActions[0].ActionName,Dismantle,Rozbierz na części
 SeagullNest_CardName,Seagull Nest,Mewie gniazdo
-SeagullNest_CardDescription,You just found a nest. You could try climbing to it. Perhaps you could find some eggs inside.,
+SeagullNest_CardDescription,You just found a nest. You could try climbing to it. Perhaps you could find some eggs inside.,Widzisz gniazdo. Może warto spróbować się do niego wspiąć - w środku mogą być jajka.
 SeagullNest_OnStatsChangeActions[0].ActionName,Cleared,Ogołocono
 SeagullNest_DismantleActions[0].ActionName,Climb,Wspinaj się
 SharkVisitor_CardName,Shark,Rekin
-SharkVisitor_CardDescription,A shark seems to be following me closely. Should probably avoid the water for now.,
+SharkVisitor_CardDescription,A shark seems to be following me closely. Should probably avoid the water for now.,Najwyraźniej śledzi mnie jakiś rekin. Lepiej na razie unikać wody.
 SharkVisitor_SpoilageTime.CardStatName,Counter,Licznik
 SharkVisitor_UsageDurability.CardStatName,Leave,Wyjdź
 SharkVisitor_UsageDurability.OnZero.ActionDescription,The shark has left,Rekin odpłynął
@@ -8176,15 +8176,15 @@ TropicalIsland_Cloudy_CardDescription,It's quite cloudy. Hopefully it will rain.
 TropicalIsland_CloudyStart_CardName,Cloudy,Pochmurno
 TropicalIsland_CloudyStart_CardDescription,It's quite cloudy. Hopefully it will rain.,"Jest dość pochmurno. Mam nadzieję, że spadnie deszcz."
 TropicalIsland_HeavyRain_CardName,Heavy Rain,Ulewa
-TropicalIsland_HeavyRain_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,
+TropicalIsland_HeavyRain_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,Leje jak z cebra. Muszę zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_HeavyRainLong_CardName,Heavy Rain,Ulewa
-TropicalIsland_HeavyRainLong_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,
+TropicalIsland_HeavyRainLong_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,Leje jak z cebra. Muszę zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_HeavyRainStart_CardName,Heavy Rain,Ulewa
-TropicalIsland_HeavyRainStart_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,
+TropicalIsland_HeavyRainStart_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,Leje jak z cebra. Muszę zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_LightRain_CardName,Light Rain,Deszcz
-TropicalIsland_LightRain_CardDescription,It's raining. I should make sure I have some shelter and store water for the coming days.,
+TropicalIsland_LightRain_CardDescription,It's raining. I should make sure I have some shelter and store water for the coming days.,Pada deszcz. Trzeba zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_LightRainStart_CardName,Light Rain,Deszcz
-TropicalIsland_LightRainStart_CardDescription,It's raining. I should make sure I have some shelter and store water for the coming days.,
+TropicalIsland_LightRainStart_CardDescription,It's raining. I should make sure I have some shelter and store water for the coming days.,Pada deszcz. Trzeba zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_PartiallyCloudy_CardName,Partially Cloudy,Częściowe zachmurzenie
 TropicalIsland_PartiallyCloudy_CardDescription,It's getting cloudy. With some luck it might rain.,Zachmurza się. Przy odrobinie szczęścia niedługo spadnie deszcz.
 TropicalIsland_Storm_CardName,Storm,Burza
@@ -8205,7 +8205,7 @@ Hunter_CharacterDescription,"You have arrived to the island on your own, with no
 Mermaid_CharacterName,Mermaid,Syrena
 Mermaid_CharacterDescription,"From the waves you emerge, pregnant with a child sired by the ocean.\nThis isolated island shall be your nesting ground.\n\nA creature of the depths, your skin must be kept moist and away from the sun, yet you can also drink seawater as if it were fresh, and see through darkness as if there were light.\nYour hunger is great yet only flesh can give you and your unborn one the nourishment you crave.\n\nSurvive and thrive, daughter of the sea... and await for the arrival of your child!",
 NormalGuy_CharacterName,Normal Guy,Zwykły facet
-NormalGuy_CharacterDescription,"A completely ordinary and very average human. Nothing special, really.\n\nPros:\n- No Cons\nCons:\n- No Pros\n\n<b> The standard experience. </b>",
+NormalGuy_CharacterDescription,"A completely ordinary and very average human. Nothing special, really.\n\nPros:\n- No Cons\nCons:\n- No Pros\n\n<b> The standard experience. </b>",Całkowicie przeciętny i zwyczajny człowiek. Naprawdę nic wyjątkowego.\n\nZalety:\n- Brak wad\nWady:\n- Brak zalet\n\n<b> Standardowe doświadczenie. </b>
 Survivalist_CharacterName,Survivalist,Survivalowiec
 Survivalist_CharacterDescription,"You flew to the nearest city a week ago, ready to embark on the adventure of your life.\n\nAfter leaving your affairs in order and securing the necessary supplies you managed to find a local fisherman that was willing to take you to an isolated island for a low price.\n\nYou are there now, not a single soul in the island but you. \nYoung, strong and prepared, you are in your element.",
 Tourist_CharacterName,Tourist,Turysta
@@ -8294,7 +8294,7 @@ GpTag_Soap_TabName,Soap,Mydło
 GpTag_Soil_TabName,Soil,Gleba
 GpTag_Sweetener_TabName,Sweetener,Słodzik
 GpTag_SweetWater_TabName,Sweet Water,Słodzona woda
-GpTag_Temper_TabName,Temper,Usztywniacz
+GpTag_Temper_TabName,Temper,Utwardzacz
 GpTag_Vase_TabName,Vase,Waza
 GpTag_Water_TabName,Water Fresh,Świeża woda
 GpTag_WaterAny_TabName,Water,
@@ -8315,13 +8315,13 @@ Pkg_Skin_GroupName,Skin,Skóra
 Pkg_Start_GroupName,Mood,Nastrój
 Pkg_Weather_GroupName,Weather,Pogoda
 Pkg_Weight_GroupName,Weight,Waga
-Chemical_TabName,Chemical,Chemiczne
+Chemical_TabName,Chemical,Chemia
 Damage_TabName,Damage,Obrażenia
 Internal_TabName,Internal,Wewnętrzne
 Mental_TabName,Mental,Psychiczne
 Physical_TabName,Physical,Fizyczne
 Protection_TabName,Protection,Ochrona
-Saturation_TabName,Saturation,Sytość
+Saturation_TabName,Saturation,Przesyt
 Skills_TabName,Skills,Umiejętności
 Template_TabName,Template,Szablon
 GE_AcidLake_OverrideTitle,Acid Lake,Kwasowe Jezioro
@@ -8344,12 +8344,12 @@ GE_Appetite_OverrideDescription,"Your appetite is what determines the rate at wh
 GE_Armor_OverrideDescription,The amount and thickness of the clothes you are wearing can protect you against wounds from both <b>Animals and the Environment</b>.\n\nConsidering wearing more and thicker clothes if you are about to do something that could get you hurt.,
 GE_ArrowSimple_OverrideDescription,"Basic, simple arrows made with sharpened <b>Sticks and Feathers</b>. \n\nThey have to be equipped on your hand row or quiver in order for you to be able to use a bow.",
 GE_Ash_OverrideDescription,"Ash can be used as temper for clay or mud, to make wound dressings by combining it with small cloth and to make lye, a crucial ingredient for making soap.\nTo get ash you can crush charcoal or extract it from an extinguished fire.",
-GE_AssortedMushrooms_OverrideDescription,"An assortment of different mushrooms. Some good, some bad. \nDangerous to eat if your <b>Herbology</b> is not high enough but otherwise good enough.\n",
+GE_AssortedMushrooms_OverrideDescription,"An assortment of different mushrooms. Some good, some bad. \nDangerous to eat if your <b>Herbology</b> is not high enough but otherwise good enough.\n","Mieszanka różnych grzybów. Niektóre dobre, inne nie. \nNiebezpiecznie jest je jeść, jeśli twoje <b>Zielarstwo</b> nie jest wystarczająco wysokie."
 GE_AxeCopper_OverrideDescription,A durable and sharp axe made with copper. It can be rebuilt after breaking once its axe head is <b>re-sharpened</b>.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.,
 GE_AxeFlint_OverrideDescription,"As sharp as a copper one, this axe can be crafted from a large slab of flint if your <b>Knapping</b> skill is hight enough.\n\nA flint axe can be used to work wood and to cut <b>Trees</b> much faster than with a simple stone axe.",
-GE_AxeScrap_OverrideDescription,"A Strong, Sharp axe made of scrap metal.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.",
+GE_AxeScrap_OverrideDescription,"A Strong, Sharp axe made of scrap metal.\nYou should be able to cut <b>trees</b> much faster and work on more complex <b>woodcrafts</b> with it.","Solidna, ostra siekiera zrobiona ze złomu.\nPowinna umożliwić szybsze ścinanie <b>drzew</b> i pracę nad bardziej złożonymi <b>schematami stolarskimi</b>."
 GE_BackpackBasket_OverrideDescription,A simple basket made of rope and <b>Woven Palm Fronds</b>.\n\nCan be used to carry additional items without getting encumbered and is equippable on your back slot.,
-GE_BackpackLeather_OverrideDescription,A large backpack made of <b>Leather and Cord</b>. \n\nCan carry a large amount of things and be equipped on your back slot.,
+GE_BackpackLeather_OverrideDescription,A large backpack made of <b>Leather and Cord</b>. \n\nCan carry a large amount of things and be equipped on your back slot.,Duży plecak wykonany ze <b>skóry i sznurka</b>. \n\nMoże pomieścić sporo rzeczy i można go założyć na slot ekwipunku - plecy.
 GE_BackPain_OverrideDescription,A painful ailment caused by sleeping on <b>Bad Beds or on the Floor</b>.\nBuild better <b>Beds</b> in order to prevent it.\n\n<b>Aloe Vera</b> can alleviate the pain and help your back heal faster.,
 GE_BacteriaCholera_OverrideTitle,Cholera,Cholera
 GE_BacteriaCholera_OverrideDescription,"This disease can be acquired through poor <b>Hygiene</b>, especially if you're not immunized against it. Try to stay clean and avoid drinking unsafe water if you want to avoid it.\n\nCholera will cause nausea and severe <b>Diarrhoea</b> and usually lasts for more than a week. If you catch it, make sure to stay hydrated to compensate for the very high water loss and try to boost your <b>Immune System</b> as much as possible to keep the bacteria at bay and accelerate your recovery.",
@@ -8361,37 +8361,37 @@ GE_Basket_OverrideDescription,A basket made of woven palm fronds. It can be used
 GE_Bat_OverrideTitle,Bats,Nietoperze
 GE_Bat_OverrideDescription,"Bats live in colonies inside <b>Caves</b>. \n\nThey produce <b>Guano</b>, which can be used as fertilizer or for making niter beds and can also be eaten, of course.",
 GE_Bay_OverrideDescription,"A beautiful bay in the southern shores of the island. Lots of fish, animals and plants can be found in its rich waters, including oysters, seaweed, coral, sea kraits and even sharks.",
-GE_Beach_OverrideDescription,"A long beautiful beach on the western shores of the island. On it you'll find plenty of coconuts, seagulls, crabs, conches and fish.",
-GE_BedRoll_OverrideDescription,A portable bed made of cured skin that is ideal for exploratory trips and relatively comfortable when compared to other beds.,
-GE_BedRustic_OverrideDescription,A relatively comfortable bed made of long sticks and palm fronds. Better for your backpain and your sleep quality.,
-GE_BedWooden_OverrideDescription,"A very comfortable bed made of wooden planks, proper cloth blankets and and even a feather pillow. Great for your backpain and your sleep quality.",
+GE_Beach_OverrideDescription,"A long beautiful beach on the western shores of the island. On it you'll find plenty of coconuts, seagulls, crabs, conches and fish.","Długa, piękna plaża na zachodnim wybrzeżu wyspy. Pełno tu kokosów, mew, krabów, ślimaków i ryb."
+GE_BedRoll_OverrideDescription,A portable bed made of cured skin that is ideal for exploratory trips and relatively comfortable when compared to other beds.,Przenośne łóżko z wyprawionej skóry. Idealne na wyprawy i całkiem wygodne jak na tutejsze warunki.
+GE_BedRustic_OverrideDescription,A relatively comfortable bed made of long sticks and palm fronds. Better for your backpain and your sleep quality.,Całkiem wygodne łóżko zrobione z długich kijów i liści palmowych. Lepsze na ból pleców i jakość snu.
+GE_BedWooden_OverrideDescription,"A very comfortable bed made of wooden planks, proper cloth blankets and and even a feather pillow. Great for your backpain and your sleep quality.","Bardzo wygodne łóżko zrobione z drewnianych desek, porządnych koców z tkaniny i nawet puchowej poduszki. Świetne na ból pleców i jakość snu."
 GE_Beehive_OverrideTitle,Bees,Pszczoły
 GE_Beehive_OverrideDescription,"Beehives can be found in the <b>Deep Jungles</b> of the island. Their honeycombs can be extracted for honey and wax, and their bees can be captured to build your own artificial hives.\n\nBefore interacting with a beehive make sure you smoke them first with a torch or a bee smoker, otherwise the bees will attack you.",
 GE_BeeHoneycomb_OverrideTitle,Honeycomb,Plaster miodu
 GE_BeeHoneycomb_OverrideDescription,"Honeycombs can be extracted from <b>Beehives or Skeps</b>. \n\nThey can be pressed against bowls to separate their sweet edible <b>Honey</b> from their <b>Wax</b>, which can be used for making candles.",
-GE_BeeProtection_OverrideDescription,This stat shows how protected you are from bees.\nWearing more layers of cloth will help with this as will wearing a <b>Bee suit</b>.,
+GE_BeeProtection_OverrideDescription,This stat shows how protected you are from bees.\nWearing more layers of cloth will help with this as will wearing a <b>Bee suit</b>.,"Ten wskaźnik pokazuje, jak dobra jest twoja ochrona przed pszczołami.\nPomaga tu noszenie kilku warstw ubrań lub <b>ubrania pszczelarskiego</b>."
 GE_BeeSkep_OverrideTitle,Bee Farming,Pszczelarstwo
 GE_BeeSkep_OverrideDescription,"A <b>Bee Skep</b> is an artificial beehive that requires <b>Woven Palm Fronds, Mud and Manure</b> to be built and then needs to be given a <b>Honeycomb</b>, a Queen Bee and some Bee Drones.\nOnce you have one you should make sure it has enough flower plants in the area for the bees to make enough honey to feed themselves. You can also feed Bees <b>Water</b> mixed with <b>Sugar or Honey</b>, so that their honey reserves grow faster.\n\nBee Skeps will <b>swarm</b> once they reach their maximum population. At that time a sack can be used on them to capture the excess bees and their queen and use them to create a new Bee Skep.\nConsider using <b>Bee Smokers and Bee Suits</b> when working with bees or you'll get stung a lot.",
 GE_BeeSmoker_OverrideTitle,Bee Smoker,Podkurzacz
 GE_BeeSmoker_OverrideDescription,"This useful tool provides a more efficient way to smoke bees than torches, preventing them from attacking you when you harvest their honey.\nMade with Clay, it needs to fired on a kiln first before it can work, and needs to be refilled with tinder once it runs out of fuel.",
 GE_BeeStings_OverrideDescription,"Caused by interacting with bees, they can cause nausea and headaches when in high numbers.\nConsider smoking bees with a torch or a smoker, or wearing a bee suit before interacting with them. ",
-GE_BeeSuit_OverrideDescription,A thick cloth suit designed to protect you from bee stings. An essential piece of equipment for those who want to get into bee farming.,
+GE_BeeSuit_OverrideDescription,A thick cloth suit designed to protect you from bee stings. An essential piece of equipment for those who want to get into bee farming.,"Gruby materiałowy kombinezon chroniący przed użądleniami pszczół. Niezbędny sprzęt dla każdego, kto chce zająć się pszczelarstwem."
 GE_Beeswax_OverrideTitle,Beeswax,Wosk pszczeli
 GE_Beeswax_OverrideDescription,Wax can be extracted from <b>Honeycombs</b> by pressing them into bowls or coconut shells. \nIt can then be combined into blocks that can be used to make <b>Candles</b>: a long lasting light source that is relatively cheap to make.,
 GE_Bellows_OverrideDescription,"Bellows can be used to speed up the temperature increase of kilns and forges so you can fire clay and smelt metals faster.\n\nIt can be crafted with leather, cord, fat, needles and a cutting tool.",
-GE_BirdMeat_OverrideDescription,"Can be harvested from <b>Partridges and Seagulls</b>. \n\nIt can be cooked and smoked for extra nutrition, taste and durability.",
+GE_BirdMeat_OverrideDescription,"Can be harvested from <b>Partridges and Seagulls</b>. \n\nIt can be cooked and smoked for extra nutrition, taste and durability.","Można je pozyskać z <b>mew i kuropatw</b>. \n\nMożna je upiec i wędzić, by zwiększyć jego wartość odżywczą, smak i trwałość."
 GE_BirdRock_OverrideDescription,"An isolated islet on the northern shores of the island with lots of <b>Seagulls and Guano</b>.\n\nBe careful when going there, as if your skill is not high enough you will either not make it and have to return, or even worse, make it and get stuck on the rock without being able to come back.",
 GE_Blood_OverrideDescription,"Your body needs a certain level of blood pressure to work. Some bleeding wounds will start lowering your pressure until you die. \n\nIf you find yourself bleeding you should prioritize equipping a tourniquet in the wound to stop blood loss and then replacing it with some dressing once the wound has closed.\nIf you're no longer loosing blood, your blood pressure will recover on its own consuming extra nutrition in the process.",
 GE_Boar_OverrideTitle,Boar,Dzik
 GE_Boar_OverrideDescription,"Boars can be found in the jungle covered areas of the island. They are dangerous prey, so before attempting to hunt them make sure you have enough healing supplies and in particular a tourniquet. \n\nBoars can provide you with a large amount of meat, fat and skin. Their meat is very nutritious and their fat has multiple uses, from cooking to making candles or waterskins. Their skin can be used to make clothes and numerous useful items and even their tusks have uses.",
 GE_Bonefish_OverrideDescription,"A fish large enough to offer two portions. It can be more easily found in the deeper waters of the island, such as in the area surrounding the rocks or in the open seas.",
-GE_Bonemeal_OverrideDescription,Created by grinding <b>Bone Splinters</b>.\n\nIt can be used as a cheap <b>Fertilizer</b> for crops.,
+GE_Bonemeal_OverrideDescription,Created by grinding <b>Bone Splinters</b>.\n\nIt can be used as a cheap <b>Fertilizer</b> for crops.,Powstaje przez zmielenie <b>odłamków kości</b>.\n\nMożna jej używać jako tani <b>nawóz</b> do upraw.
 GE_BoneNeedle_OverrideDescription,A bone needle is an essential tool for crafting items with cloth and leather. It can be crafted with bird bones or  bone splinters.\nNeedles can also be used to sew lacerations shut by threading them with a cord.,
 GE_Bones_OverrideTitle,Bones,Kości
 GE_Bones_OverrideDescription,"Bones can be harvested from the carcasses of animals or sometimes found in the gastric pellets of monitor lizards.\n\nLarge bones can be used for certain crafts or broken into <b>Splinters</b>, which can later be further crushed into <b>Bonemeal</b> fertilizer or used for smaller items. \n<b>Hooks and Needles</b> can be crafted from bird bones or splinters and used for tailoring and fishing respectively. ",
 GE_Bookshelf_OverrideDescription,"A useful piece of furniture that increases your <b>Comfort</b>, offers a good amount of storage space and gives you plenty of room for displaying <b>Decorations</b>. Every decoration placed on its shelves will increase your total <b>Comfort</b>.\n\nIt requires enough <b>Woodworking Skill</b> to build, as well as <b>Planks and Treenails</b>.",
 GE_Brimstone_OverrideDescription,"Brimstone can be harvested from the toxic <b>Vents</b> that can be found in the volcanic area of the island or extracted from brimstone rich stones by firing them on kilns.\n\nBrimstone has multiple uses, including making a <b>Healing Gel</b>, a strong <b>Pesticide</b> and even <b>Dynamite</b> among other things.",
-GE_BrimstoneGel_OverrideDescription,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel. ,
+GE_BrimstoneGel_OverrideDescription,A relatively strong disinfectant that is more effective and longer lasting than Aloe Vera gel. ,Dość mocny środek dezynfekujący - skuteczniejszy i trwalszy niż żel aloesowy.
 GE_Broom_OverrideDescription,"An essential tool for keeping your house clean. Make sure to clean often as soon as you see some discomfort appearing. That way you'll feel less stressed and improve your mood.\n\nBrooms are relatively cheap to build, requiring only a long sticks, a cord and some Palm fronds. ",
 GE_Bruising_OverrideDescription,"When falling from high places or getting attack by animals you can sometimes get bruises.\n\nBruises will produce pain, but can be treated with medicinal creams like <b>Aloe Gel</b> so that they heal faster and are less painful.",
 GE_BugBites_OverrideDescription,"Bugbites appear if you spend time in areas with high bug populations. They are generally a minor nuisance, causing pain and increasing your chances of catching diseases. If you are not from these islands however, bug bites can be extremely dangerous, as they can transmit <b>Camp Fever and Malaria</b>.\n\nWearing more Clothes, applying Bug Repellant, eating Lemongrass or burning Snakegrass on a campfire are some of the ways in which you can avoid bugbites.",
@@ -8403,19 +8403,19 @@ GE_BugRepellent_OverrideDescription,This gel can be applied to your body to incr
 GE_Bugs_OverrideTitle,Bugs,Robale
 GE_Bugs_OverrideDescription,Bugs can be found in dark humid caves and by digging in the ground.\n\nA bit disgusting but ultimately edible if you are hungry enough. They are a source of protein and can be used to make protein bars if your <b>Cooking Skill</b> is high enough.\n\nThey are also a good feed for <b>Partridges</b>.,
 GE_Burns_OverrideDescription,Caused by over-exposure to the <b>Sun</b> or by coming in contact with <b>Fire</b>. They can be very painful and cause infections.\n\n<b>Aloe Vera Gel</b> can help them heal faster and alleviate their pain.,
-GE_Butter_OverrideDescription,Made by churning milk in a Vase. This highly nutritious food can be used in place of Fat or Oil in many cooking recipes. ,
+GE_Butter_OverrideDescription,Made by churning milk in a Vase. This highly nutritious food can be used in place of Fat or Oil in many cooking recipes. ,"Powstaje przez ubijanie mleka w wazie. To bardzo kaloryczny składnik, którym można zastąpić tłuszcz lub olej w wielu przepisach."
 GE_ButterBakedOystersCooked_OverrideTitle,Butter Baked Oysters,Ostrygi pieczone w maśle
-GE_ButterBakedOystersCooked_OverrideDescription,"A very tasty gourmet meal cooked with <b>Oysters, Butter and Lemongrass</b>.\nIt can only be cooked by reaching a very high <b>Cooking Skill</b>.",
+GE_ButterBakedOystersCooked_OverrideDescription,"A very tasty gourmet meal cooked with <b>Oysters, Butter and Lemongrass</b>.\nIt can only be cooked by reaching a very high <b>Cooking Skill</b>.","Bardzo smaczny, wykwintny wręcz posiłek przygotowany z <b>ostryg, masła i trawy cytrynowej</b>.\nMożna go przyrządzić tylko przy bardzo wysokim poziomie <b>Gotowania</b>."
 GE_Caffeine_OverrideDescription,Caffeine is a stimulant that will help you stay awake at the cost of some stress and dehydration.\nIt can be ingested from Coffee Berries and any of their derivatives.\n\nCoffee can be made by roasting Coffee Berry seeds and applying them to boiling water. ,
 GE_Calcite_OverrideDescription,Calcite Crystals can be found inside Geodes and in the depths of the island's cave system.\nThey can be quite pretty and serve as very nice decorations to place on your shelves.,
-GE_CallousesFeet_OverrideDescription,Callouses protect your feet from the damage caused by walking. \n\nThey will usually grow over time whenever your feet get a bit damaged.,
-GE_CallousesHands_OverrideDescription,Callouses protect your hands from the damage caused by crafting. \n\nThey will usually grow over time whenever your hands get a bit damaged.,
+GE_CallousesFeet_OverrideDescription,Callouses protect your feet from the damage caused by walking. \n\nThey will usually grow over time whenever your feet get a bit damaged.,"Zgrubienia na stopach chronią je przed urazami od chodzenia. \n\nPowstaną z czasem, tym szybciej, im więcej będziesz chodzić."
+GE_CallousesHands_OverrideDescription,Callouses protect your hands from the damage caused by crafting. \n\nThey will usually grow over time whenever your hands get a bit damaged.,"Zgrubienia na dłoniach chronią je przed urazami od wytwarzania i używania narzędzi. \n\nPowstaną z czasem, tym szybciej, im więcej będziesz pracować rękoma."
 GE_Campfire_OverrideDescription,"Campfires are essential for survival. Not only can they keep you warm and dry when it's cold but can also provide with light during the night, and more importantly, cook your food to make it safer, tastier and more nutritious.\n\nAll you need to make a proper Campfire is to gather stones, wood and sticks. Once that's done, a hand drill should be able to light some tinder which can then be used on the campfire to light it.\n\nCampfires can also produce <b>Charcoal and Ashes</b>. Make sure to extract them whenever your Campfire is not lit.",
-GE_CandiedGinger_OverrideDescription,"A very tasty and sweet meal that can last for quite a while.\nTo make it you need ginger, sugar and water.",
+GE_CandiedGinger_OverrideDescription,"A very tasty and sweet meal that can last for quite a while.\nTo make it you need ginger, sugar and water.","Bardzo smaczny i słodki posiłek, który długo się nie psuje.\nDo jego przygotowania potrzeba imbiru, cukru i wody."
 GE_Candle_OverrideDescription,Candles are a very efficient and long lasting light source that can be made from Fat and Beeswax.\nTheir small size and long duration makes them an ideal tool to carry with you at all times in case you get caught in the jungle when it's dark.\n\nMore advanced scented candles can also be crafted with some special oils. These candles can help you with their bug repelling and relaxing properties.,
 GE_CandleCitronella_OverrideDescription,"Bug-repellent candles that can be used to lower the bug population in an area. Their nice fragrance will also help hide bad smells, lower stress and increase comfort and morale.\n\nTo craft them you'll need to grind lemongrass, mix it with oil and boil it. Then use it on the right blueprint with fat or wax to create the candles.",
 GE_CandleJasmine_OverrideDescription,"Fragrant candles that can be used to increase the comfort in an area. Their nice aroma will help hide bad smells, lower stress and increase morale.\n\nTo craft them you'll need to grind jasmine flowers, mix them with oil and boil them. Then use them on the right blueprint with fat or wax to create the candles.",
-GE_Capsaicin_OverrideDescription,"Gained from eating <b>Chillies</b>, this chemical compound can lower your <b>Appetite, Body Temperature and Hydration levels</b>.",
+GE_Capsaicin_OverrideDescription,"Gained from eating <b>Chillies</b>, this chemical compound can lower your <b>Appetite, Body Temperature and Hydration levels</b>.","Pozyskiwany z <b>papryczek chili</b> związek chemiczny, który zmniejsza <b>apetyt, temperaturę ciała i nawodnienie</b>."
 GE_Captain_OverrideDescription,The captain is an island companion that can keep you company and help deal with loneliness. His horrible personality and attitude will have the effect of lowering your morale however.\n\nHe can be found somewhere in the highlands but attempting to befriend him is not recommended.,
 GE_CaveBats_OverrideDescription,"This humid dark cave has a large bat colony living inside. These bats will produce guano over time, which can be used as fertilizer or to make niter beds. Bats can also be hunted for a bit of meat.\n\nIn addition to this, the droppings-covered floors of the cave act as a very fertile ground for assorted mushrooms.",
 GE_Cellar_OverrideDescription,"A cool underground room that is specially good for storing perishable goods. \nFood items stored here will take longer to expire.\n\nTo build it you'll need a shovel, mortar, logs, dirt, clay and leather.",
@@ -8427,7 +8427,7 @@ GE_Cheese_OverrideTitle,Cheese,Ser
 GE_Cheese_OverrideDescription,"Cheese is a nutritious and tasty dairy food with a good shelf life.\nTo make it you need a <b>Bowl</b>, <b>Whole Milk</b>, <b>Rennet or Vinegar</b> and a bit of  <b>Salt</b>.\n\nRennet can be extracted from the carcasses of <b>Juvenile Goats</b> and Vinegar can be made by letting <b>Wine</b> spoil.",
 GE_Chest_OverrideTitle,Chest,Skrzynia
 GE_Chest_OverrideDescription,"A large Storage Chest built with <b>Long Sticks, Cords and Woven Palm Fronds</b>.\n\nWhile it's too cumbersome to move around, It's great for keeping your base tidy as it can store a large amount of things.",
-GE_ChickenSandwich_OverrideDescription,"Made with two <b>Sago Flatbreads, Bird Meat and some Green Vegetable</b>. \n\nA relatively easy to make meal that can be quite tasty.",
+GE_ChickenSandwich_OverrideDescription,"Made with two <b>Sago Flatbreads, Bird Meat and some Green Vegetable</b>. \n\nA relatively easy to make meal that can be quite tasty.","Zrobiona z dwóch <b>placków sago, ptasiego mięsa i trochę zieleniny</b>. \n\nDość łatwe w przygotowaniu i całkiem smaczne danie."
 GE_Chillies_OverrideDescription,"Chillies can be found in the <b>Grasslands</b> of the island. As a plant they need open and dry places to grow and are quite resistant to <b>Mites</b>.\n\nTheir fruits are nutritious and have capsaicin, a compound that makes you sweat and lowers your body temperature. They are used in multiple cooking recipes and their pest repelling properties make an essential compontent for <b>Pesticide</b>.",
 GE_ChinaRose_OverrideDescription,China Rose can be found in the <b>Highland Jungles</b> of the island.\n\nIts flowers are edible and can be soaked in boiling water to make a special <b>Tea</b> with relaxing and immune system boosting properties.\n\nThey can also be <b>Worn</b> in your hair or used by bees to make <b>Honey</b>.\n,
 GE_CinchonaTree_OverrideDescription,"Cinchona Trees grow in the <b>Jungle</b> and <b>Highland Jungles</b> of the island.\n\nTheir dried bark can be used to create <b>Quinine</b>, a medicine essential for treating and preventing <b>Malaria</b>. Quinine can be further refined for an even more efficient medicine called <b>Quinine Sulfate</b> or used to make <b>Tonic Water</b>.",
@@ -8437,7 +8437,7 @@ GE_Clay_OverrideTitle,Clay,Glina
 GE_Clay_OverrideDescription,Clay can be made by crushing <b>Dirt</b> and then adding <b>Water</b> or simply by crushing <b>Mud</b>.\n\nIt is an extremely useful material that can be used for crafting numerous <b>Liquid Containers</b> and structures.,
 GE_ClayBowl_OverrideDescription,"Clay bowls can be used for preparing numerous meals and as cheap water containers. They are the perfect replacement for <b>Coconut Bowls</b> if you find yourself in an area without <b>Palm Trees</b>.\n\nClay Bowls can be made quite easily by combining <b>Clay</b> and a tempering agent like <b>Ash, Fiber or Sand</b>.\nBeing very simple pieces they can be fired on a normal <b>Campfire</b>, not requiring an actual <b>Kiln</b> to be finished.",
 GE_ClayFirePit_OverrideTitle,Clay Fire Pit,Gliniane palenisko
-GE_ClayFirePit_OverrideDescription,A portable <b>Campfire</b> provided you can carry its weight. \n\nIt should allow you to keep a fire on a <b>Raft</b> without burning it down.,
+GE_ClayFirePit_OverrideDescription,A portable <b>Campfire</b> provided you can carry its weight. \n\nIt should allow you to keep a fire on a <b>Raft</b> without burning it down.,"Przenośne <b>ognisko</b>, o ile dasz radę je unieść. \n\nPozwoli rozpalić ci ogień na <b>tratwie</b>, nie ryzykując pożaru."
 GE_ClayJar_OverrideDescription,"Clay Jars are small liquid containers that are relatively air tight.\n\nTheir lids will <b>stop evaporation or slow down spoilage</b>, making it an ideal container for storing medicine.\nThey are also a useful tool for rationing liquids as they only have capacity for half a water portion.",
 GE_ClayPotCooler_OverrideDescription,"By using the process of evaporation this two-stage ceramic device can keep foods colder and thus fresher longer.\nMake sure to wet the device regularly, as it needs <b>Water</b> to work.\n\nTo make it you'll need <b>Clay, Sand and a Large Cloth</b>.",
 GE_ClayVase_OverrideTitle,Clay Vase,Gliniana waza
@@ -8446,7 +8446,7 @@ GE_Cloth_OverrideDescription,"Cloth can be made by weaving cords on a <b>Loom</b
 GE_Cobra_OverrideTitle,Spitting Cobra,Kobra plująca
 GE_Cobra_OverrideDescription,"These reptiles can be found on the <b>Grasslands and Highlands</b> of the island.\n\nWhile not particularly dangerous, their painful spit can cause permanent eye damage if it's not quickly washed off with abundant <b>Water</b>.",
 GE_Coconut_OverrideDescription,"Coconuts can be found on most of the <b>Beaches</b> of the island, either lying on the sand or by climbing or chopping down <b>Palm Trees</b>.\n\nThese fruits are extremely useful as they are very <b>Nutritious</b> to eat, contain <b>Water</b>, have husks that can be used to make <b>Fiber Cords</b> and their empty coconuts can even be used as <b>Bowls or Water Containers</b>.",
-GE_CoconutFish_OverrideDescription,"A simple, tasty and nutritious meal that requires a <b>Cooking Pot</b> and can be prepared with any <b>Fish, Greens</b> and some <b>Coconut Milk</b>.",
+GE_CoconutFish_OverrideDescription,"A simple, tasty and nutritious meal that requires a <b>Cooking Pot</b> and can be prepared with any <b>Fish, Greens</b> and some <b>Coconut Milk</b>.","Prosty, smaczny i pożywny posiłek wymagający <b>garnka</b>. Można można przygotować z dowolnej <b>ryby, trochę zieleniny</b> i odrobiny <b>mleka kokosowego</b>."
 GE_CoconutHusk_OverrideDescription,"Gathered from <b>coconuts</b> when peeling them with a stone or a sharp tool.\nYou can extract <b>fibers</b> from it, or make it into <b>coconut sandals</b> for a bit of foot protection.",
 GE_CoconutMeat_OverrideDescription,"The delicious inside of a <b>coconut</b>!\nIt's a versatile food source: it can be eaten raw, roasted, or in various cooking recipes like <b>Jungle Salad</b> or <b>Sago Cake</b>.\n\nGrind it into a coconut shell or a bowl to make <b>Coconut Milk</b>, a cooking ingredient with several uses.",
 GE_CoconutSandals_OverrideDescription,Rudimentary shoes that can be crafted with <b>Coconut Husks</b> and cords.\n\nThey can help reduce the damage caused to your feet when walking and add protection against <b>Urchins and Spiders</b>.,
@@ -8544,7 +8544,7 @@ GE_Loom_OverrideDescription,A Loom is a device used to weave <b>Fiber Cord</b> i
 GE_LQ_AshWater_OverrideDescription,"Created by combining <b>Ash</b> with <b>Water</b>.\n\nIt can be boiled to produce <b>Lye, a strong disinfectant that can be used to make <b>Soap</b> among other things.",
 GE_LQ_CoconutMilk_OverrideDescription,Coconut Milk can be made by grinding <b>Coconut Meat</b> on a bowl.\n\nIt is a tasty and nutritious liquid that can be used for some <b>Cooking Recipes</b> and boiled into <b>Oil</b> which is essential for cooking in general and has other uses as well.,
 GE_LQ_Honey_OverrideDescription,"Honey is a long lasting, rich food that can be extracted from <b>Beehives and Bee Skeps</b> by pressing their <b>Honeycombs</b> into a bowl.\n\nIt can be used as an ingredient for multiple <b>Cooking Recipes</b> or mixed into <b>Honey Water</b>, which can be used to feed <b>Bees</b> or left to ferment into <b>Mead</b>, a tasty alcoholic drink.",
-GE_LQ_Lye_OverrideDescription,Lye can be made by mixing ash with water and then boiling it. It is a strong disinfectant that can be used to make soap among other things.,
+GE_LQ_Lye_OverrideDescription,Lye can be made by mixing ash with water and then boiling it. It is a strong disinfectant that can be used to make soap among other things.,"Ług można uzyskać, mieszając popiół z wodą i doprowadzając tę mieszankę do wrzenia. To silny środek dezynfekujący, który można wykorzystać m.in. do produkcji mydła."
 GE_LQ_Mead_OverrideDescription,"Mead is made by adding <b>Honey</b> to <b>Water</b> and letting it spoil.\n\nIt is a tasty alcoholic drink that can be drank to increase your <b>Morale and Courage</b>, numb your <b>Pain</b> and reduce your <b>Stress</b>.\n\nDo not drink too much though as alcohol can <b>Dehydrate</b> you and make you <b>Nauseous</b> too.",
 GE_LQ_Oil_OverrideDescription,Oil can be made by boiling <b>Coconut Milk</b> which can in turn be made by grinding <b>Coconut Meat</b> on a bowl.\n\nIt is an essential ingredient for many <b>Cooking Recipes</b> and can be used to make <b>Scented Candles</b> and other things.,
 GE_LQ_OilCitronella_OverrideDescription,"A nice lemon-scented oil that can be used to craft <b>Bug Repellent Candles</b>.\n\nTo craft it  you'll need to ground <b>Lemon grass</b>, mix it with <b>Oil</b> and boil it. Then use it on the right blueprint with fat or wax to create the candles.",
@@ -8565,7 +8565,7 @@ GE_Macaques_OverrideTitle,Macaques,Makaki
 GE_Macaques_OverrideDescription,"Macaques can be found in the densely forested areas of the Island and have a tendency to <b>Steal</b> your things, especially if they're not afraid of you. While they're not particularly dangerous their <b>Bites</b> can get infected relatively quickly if you don't get them treated in time.\n\nThese animals can also act as a good source of nutritious food and leather if you catch them.\nSometimes, if you manage to wound them without killing them, you can also nurse them back to health and make them your friends. In which case they will keep you company, helping with <b>Loneliness</b>, bringing you gifts and even helping you by peeling Coconuts for you. If you keep a Macaque as a friend though, make sure they are well fed and hydrated as they can <b>bite</b> you if they get too stressed.",
 GE_Mania_OverrideTitle,Mania,Mania
 GE_Mania_OverrideDescription,"Mania can be triggered by experiencing periods of <b>Euphoria</b> while your <b>Mental Structure</b> is too low.\n\nThis state will mess with your success <b>Predictions</b>, give you <b>Courage</b>, increase your <b>Morale</b> and alter your <b>Mind State</b>. Additionally, if your mind state changes too much you might also end up getting <b>Spiritual/psychotic</b> events.\n\n\nTo get out of a manic state you need to increase your <b>Mental Structure</b> and/or lower your <b>Morale</b>.",
-GE_MaskMakeshift_OverrideDescription,By covering your nose and mouth with a <b>Large Wet Cloth</b> you can protect yourself from toxic gases.,
+GE_MaskMakeshift_OverrideDescription,By covering your nose and mouth with a <b>Large Wet Cloth</b> you can protect yourself from toxic gases.,"Zakrywając nos i usta <b>dużym mokrym kawałkiem materiału</b>, możesz ochronić się przed toksycznymi gazami."
 GE_Molds_OverrideTitle,Molds,Formy
 GE_Molds_OverrideDescription,"Molds can be made with Mud and Temper and can be used to cast many different tools into shape once they are placed inside a Forge.\n\nAt the moment there are molds for Axes, Knives, Shovels and Spears.",
 GE_MonitorLizard_OverrideTitle,Monitor Lizard,Waran
@@ -8608,12 +8608,12 @@ GE_PG_Pests_OverrideTitle,Pests,Szkodniki
 GE_PG_SecuringFood_OverrideTitle,Securing Food,Zabezpieczanie żywności
 GE_PG_Weaving_OverrideTitle,Weaving,Tkanie
 GE_Plank_OverrideTitle,Planks,Deski
-GE_Plank_OverrideDescription,"Wooden boards useful for building wooden structures and furniture.\n\nTo craft them you'll need a <b>Log, a Sharp Axe and a Sharp Knive</b>.",
+GE_Plank_OverrideDescription,"Wooden boards useful for building wooden structures and furniture.\n\nTo craft them you'll need a <b>Log, a Sharp Axe and a Sharp Knive</b>.","Drewniane deski przydatne do budowy konstrukcji i mebli.\n\nDo ich przygotowania potrzebna jest <b>kłoda, ostra siekiera i ostry nóż</b>."
 GE_Prawns_OverrideDescription,"Abundant in <b>Rocky areas and Tide Pools</b> near the sea, these little crustaceans are a decent source of food.\n\nThey can be <b>cooked for a better taste</b>, but if you can restrain from eating them they can also make good <b>Bait for trapping and fishing.</b>",
 GE_Quicklime_OverrideDescription,"To make quicklime you should fire seashells, stones or heavy stones in a kiln and grind them once they are burnt. The resulting product is an extremely useful substance with lots of applications.\n\nQuicklime can be used to make <b>Mortar</b> for advanced structures, <b>Fungicides</b> for crops and even <b>Glue</b> among other things. Quicklime can be soaked in water to make <b>slaked lime</b>.",
 GE_Quinine_OverrideTitle,Quinine,Chinina
 GE_Quinine_OverrideDescription,"Quinine can be extracted from the dried up bark of <b>Cinchona Trees</b>.\n\nIt is an essential medicine for the treatment and prevention of <b>Malaria</b>. Quinine Powder can be further processed into <b>Quinine Sulfate</b> which is even more effective against Malaria, or alternatively used to make <b>Tonic Water</b>.",
-GE_Quiver_OverrideDescription,A container for your <b>Arrows</b> that you can carry on your back.\n\nCan be crafted by sewing <b>Leather with Fiber Cord and a Needle</b>.,
+GE_Quiver_OverrideDescription,A container for your <b>Arrows</b> that you can carry on your back.\n\nCan be crafted by sewing <b>Leather with Fiber Cord and a Needle</b>.,"Pojemnik na <b>strzały</b>, który możesz nosić na plecach.\n\nMożna go uszyć ze <b>skóry, sznurka i igły</b>."
 GE_Raft_OverrideDescription,"When stranded on a tropical island, building a <b>Raft</b> and sailing away can be your only chance at <b>returning to civilization</b>\n\nA Raft is a big project, requiring several <b>Wooden Logs</b> tied together with several <b>Ropes</b>, and lots of <b>Leather</b> sewed together with <b>Fiber Cord</b> for the sail.\nThen, lots of <b>Improvements</b> can be added once you have the base structure of your Raft.\n\nAnd the Raft itself is only half of the plan: you'll need a lot of <b>supplies</b> for the journey as you don't know how long it might take before reaching your goal.\n\n<b>Food, Water, Fiber Cord for repairs</b> are the essentials, then depending on how you plan the trip you can bring <b>Fuel</b> for your Fire Pit, <b>Fishing Supplies</b> or even some <b>Medicine</b>.\n\nThe more prepared the better! Once at Sea, watch out for <b>Favorable or Unfavorable Wind</b> and open or close your sail accordingly until you find rescue.",
 GE_Rice_OverrideTitle,Rice,Ryż
 GE_Rice_OverrideDescription,"This water grass can be found in the hidden <b>Valley</b> that lies at the heart of the island. It can be farmed for a stable grain carbohydrate which doubles as grass feed for <b>Goats</b>. \n\nRice stalks must first be obtained with a <b>Cutting Tool</b>. Grain and straw can then be separated by <b>Threshing </b> the stalks. The rice grains must then be <b>Boiled</b> in water to make them edible.\n\n<b>Rice Water</b>, the resulting water from boiling rice, can also be drunk for its stomach stabilizing properties.",
@@ -8634,7 +8634,7 @@ GE_Satchel_OverrideDescription,A pouch made of <b>Leather</b> that is easy to <b
 GE_Saturation_OverrideDescription,If you eat too much of the same food you will start getting saturated of it. This will lower your <b>Morale</b> and even make you <b>Nauseous</b> if you gets too far.\n\nFor this reason it is usually better to alternate between different food types.\n\nDrinking <b>Ginger Tea</b> can help decrease saturation and help stabilize your stomach. Being very <b>Hungry</b> will of course also decrease your saturation.,
 GE_ScrappySoup_OverrideDescription,"A cheap meal that can be made with water and bones. While satiating, this meal is relatively low in calories and should be used only when no better alternatives are available.\n\nIt can also double as a diet dish if you're looking to lose weight.",
 GE_Sea_OverrideDescription,"Being stranded on an Island means you'll be surrounded by the Sea, which can hold many useful resources.\n\nMake sure to dive all around the island, as the Sea is not a uniform space and has its own different landscapes with different things to find.\n\nFor instance, you'll tend to find more <b>Fish in Rocky Beaches</b>, and bigger fish like <b>King Threadfin near Mangroves</b>.\n\nSharks and Sea Kraits usually dwell in <b>Bays</b>, but this is also where you'll find <b>Coral or Pearls</b>.",
-GE_SeafoodCup_OverrideDescription,"A simple meal prepared on a coconut shell.\nIt needs <b>Urchin Meat, 2 portions of Shellfish and a bit of Salad Greens</b>.\n\nTasty and refreshing.",
+GE_SeafoodCup_OverrideDescription,"A simple meal prepared on a coconut shell.\nIt needs <b>Urchin Meat, 2 portions of Shellfish and a bit of Salad Greens</b>.\n\nTasty and refreshing.","Prosty posiłek przygotowany w skorupie kokosa.\nWymaga <b>mięsa jeżowca, 2 porcji skorupiaków i trochę zieleniny</b>.\n\nSmaczna i orzeźwiająca."
 GE_Seagull_OverrideTitle,Seagulls,Mewy
 GE_SeaKrait_OverrideTitle,Sea Krait,Wąż morski
 GE_SeaKrait_OverrideDescription,"These sea snakes frequent the food-rich waters of the island's <b>Bay and Mangroves</b>.\n\nWhile their venom is not particularly dangerous, it can kill you if you get a few doses in quick succession. \nIf you get bitten by a krait while swimming or spearfishing, consider taking a break from your acitivies until the effects of the venom are gone. \n\nKrait venom will slowly paralyze your legs, make your vision blurry and eventually kill you by asphyxiation if your dose is high enough.",
@@ -8664,7 +8664,7 @@ GE_Skill_RockThrowing_OverrideDescription,"A simple skill that can be trained by
 GE_Sling_OverrideDescription,"Slings can be crafted once your <b>Stone Throwing</b> skill gets high enough and are quite cheap to make, costing only some <b>Cord and a Small Cloth</b>.\n\nWhile not as strong as other ranged weapons, the Sling basically works on free ammunition and is still an acceptable weapon if its wielder is skilled enough.",
 GE_Skill_SpearFighting_OverrideDescription,"This skill increases your <b>chances</b> of hunting animals when using a spear and lowers the chances that you'll get <b>hurt</b> in the process.\n\nSpear hunting usually produces better results than other methods, usually at the cost of a higher risk of getting injured.",
 GE_Skill_SpearFishing_OverrideDescription,"This skill increases your <b>chances</b> of catching fish when uses spears and makes it more likely that you'll catch better <b>types</b>. \nIt also unlocks some blueprints like <b>Fishing Spears and Harpoons</b>.\n\nWhile spearfishing is faster than line fishing, it requires a <b>higher skill</b> to become reliable and usually catches <b>worse fish</b>.",
-GE_Skill_Stealth_OverrideDescription,This skill can help you escape from animal encounters <b>unharmed</b>.\n\nTo increase it you should just train by retreating during such encounters.,
+GE_Skill_Stealth_OverrideDescription,This skill can help you escape from animal encounters <b>unharmed</b>.\n\nTo increase it you should just train by retreating during such encounters.,"Ta umiejętność pomaga ci uciekać z potyczek <b>unikając obrażeń</b>.\n\nWyćwiczysz ją, wycofując się z niebezpiecznych sytuacji i zakradając się cicho do polowanej zwierzyny."
 GE_Skill_Swimming_OverrideTitle,Swimming,Pływanie
 GE_Skill_Swimming_OverrideDescription,Swimming is a skill to allows you to find things while <b>diving</b> and increases your chances of success when doing things in the water.\n\nThis skill lowers your chances of getting hurt by animals underwater or of failing long-distance swimming actions.,
 GE_Skill_Tailoring_OverrideDescription,"This skill allows you to craft a good number of different <b>clothing and utility</b> items.\n\nIt can be trained by weaving cord and cloth, making yarns and ropes and generally crafting any sort of tailoring item.",
@@ -8672,7 +8672,7 @@ GE_Skill_Trapping_OverrideDescription,"Your trapping skill determines which trap
 GE_Skill_Woodworking_OverrideDescription,"This skill unlocks multiple utility, entertainment and construction <b>blueprints</b> that are essential for long term survival.\nThings like <b>planks, furniture, drums and wood carvings</b> are all made available through this skill.\n\nTo increase woodworking you need to <b>craft related items, chop wood or cut wood shavings</b>.",
 GE_Skin_OverrideTitle,Skin,Skóra
 GE_Skin_OverrideDescription,"Skin can be obtained by skinning large animals like Boars, Goats or Monitor Lizards.\nBefore it can be used, fresh skin needs to be fleshed with a cutting tool and then let to dry for a while.",
-GE_SnakeGrass_OverrideTitle,Snakegrass,Trawa wężowa
+GE_SnakeGrass_OverrideTitle,Snakegrass,Wetiweria
 GE_SnakeGrass_OverrideDescription,"A very useful plant with <b>Bug Repelling</b> properties that can be found in most of the <b>Jungles</b> of the island.\n\nIts leaves can be used to make <b>Cords and Bug Repellent</b>, can be burnt on campfires to protect you against insects, used in <b>Cooking Recipes</b> and more.",
 GE_SnareTrap_OverrideDescription,"A useful trap that can be built in areas with trees and is capable of catching <b>Partridges</b> alive.\n\nIt can also catch small animals like <b>Mice, Lizards, Crabs and Seagulls</b>.\n\nThese traps need <b>Bait</b> to work and must be <b>Reset</b> every time they are triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer.",
 GE_Soap_OverrideDescription,"Soap can help clean your body and wounds much more efficiently, using less water and time. Before you can use it, soap needs to be wet.\n\nTo make it you need oil or fat, combined with lye (which is made by adding ash to water and then boiling it). The resulting mix should then be boiled in a fire.",
@@ -8692,7 +8692,7 @@ GE_Stone_OverrideDescription,"A small chunk of limestone. \n\nIt can be turned i
 GE_StoneAxe_OverrideDescription,"An Axe is an essential tool for survival. If you find yourself in a situation where you don't have one at hand, you can craft a rudimentary one by <b>sharpening a Stone and lodging it into a piece of Wood.</b>\n\nBetter axes can be made out of <b>Flint or Scrap Metal</b>, or -if you have the necessary structures to work them- out of <b>Metals like Copper</b>\n\nAxes mainly serve to chop down vegetation: <b>Trees and Bushes</b> can be cut and turned into useful crafting materials like <b>Wood, Long Sticks or Leaves.</b>\n\nThey also make for a great <b>Hammering Tool.</b>",
 GE_StoneHeavy_OverrideDescription,Large chunks of <b>Limestone</b>. Their weight makes them ideal for <b>Deadfall Traps</b>.\n\nThey can also be used to <b>Sharpen</b> tools or other stones or burnt in <b>Kilns</b> to turn them into <b>Quicklime</b>. They also come in a yellowish brimstone-rich variety that can be burnt to release their <b>Brimstone</b>.,
 GE_StoneHut_OverrideDescription,"A house made of <b>Stones and Mortar</b>. It can offer protection from <b>Storms, Rain and the Sun</b>.\n\nThe Stone Hut can receive numerous upgrades to improve it, including storage expansions, doors, wall paint and more.\nIts sturdy nature makes it completely impervious to <b>Storms</b>.",
-GE_StoneSharpened_OverrideTitle,Sharpened Stone,Zaostrzony kamień
+GE_StoneSharpened_OverrideTitle,Sharpened Stone,Naostrzony kamień
 GE_StoneSharpened_OverrideDescription,"A <b>Sharpened Stone</b>, usually made by grinding <b>Stone</b> against a <b>Heavy Stone</b>.\nIt can also be made by grinding <b>Stone</b> against a smaller stone, but that will take longer and be harsher on your hands.\n\nSharpened stones can work as acceptable cutting tools and can be used to make <b>Stone Axes</b>. Unfortunately, they are not sharp enough for more complex tasks like those required for woodworking.",
 GE_Stove_OverrideDescription,"A perfect rustic Kitchen made of Mud Bricks that can only be built indoors.\n\nIt has <b>4 cooking slots</b> (2 more than a Campfire) and the ability to <b>smoke food</b> to make it last longer.\n\nIt has a lower effect on temperature than Campfires, making it better as an indoor cooking station.",
 GE_Sugar_OverrideTitle,Sugar,Cukier
@@ -8807,7 +8807,7 @@ journal_ToDoList4_Sections[0].Entries[2].Title,Make a Clay Vase,Ulep glinianą w
 journal_ToDoList4_Sections[0].Entries[2].Content,To store water more reliably.,Aby magazynować większe ilości wody.
 journal_ToDoList66_PageTitle,JOURNAL - ADVANCED COOKING,DZIENNIK - ZAAWANSOWANE GOTOWANIE
 journal_ToDoList66_Sections[0].Entries[0].Title,Prepare Coconut Milk with Fish,Przygotuj mleko kokosowe z rybą
-journal_ToDoList66_Sections[0].Entries[0].Content,I need something tastier and more ellaborate. I'm tired of eating the same food every day.,
+journal_ToDoList66_Sections[0].Entries[0].Content,I need something tastier and more ellaborate. I'm tired of eating the same food every day.,Potrzebuję czegoś smaczniejszego i bardziej urozmaiconego. Mam dość jedzenia tego samego każdego dnia.
 journal_ToDoList66_Sections[0].Entries[1].Title,Cook a Sago Cake,Upiecz ciasto z sago
 journal_ToDoList66_Sections[0].Entries[1].Content,I would like to try cooking something more advanced.,Pora spróbować ugotować coś bardziej zaawansowanego.
 journal_ToDoList66_Sections[0].Entries[2].Title,Smoke Meat,Uwędź mięso
@@ -8818,22 +8818,22 @@ journal_ToDoListOLD_Sections[0].Entries[0].Content,Should allow me to make cloth
 journal_ToDoListOLD_Sections[0].Entries[1].Title,Build a Raft,Zbuduj tratwę
 journal_ToDoListOLD_Sections[0].Entries[1].Content,I need to build a stable enough raft to survive in the open seas.,"Muszę zbudować wystarczająco stabilną tratwę, by móc przetrwać na otwartym morzu."
 journal_ToDoListOLD_Sections[0].Entries[2].Title,Prepare salted fish,Przygotuj soloną rybę
-journal_ToDoListOLD_Sections[0].Entries[2].Content,I need supplies if I'm going to leave this island on a raft. Salted fish should last for quite a bit.,
+journal_ToDoListOLD_Sections[0].Entries[2].Content,I need supplies if I'm going to leave this island on a raft. Salted fish should last for quite a bit.,"Potrzebuję zapasów, jeśli chcę opuścić wyspę na tratwie. Solona ryba powinna mi wystarczyć na jakiś czas."
 journal_ToDoListOLD_Sections[0].Entries[3].Title,Fill Clay Vases with Water,Napełnij gliniane wazy wodą
-journal_ToDoListOLD_Sections[0].Entries[3].Content,I need enough water for the trip too. Six Clay Vases filled with water should do.,
+journal_ToDoListOLD_Sections[0].Entries[3].Content,I need enough water for the trip too. Six Clay Vases filled with water should do.,Potrzebuję też wystarczająco dużo wody. Sześć glinianych waz wypełnionych wodą powinno wystarczyć.
 journal_ToDoListOLD6_PageTitle,JOURNAL - TO DO LIST 5,DZIENNIK - LISTA ZADAŃ 5
 journal_ToDoListOLD6_Sections[0].Entries[0].Title,Deploy some Fish Traps,Rozmieść pułapki na ryby
-journal_ToDoListOLD6_Sections[0].Entries[0].Content,I should read on how to build fish traps. It should allow me to get fish while I focus on other things as well.,
+journal_ToDoListOLD6_Sections[0].Entries[0].Content,I should read on how to build fish traps. It should allow me to get fish while I focus on other things as well.,"Trzeba poczytać o budowie pułapek na ryby. To dobre źródło ryb z którego mogę korzystać, poświęcając swoją uwagę w międzyczasie innym rzeczom."
 journal_ToDoListOLD6_Sections[0].Entries[1].Title,Explore the Outskirts of the Jungle,Zbadaj obrzeża dżungli
-journal_ToDoListOLD6_Sections[0].Entries[1].Content,Perhaps I can find a way inland?,Może uda się znaleźć drogę wgłąb wyspy?
+journal_ToDoListOLD6_Sections[0].Entries[1].Content,Perhaps I can find a way inland?,Może uda się znaleźć drogę w głąb wyspy?
 journal_ToDoListOLD6_Sections[0].Entries[2].Title,Build a Solar Still,Zbuduj destylator słoneczny
-journal_ToDoListOLD6_Sections[0].Entries[2].Content,I need an extra water source. Should check the guide to see if there's anyway I can build a Solar Still with what I have.,
+journal_ToDoListOLD6_Sections[0].Entries[2].Content,I need an extra water source. Should check the guide to see if there's anyway I can build a Solar Still with what I have.,"Potrzebuję dodatkowego źródła wody. Trzeba sprawdzić w poradniku, czy da się zbudować destylator słoneczny z dostępnych mi materiałów."
 journal_ToDoListOLD6_Sections[0].Entries[3].Title,Build a Smoker,Zbuduj wędzarnię
 journal_ToDoListOLD6_Sections[0].Entries[3].Content,I need a better fire that can help make my food last longer. ,"Potrzebuję lepszego źródła ognia, który pomoże mi zabezpieczyć jedzenie przed zepsuciem."
 journal_ToDoListOLD6_Sections[0].Entries[4].Title,Build a Water Reservoir,Zbuduj zbiornik na wodę
 journal_ToDoListOLD6_Sections[0].Entries[4].Content,Build a Water Reservoir out of Mud Bricks.,Zbuduj zbiornik z błotnych cegieł.
 journal_ToDoListOLD6_Sections[0].Entries[5].Title,Craft a Fishing Spear,Zrób włócznię do łowienia ryb
-journal_ToDoListOLD6_Sections[0].Entries[5].Content,If I want to be able to get more reliable food I should craft myself a fishing spear.,
+journal_ToDoListOLD6_Sections[0].Entries[5].Content,If I want to be able to get more reliable food I should craft myself a fishing spear.,"Jeśli chcę mieć bardziej niezawodne źródło pożywienia, przydałaby mi się rybacka dzida."
 journal_ToDoListOLD6_Sections[0].Entries[6].Title,Make a Mud Brick,Zrób błotną cegłę
 journal_ToDoListOLD6_Sections[0].Entries[6].Content,Should try making a brick by mixing mud and sand.,"Spróbuj ulepić cegłę, łącząc błoto z piaskiem."
 journal_ToDoListOLD6_Sections[0].Entries[7].Title,Craft a Clay Vase,Ulep glinianą wazę
@@ -8842,9 +8842,9 @@ journal_ToDoListOLD6_Sections[0].Entries[8].Title,Craft a Loom,Zrób krosno
 journal_ToDoListOLD6_Sections[0].Entries[8].Content,Should allow me to make cloth.,Dzięki temu będę mógł wytwarzać tkaninę.
 journal_ToDoListOLD7_PageTitle,JOURNAL - LEAVING THE ISLAND,DZIENNIK - OPUSZCZENIE WYSPY
 journal_ToDoListOLD7_Sections[0].Entries[0].Title,Prepare salted fish,Przygotuj soloną rybę
-journal_ToDoListOLD7_Sections[0].Entries[0].Content,I need supplies if I'm going to leave this island on a raft. Salted fish should last for quite a bit.,
+journal_ToDoListOLD7_Sections[0].Entries[0].Content,I need supplies if I'm going to leave this island on a raft. Salted fish should last for quite a bit.,"Potrzebuję zapasów, jeśli chcę opuścić wyspę na tratwie. Solona ryba powinna mi wystarczyć na jakiś czas."
 journal_ToDoListOLD7_Sections[0].Entries[1].Title,Fill Clay Vases with Water,Napełnij gliniane wazy wodą
-journal_ToDoListOLD7_Sections[0].Entries[1].Content,I need enough water for the trip too. Six Clay Vases filled with water should do.,
+journal_ToDoListOLD7_Sections[0].Entries[1].Content,I need enough water for the trip too. Six Clay Vases filled with water should do.,Potrzebuję też wystarczająco dużo wody. Sześć glinianych waz wypełnionych wodą powinno wystarczyć.
 journal_ToDoListOLD7_Sections[0].Entries[2].Title,Build a Raft,Zbuduj tratwę
 journal_ToDoListOLD7_Sections[0].Entries[2].Content,I need to build a stable enough raft to survive in the open seas.,"Muszę zbudować wystarczająco stabilną tratwę, by móc przetrwać na otwartym morzu."
 journal_WaysOut_PageTitle,TO DO LIST 5 - VICTORY CONDITIONS,LISTA ZADAŃ 5 - WARUNKI ZWYCIĘSTWA
@@ -8893,7 +8893,7 @@ journalDefault_IslandEscape_Sections[0].Entries[0].Title,Build a Raft,Zbuduj tra
 journalDefault_IslandEscape_Sections[0].Entries[0].Content,To escape the island and get back to civilization.,Aby uciec z wyspy i wrócić do cywilizacji.
 journalDefault_IslandEscape_Sections[0].Entries[1].Title,Return to Civilization,Wróć do cywilizacji
 journalDefault_IslandEscape_Sections[0].Entries[1].Content,To finish this adventure.,Aby zakończyć tę przygodę.
-journalDefault_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,
+journalDefault_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,"Upewnij się, że zabierasz ze sobą w podróż wystarczającą ilość zapasów.\n<b>Naczynia na wodę</b> i <b>sznurki</b> do napraw są szczególnie ważne!"
 journalDefault_IslandHome_PageTitle,ISLAND HOME,DOM NA WYSPIE
 journalDefault_IslandHome_Sections[0].Entries[0].Title,Survive in the Island for 120 days,Przetrwaj na wyspie przez 120 dni
 journalDefault_IslandHome_Sections[0].Entries[0].Content,to become familiar with it.,aby dobrze ją poznać.
@@ -8976,12 +8976,12 @@ journalFarmer6_CropList1_PageTitle,CROP LIST,LISTA UPRAW
 journalFarmer6_CropList1_Sections[0].Entries[0].Title,Plant all the crops in the island,Zasadź wszystkie możliwe uprawy
 journalFarmer6_CropList1_Sections[0].Entries[0].Content,To make sure you have all your needs covered.,"Aby mieć pewność, że zaspokoją wszystkie twoje potrzeby."
 journalFarmer6_CropList1_Sections[1].Entries[0].Title,Weevil Lily,Liliowiec
-journalFarmer6_CropList1_Sections[1].Entries[1].Title,Kava,Kava
+journalFarmer6_CropList1_Sections[1].Entries[1].Title,Kava,Pieprz metystynowy
 journalFarmer6_CropList1_Sections[1].Entries[2].Title,Jasmine,Jaśmin
-journalFarmer6_CropList1_Sections[2].Entries[0].Title,Spider Lily,Pajęcza lilia
+journalFarmer6_CropList1_Sections[2].Entries[0].Title,Spider Lily,Lilia pajęcza
 journalFarmer6_CropList1_Sections[2].Entries[1].Title,Ginger,Imbir
-journalFarmer6_CropList1_Sections[2].Entries[2].Title,Sago Palm,Palma sago
-journalFarmer6_CropList1_Sections[3].Entries[0].Title,Bananas,Banany
+journalFarmer6_CropList1_Sections[2].Entries[2].Title,Sago Palm,Sagowiec
+journalFarmer6_CropList1_Sections[3].Entries[0].Title,Bananas,Bananowiec
 journalFarmer6_CropList1_Sections[3].Entries[1].Title,Yam,Pochrzyn
 journalFarmer6_CropList1_Sections[3].Entries[2].Title,Mango,Mango
 journalFarmer6_CropList2_PageTitle,CROP LIST,LISTA UPRAW
@@ -9002,7 +9002,7 @@ journalFarmer6_CropList3_Sections[0].Entries[0].Content,To make sure you have al
 journalFarmer6_CropList3_Sections[1].Entries[0].Title,Puffballs,Purchawki
 journalFarmer6_CropList3_Sections[1].Entries[1].Title,Assorted Mushrooms,Różne grzyby
 journalFarmer6_CropList3_Sections[1].Entries[2].Title,Magic Mushrooms,Grzybki halucynki
-journalFarmer6_CropList3_Sections[2].Entries[0].Title,Snake Grass,Trawa wężowa
+journalFarmer6_CropList3_Sections[2].Entries[0].Title,Snake Grass,Wetiweria
 journalFarmer6_CropList3_Sections[2].Entries[1].Title,Palm Bush,Krzew palmowy
 journalFarmer6_CropList3_Sections[2].Entries[2].Title,Wild Jujube,Krzak jujuby
 journalFarmer7_FacingDestiny_PageTitle,FACING DESTINY,STAW CZOŁA PRZEZNACZENIU
@@ -9029,7 +9029,7 @@ journalFarmer8_IslandEscape_Sections[0].Entries[0].Title,Build a Raft,Zbuduj tra
 journalFarmer8_IslandEscape_Sections[0].Entries[0].Content,To escape the island and get back to civilization.,Aby uciec z wyspy i wrócić do cywilizacji.
 journalFarmer8_IslandEscape_Sections[0].Entries[1].Title,Return to Civilization,Wróć do cywilizacji
 journalFarmer8_IslandEscape_Sections[0].Entries[1].Content,To finish this adventure.,Aby zakończyć tę przygodę.
-journalFarmer8_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,
+journalFarmer8_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,"Upewnij się, że zabierasz ze sobą w podróż wystarczającą ilość zapasów.\n<b>Naczynia na wodę</b> i <b>sznurki</b> do napraw są szczególnie ważne!"
 journalFarmer8_IslandHome_PageTitle,ISLAND HOME,DOM NA WYSPIE
 journalFarmer8_IslandHome_Sections[0].Entries[0].Title,Survive in the Island for 120 days,Przetrwaj na wyspie przez 120 dni
 journalFarmer8_IslandHome_Sections[0].Entries[0].Content,to become familiar with it.,aby dobrze ją poznać.
@@ -9074,7 +9074,7 @@ journalHunter6_Artisan_PageTitle,ARTISAN,RZEMIEŚLNIK
 journalHunter6_Artisan_Sections[0].Entries[0].Title,Craft Flint Tools,Zrób narzędzia z krzemienia
 journalHunter6_Artisan_Sections[0].Entries[0].Content,"You need: a <b>Flint Knife</b>, a <b>Flint Spear</b> and <b>Flint Axe</b>.","Potrzebujesz: <b>krzemiennego noża</b>, <b>krzemiennej włóczni</b> i <b>krzemiennej siekiery</b>."
 journalHunter6_Artisan_Sections[0].Entries[1].Title,Craft Fighting Gear,Zrób ekwipunek bojowy
-journalHunter6_Artisan_Sections[0].Entries[1].Content,"You Need: <b>Leather Pants</b>, a <b>Wooden Shield</b> and an <b>Obsidian Spear</b>.",
+journalHunter6_Artisan_Sections[0].Entries[1].Content,"You Need: <b>Leather Pants</b>, a <b>Wooden Shield</b> and an <b>Obsidian Spear</b>.","Potrzebujesz: <b>skórzanych spodni</b>, <b>drewnianej tarczy</b> i <b>obsydianowej włóczni</b>."
 journalHunter6_Artisan_Sections[0].Entries[2].Title,Craft a Ceremonial Dagger,Zrób ceremonialny sztylet
 journalHunter6_Artisan_Sections[0].Entries[2].Content,To tempt the Enemy.,Aby zwabić Wroga.
 journalHunter6_Hunter_PageTitle,HUNTING LIST,LISTA POLOWAŃ
@@ -9091,9 +9091,9 @@ journalHunter6_Hunter_Sections[3].Entries[1].Title,Goat,Koza
 journalHunter6_Hunter_Sections[3].Entries[2].Title,Shark,Rekin
 journalHunter6_Shaman_PageTitle,SHAMAN,SZAMAN
 journalHunter6_Shaman_Sections[0].Entries[0].Title,Craft Medical Supplies,Przygotuj środki medyczne
-journalHunter6_Shaman_Sections[0].Entries[0].Content,"You need: <b>Ash Dressing</b>, <b>Tourniquet</b>, <b>Threaded Needle</b> and <b>Splint</b>. ",
+journalHunter6_Shaman_Sections[0].Entries[0].Content,"You need: <b>Ash Dressing</b>, <b>Tourniquet</b>, <b>Threaded Needle</b> and <b>Splint</b>. ","Potrzebujesz: <b>Opatrunku z popiołu</b>, <b>Opaski uciskowej</b>, <b>Nawleczonej igły</b> i <b>Szyny</b>."
 journalHunter6_Shaman_Sections[0].Entries[1].Title,Plant Medicinal Herbs,Zasadź zioła lecznicze
-journalHunter6_Shaman_Sections[0].Entries[1].Content,"You need: <b>Kava</b>, <b>Spider Lily</b> and <b>Aloe Vera</b>.","Potrzebujesz: <b>kavy</b>, <b>pajęczej lilii</b> i <b>aloesu</b>."
+journalHunter6_Shaman_Sections[0].Entries[1].Content,"You need: <b>Kava</b>, <b>Spider Lily</b> and <b>Aloe Vera</b>.","Potrzebujesz: <b>pieprzu metystynowego</b>, <b>lilii pajęczej</b> i <b>aloesu</b>."
 journalHunter6_Shaman_Sections[0].Entries[2].Title,Craft a Lizard Drum,Zrób jaszczurzy bęben
 journalHunter6_Shaman_Sections[0].Entries[2].Content,To summon the Enemy.,Aby przyzwać Wroga.
 journalHunter6_Warrior_PageTitle,WARRIOR,WOJOWNIK
@@ -9117,7 +9117,7 @@ journalHunter8_IslandEscape_Sections[0].Entries[0].Title,Build a Raft,Zbuduj tra
 journalHunter8_IslandEscape_Sections[0].Entries[0].Content,To escape the island and get back to civilization.,Aby uciec z wyspy i wrócić do cywilizacji.
 journalHunter8_IslandEscape_Sections[0].Entries[1].Title,Return to Civilization,Wróć do cywilizacji
 journalHunter8_IslandEscape_Sections[0].Entries[1].Content,To finish this adventure.,Aby zakończyć tę przygodę.
-journalHunter8_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,
+journalHunter8_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,"Upewnij się, że zabierasz ze sobą w podróż wystarczającą ilość zapasów.\n<b>Naczynia na wodę</b> i <b>sznurki</b> do napraw są szczególnie ważne!"
 journalHunter8_IslandHome_PageTitle,ISLAND HOME,DOM NA WYSPIE
 journalHunter8_IslandHome_Sections[0].Entries[0].Title,Survive in the Island for 120 days,Przetrwaj na wyspie przez 120 dni
 journalHunter8_IslandHome_Sections[0].Entries[0].Content,to become familiar with it.,aby dobrze ją poznać.
@@ -9170,9 +9170,9 @@ journalMermaid4_WeatherProtection_Sections[1].Entries[2].Title,Craft a Straw Cap
 journalMermaid4_WeatherProtection_Sections[1].Entries[2].Content,To protect yourself from the Sun even more.,Aby jeszcze lepiej chronić się przed słońcem.
 journalMermaid5_FacingDestiny_PageTitle,FACING DESTINY,STAW CZOŁA PRZEZNACZENIU
 journalMermaid5_FacingDestiny_Sections[0].Entries[0].Title,Give birth,Urodź dziecko
-journalMermaid5_FacingDestiny_Sections[1].Entries[0].Title,Return to the sea,Wróć do morza
+journalMermaid5_FacingDestiny_Sections[1].Entries[0].Title,Return to the sea,Wróć w głębiny
 journalMermaid5_FacingDestiny_Sections[1].Entries[1].Title,Make the Island your Home,Uczyń z wyspy swój dom
-journalMermaid5_FacingDestiny_Sections[2].Entries[0].Title,Return to the sea,Wróć do morza
+journalMermaid5_FacingDestiny_Sections[2].Entries[0].Title,Return to the sea,Wróć w głębiny
 journalMermaid5_FacingDestiny_Sections[2].Entries[1].Title,Make the Island your Home,Uczyń z wyspy swój dom
 journalMermaid6_IslandHome_PageTitle,ISLAND HOME,DOM NA WYSPIE
 journalMermaid6_IslandHome_Sections[0].Entries[0].Title,Survive in the Island for 120 days,Przetrwaj na wyspie przez 120 dni
@@ -9180,12 +9180,12 @@ journalMermaid6_IslandHome_Sections[0].Entries[0].Content,to become familiar wit
 journalMermaid6_IslandHome_Sections[0].Entries[1].Title,Reach Maximum Comfort,Osiągnij maksymalny komfort
 journalMermaid6_IslandHome_Sections[0].Entries[1].Content,To turn your house into your home.,"Aby poczuć, że twój dom tutaj jest twoim prawdziwym domem."
 journalMermaid6_IslandHome_Sections[0].Entries[2].Content,"Once you are ready to call the island your home, a new <b>home improvement</b> will appear on it.\nMake sure to interact with it to finish your adventure.",
-journalMermaid6_ReturnToSea_PageTitle,RETURN TO THE SEA,POWRÓT DO MORZA
+journalMermaid6_ReturnToSea_PageTitle,RETURN TO THE SEA,POWRÓT W GŁĘBINY
 journalMermaid6_ReturnToSea_Sections[0].Entries[0].Title,Kill 4 Seahounds,Zabij 4 Morskie Ogary
 journalMermaid6_ReturnToSea_Sections[0].Entries[0].Content,To clear the way before going back to the sea,Aby oczyścić drogę przed powrotem do morza
 journalMermaid6_ReturnToSea_Sections[0].Entries[1].Title,Store enough body fat,Zgromadź wystarczająco tłuszczu w ciele
 journalMermaid6_ReturnToSea_Sections[0].Entries[1].Content,To survive the journey back into the depths,Aby przetrwać podróż z powrotem w głębiny
-journalMermaid6_ReturnToSea_Sections[0].Entries[2].Content,"Once your preparations are complete, you will have the option to <b>leave and return to the ocean</b> from any Sea card.",
+journalMermaid6_ReturnToSea_Sections[0].Entries[2].Content,"Once your preparations are complete, you will have the option to <b>leave and return to the ocean</b> from any Sea card.","Gdy zakończysz przygotowania, możesz <b>opuścić wyspę i wrócić w głębiny</b> z dowolnej karty Morza."
 journalTourist1_Priorities_PageTitle,PRIORITIES,PRIORYTETY
 journalTourist1_Priorities_Sections[0].Entries[0].Title,Take Painkillers,Weź środki przeciwbólowe
 journalTourist1_Priorities_Sections[0].Entries[0].Content,To stay sane and in control.,Aby zachować rozsądek i kontrolę nad sobą.
@@ -9264,7 +9264,7 @@ journalTourist7_IslandEscape_Sections[0].Entries[0].Title,Build a Raft,Zbuduj tr
 journalTourist7_IslandEscape_Sections[0].Entries[0].Content,To escape the island and get back to work at the office,Aby uciec z wyspy i wrócić do pracy w biurze
 journalTourist7_IslandEscape_Sections[0].Entries[1].Title,Return to Civilization,Wróć do cywilizacji
 journalTourist7_IslandEscape_Sections[0].Entries[1].Content,To put an end to these holidays,Aby zakończyć te wakacje
-journalTourist7_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,
+journalTourist7_IslandEscape_Sections[0].Entries[2].Content,Make sure to take enough supplies with you on your journey.\n<b>Water containers</b> and <b>fiber cords</b> for repairs are particularly important!,"Upewnij się, że zabierasz ze sobą w podróż wystarczającą ilość zapasów.\n<b>Naczynia na wodę</b> i <b>sznurki</b> do napraw są szczególnie ważne!"
 journalTourist7_IslandHome_PageTitle,PERMANENT HOLIDAYS,WAKACJE NA STAŁE
 journalTourist7_IslandHome_Sections[0].Entries[0].Title,Survive in the Island for 120 days,Przetrwaj na wyspie przez 120 dni
 journalTourist7_IslandHome_Sections[0].Entries[0].Content,to become familiar with it.,aby dobrze ją poznać.
@@ -9272,22 +9272,22 @@ journalTourist7_IslandHome_Sections[0].Entries[1].Title,Reach Maximum Comfort,Os
 journalTourist7_IslandHome_Sections[0].Entries[1].Content,To turn your small resort into a 5 star hotel!,Aby zamienić mój mały kurort w hotel 5-gwiazdkowy!
 journalTourist7_IslandHome_Sections[0].Entries[2].Content,"Once you are ready to call the island your home, a new <b>home improvement</b> will appear on it.\nMake sure to interact with it to finish your adventure.",
 pg_ClayCrafts_PageTitle,Clay Crafts,Rękodzieło z gliny
-pg_ClayCrafts_Sections[0].Entries[0].Content,Mud and clay can be great construction materials and perfect for creating water containers. ,
+pg_ClayCrafts_Sections[0].Entries[0].Content,Mud and clay can be great construction materials and perfect for creating water containers. ,Błoto i glina mogą z powodzeniem posłużyć jako materiały budowlane. Dobrze też się nadają do tworzenia pojemników na wodę.
 pg_ClayCrafts_Sections[0].Entries[1].Title,\n<b>Mud Bricks</b>,\n<b>Błotne cegły</b>
-pg_ClayCrafts_Sections[0].Entries[1].Content,"\nCombine <b>mud</b> with <b>temper</b> such as sand, fiber or ashes to make mud bricks. They make for a great construction material.",
+pg_ClayCrafts_Sections[0].Entries[1].Content,"\nCombine <b>mud</b> with <b>temper</b> such as sand, fiber or ashes to make mud bricks. They make for a great construction material.","\nPołącz <b>błoto</b> z <b>utwardzczam</b> takim jak piasek, włókna lub popiół, aby zrobić błotne cegły. Są świetnym materiałem budowlanym."
 pg_ClayCrafts_Sections[0].Entries[2].Title,<b>Clay</b>,<b>Glina</b>
-pg_ClayCrafts_Sections[0].Entries[2].Content,Crush <b>mud</b> or mix <b>crushed dirt</b> with <b>water</b> to make clay. A great material for water <b>containers</b>.,
+pg_ClayCrafts_Sections[0].Entries[2].Content,Crush <b>mud</b> or mix <b>crushed dirt</b> with <b>water</b> to make clay. A great material for water <b>containers</b>.,"Ugnieć <b>błoto</b> lub wymieszaj <b>rozdrobnioną ziemię</b> z <b>wodą</b>, aby uzyskać glinę. To świetny materiał do tworzenia <b>naczyń</b>."
 pg_ClayCrafts_Sections[0].Entries[3].Title,<b>Kiln</b>,<b>Piec ceramiczny</b>
 pg_ClayCrafts_Sections[0].Entries[3].Content,This <b>mud brick</b> structure is required to fire most <b>clay containers</b>.,Ta konstrukcja z <b>błotnych cegieł</b> służy do wypalania większości <b>naczyń z gliny</b>.
 pg_Coconuts_PageTitle,Coconuts,Kokosy
 pg_Coconuts_Sections[0].Entries[0].Title,\n<b>Husk</b>,\n<b>Łuska</b>
-pg_Coconuts_Sections[0].Entries[0].Content,\nA coconut's husk can be removed with a <b>cutting tool</b> and its <b>fibers</b> used for making <b>cords and rope</b>.,
+pg_Coconuts_Sections[0].Entries[0].Content,\nA coconut's husk can be removed with a <b>cutting tool</b> and its <b>fibers</b> used for making <b>cords and rope</b>.,"\nŁupinę kokosa można usunąć <b>nożem lub ostrym kamieniem</b>, a jego <b>włókna</b> wykorzystać do wyrobu <b>sznurków i lin</b>."
 pg_Coconuts_Sections[0].Entries[1].Title,\n<b>Drinking</b>,\n<b>Picie</b>
-pg_Coconuts_Sections[0].Entries[1].Content,\nA <b>cutting tool</b> can be used to drill a hole into a coconut to access its <b>water</b> without spilling it.,
+pg_Coconuts_Sections[0].Entries[1].Content,\nA <b>cutting tool</b> can be used to drill a hole into a coconut to access its <b>water</b> without spilling it.,\n<b>Nóż lub ostry kamień</b> pozwala wywiercić otwór w kokosie i dostać się do <b>wody</b> bez jej rozlewania.
 pg_Coconuts_Sections[0].Entries[2].Title,\n<b>Eating</b>,\n<b>Jedzenie</b>
-pg_Coconuts_Sections[0].Entries[2].Content,\nCrack the shell with any <b>rock or heavy object</b> to access its <b>meat</b>.\n,
+pg_Coconuts_Sections[0].Entries[2].Content,\nCrack the shell with any <b>rock or heavy object</b> to access its <b>meat</b>.\n,"\nRozbij skorupę <b>kamieniem lub ciężkim przedmiotem</b>, aby dostać się do <b>miąższu</b>."
 pg_Coconuts_Sections[0].Entries[3].Title,\n<b>Coconut Bowls</b>,\n<b>Kokosowe miski</b>
-pg_Coconuts_Sections[0].Entries[3].Content,\nCoconut shells can be used as improvised <b>bowls</b> to <b>collect rain water</b> with or cook things on. ,
+pg_Coconuts_Sections[0].Entries[3].Content,\nCoconut shells can be used as improvised <b>bowls</b> to <b>collect rain water</b> with or cook things on. ,\nSkorupy kokosów można wykorzystać jako prowizoryczne <b>miski</b> do <b>zbierania deszczówki</b> lub gotowania.
 pg_Crops_PageTitle,Crops,Uprawy
 pg_Crops_Sections[0].Entries[0].Title,<b>Basics</b>,<b>Podstawy</b>
 pg_Crops_Sections[0].Entries[0].Content,"Crops need water to survive and will die if their <b>hydration</b> level ever reaches zero. Make sure to keep them <b>hydrated, fertilized and safe</b> from pests and you'll be growing your plants in no time.",
@@ -9304,11 +9304,11 @@ pg_Fertilizers_Sections[0].Entries[2].Title,<b>Fertilizer</b>,<b>Nawóz</b>
 pg_Fertilizers_Sections[0].Entries[2].Content,"You can craft your own very powerful fertilizer by building a <b>Compost Bin</b> and feeding it organic matter.\nYou can also create your own <b>saltpeter</b>, another good fertilizer, by building a </b>Niter Bed</b> and regularly watering it with <b>Lye</b>.",
 pg_Fire_PageTitle,Fire,Ogień
 pg_Fire_Sections[0].Entries[0].Title,<b>1- Making a Hand Drill</b>,<b>1- Robienie świdra ogniowego</b>
-pg_Fire_Sections[0].Entries[0].Content,\nCut some <b>sticks</b> with a <b>knife or sharpened stone</b> to make yourself a <b>hand drill</b>. \n,
+pg_Fire_Sections[0].Entries[0].Content,\nCut some <b>sticks</b> with a <b>knife or sharpened stone</b> to make yourself a <b>hand drill</b>. \n,"\nPotnij trochę <b>patyków</b> z pomocą <b>noża lub ostrego kamienia</b>, żeby zrobić <b>świder ogniowy</b>."
 pg_Fire_Sections[0].Entries[1].Title,\n<b>2- Building a Campfire</b>,\n<b>2- Budowanie ogniska</b>
-pg_Fire_Sections[0].Entries[1].Content,"\nA <b>Campfire</b> can be build through the proper <b>blueprint</b> with <b>wood, sticks and 4 stones</b>.\n",
+pg_Fire_Sections[0].Entries[1].Content,"\nA <b>Campfire</b> can be build through the proper <b>blueprint</b> with <b>wood, sticks and 4 stones</b>.\n","\n<b>Ognisko</b> można zbudować według odpowiedniego <b>schematu</b>, używając <b>drewna, patyków i 4 kamieni</b>."
 pg_Fire_Sections[0].Entries[2].Title,\n<b>3- Lighting a Fire</b>,\n<b>3- Rozpalanie ognia</b>
-pg_Fire_Sections[0].Entries[2].Content,"\nA <b>hand drill</b> can be used to light tinder such as <b>dry leaves or fiber</b>. Once the tinder is lit, drag it to a fire to light it.",
+pg_Fire_Sections[0].Entries[2].Content,"\nA <b>hand drill</b> can be used to light tinder such as <b>dry leaves or fiber</b>. Once the tinder is lit, drag it to a fire to light it.","\n<b>Świder ogniowy</b> można wykorzystać do zapalenia podpałki (np. <b>suchych liści lub włókien</b>). Gdy podpałka zapłonie, przeciągnij ją na ognisko, żeby je podpalić z jej pomocą."
 pg_HealthAilments_PageTitle,Health - Ailments,Zdrowie - Dolegliwości
 pg_HealthAilments_Sections[0].Entries[0].Title,<b>Diarrhoea</b>,<b>Biegunka</b>
 pg_HealthAilments_Sections[0].Entries[0].Content,Diarrhoea is caused by some <b>bacteria</b> and by eating too much of certain foods like <b>coconuts</b>. Diarrhoea will lower your <b>morale</b> and make you lose <b>hydration</b> considerably faster. It can be treated by eating <b>charcoal</b>.,
@@ -9365,7 +9365,7 @@ pg_HydrationTips_Sections[0].Entries[0].Content,\nThe hotter you are the faster 
 pg_HydrationTips_Sections[0].Entries[1].Title,\n<b>Food Hydration</b>,\n<b>Nawadnianie się przez jedzenie</b>
 pg_HydrationTips_Sections[0].Entries[1].Content,\nFoods that are high in water like <b>shellfish and fruits</b> can help you go without water for longer.,"\nŻywność bogata w wodę, jak <b>owoce morza i owoce</b>, pozwala dłużej przetrwać bez picia."
 pg_HydrationTips_Sections[0].Entries[2].Title,\n<b>Fever and Diarrhoea</b>,\n<b>Gorączka i biegunka</b>
-pg_HydrationTips_Sections[0].Entries[2].Content,\nThese two can make you lose hydration much faster. Eat <b>charcoal</b> to treat diarrhoea and <b>Kava</b> to temporarily lower your fever.,"\nTe dwa stany mocno przyspieszają odwodnienie. Jedz <b>węgiel</b>, by leczyć biegunkę i użyj <b>korzenia kavy</b>, by obniżyć gorączkę."
+pg_HydrationTips_Sections[0].Entries[2].Content,\nThese two can make you lose hydration much faster. Eat <b>charcoal</b> to treat diarrhoea and <b>Kava</b> to temporarily lower your fever.,"\nTe dwa stany mocno przyspieszają odwodnienie. Jedz <b>węgiel</b>, by leczyć biegunkę i użyj <b>pieprzu metystynowego</b>, by obniżyć gorączkę."
 pg_MentalWellbeing_PageTitle,Mental Wellbeing,Zdrowie psychiczne
 pg_MentalWellbeing_Sections[0].Entries[0].Content,Your mental state is just as important as your physical one. You should take good care of yourself and stay focused and pragmatic. ,"Twój stan psychiczny jest równie ważny co fizyczny. Dbaj o siebie, bądź skupiony i pragmatyczny."
 pg_MentalWellbeing_Sections[0].Entries[1].Title,<b>Food and Water</b>,<b>Jedzenie i woda</b>
@@ -9445,10 +9445,10 @@ pg_Pests_Sections[0].Entries[2].Content,"<b>Fungus</b> grows on humid environmen
 pg_SaladGreens_PageTitle,Salad Greens,Zielenina
 pg_SaladGreens_Sections[0].Entries[0].Content,"This term refers to light, edible plant matter that can be used in <b>Salads</b> or in other <b>Cooking Recipes</b>.\n\nSome examples are: <b>Lemongrass, Snakegrass, Seaweed, China Rose Flowers and Banana Stems.</b>",
 pg_Tools_PageTitle,Tools,Narzędzia
-pg_Tools_Sections[0].Entries[0].Title,<b>Sharpened Stone</b>,<b>Zaostrzony kamień</b>
+pg_Tools_Sections[0].Entries[0].Title,<b>Sharpened Stone</b>,<b>Naostrzony kamień</b>
 pg_Tools_Sections[0].Entries[0].Content,"Combine a <b>Stone and a Heavy stone</b> to create a sharpened stone, which can be used as a rudimentary <b>knife</b> or as part of more complex tools.",
 pg_Tools_Sections[0].Entries[1].Title,<b>Stone Axe</b>,<b>Kamienna siekiera</b>
-pg_Tools_Sections[0].Entries[1].Content,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.,"Dzięki odpowiedniemu schematowi można połączyć <b>drewno</b> i <b>zaostrzony kamień</b>, by stworzyć prostą kamienną siekierę."
+pg_Tools_Sections[0].Entries[1].Content,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.,"Dzięki odpowiedniemu schematowi można połączyć <b>drewno</b> i <b>naostrzony kamień</b>, by stworzyć prostą kamienną siekierę."
 pg_Tools_Sections[0].Entries[2].Title,<b>Rustic Spear</b>,<b>Dzida</b>
 pg_Tools_Sections[0].Entries[2].Content,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.,
 pg_TutorialVideos_PageTitle,NEOMARE'S VIDEOS,FILMIKI NEOMARE
@@ -9474,7 +9474,7 @@ Obj1_EatDrinkCoconut_ObjectiveDescription,Drink and eat from a Coconut,Pij i jed
 Obj1_EatDrinkCoconut_OnCompleteActions[0].ActionName,Courage,Odwaga
 Obj1_ExploreBeach_ObjectiveDescription,Explore the island's beach.,Zbadaj plażę.
 Obj1_ExploreBeach_OnCompleteActions[0].ActionName,Courage,Odwaga
-Obj1_MakeSharpenedStone_ObjectiveDescription,Craft a Sharpened Stone,Zrób zaostrzony kamień
+Obj1_MakeSharpenedStone_ObjectiveDescription,Craft a Sharpened Stone,Naostrz kamień
 Obj1_MakeSharpenedStone_OnCompleteActions[0].ActionName,Courage,Odwaga
 Obj2_CookFishOld_ObjectiveDescription,Cook a Fish,Ugotuj rybę
 Obj2_CookFishOld_OnCompleteActions[0].ActionName,Courage,Odwaga
@@ -9620,7 +9620,7 @@ ObjF7_PlantGinger_ObjectiveDescription,Plant Ginger,Posadź imbirowce
 ObjF7_PlantGinger_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantJasmine_ObjectiveDescription,Plant Jasmine,Posadź jaśmin
 ObjF7_PlantJasmine_OnCompleteActions[0].ActionName,Courage,Odwaga
-ObjF7_PlantKava_ObjectiveDescription,Plant Kava,Posadź kavę
+ObjF7_PlantKava_ObjectiveDescription,Plant Kava,Posadź pieprz metystynowy
 ObjF7_PlantKava_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantLemongrass_ObjectiveDescription,Plant Lemongrass,Posadź trawę cytrynową
 ObjF7_PlantLemongrass_OnCompleteActions[0].ActionName,Courage,Odwaga
@@ -9630,7 +9630,7 @@ ObjF7_PlantMango_ObjectiveDescription,Plant Mango,Zasadź mango
 ObjF7_PlantMango_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantNippaPalm_ObjectiveDescription,Plant Nippa Palms,Zasadź palmy nipa
 ObjF7_PlantNippaPalm_OnCompleteActions[0].ActionName,Courage,Odwaga
-ObjF7_PlantPalmBush_ObjectiveDescription,Plant Palm Bush,Posadź palmowe krzewy
+ObjF7_PlantPalmBush_ObjectiveDescription,Plant Palm Bush,Posadź krzewy palmowe
 ObjF7_PlantPalmBush_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantPalmTree_ObjectiveDescription,Plant Palm Tree,Posadź palmy
 ObjF7_PlantPalmTree_OnCompleteActions[0].ActionName,Courage,Odwaga
@@ -9638,9 +9638,9 @@ ObjF7_PlantPuffballs_ObjectiveDescription,Plant Puffballs,Posadź purchawki
 ObjF7_PlantPuffballs_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantSagoPalm_ObjectiveDescription,Plant Sago Palm,Posadź sagowce
 ObjF7_PlantSagoPalm_OnCompleteActions[0].ActionName,Courage,Odwaga
-ObjF7_PlantSnakegrass_ObjectiveDescription,Plant Snakegrass,Zasadź trawę wężową
+ObjF7_PlantSnakegrass_ObjectiveDescription,Plant Snakegrass,Zasadź wetiwerię
 ObjF7_PlantSnakegrass_OnCompleteActions[0].ActionName,Courage,Odwaga
-ObjF7_PlantSpiderLily_ObjectiveDescription,Plant Spider Lily,Posadź pajęcze lilie
+ObjF7_PlantSpiderLily_ObjectiveDescription,Plant Spider Lily,Posadź lilie pajęcze
 ObjF7_PlantSpiderLily_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjF7_PlantTropicalAlmonds_ObjectiveDescription,Plant Tropical Almonds,Posadź migdałowiec
 ObjF7_PlantTropicalAlmonds_OnCompleteActions[0].ActionName,Courage,Odwaga
@@ -9770,7 +9770,7 @@ ObjM5_Pregnancy_ObjectiveDescription,Give Birth,Urodź dziecko
 ObjM5_Pregnancy_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjM9_ApplyMud_ObjectiveDescription,Apply Mud to Skin,Wysmaruj się błotem
 ObjM9_ApplyMud_OnCompleteActions[0].ActionName,Courage,Odwaga
-ObjM9_DrinkGinger_ObjectiveDescription,Drink Ginger Tea,Wypij napar z imbiru
+ObjM9_DrinkGinger_ObjectiveDescription,Drink Ginger Tea,Wypij imbirowy napar
 ObjM9_DrinkGinger_OnCompleteActions[0].ActionName,Courage,Odwaga
 ObjT1_EatSandwitch_ObjectiveDescription,Eat Chicken Sandwitch,Zjedz kanapkę z kurczakiem
 ObjT1_EatSandwitch_OnCompleteActions[0].ActionName,Determination,Determinacja
@@ -9944,14 +9944,14 @@ Obj_FishingTrap_ObjectiveDescription,Make a Fishing Trap,Zrób pułapkę na ryby
 Obj_Husk_ObjectiveDescription,Dehusk a Coconut,Obierz kokosa
 Obj_Hygiene_ObjectiveDescription,Hygiene,Higiena
 Obj_InLand_ObjectiveDescription,Explore inland to try and find help.,"Zbadaj wnętrze wyspy, by znaleźć pomoc"
-Obj_Kava_ObjectiveDescription,Kava,Kava
+Obj_Kava_ObjectiveDescription,Kava,Pieprz metystynowy
 Obj_LongLastingFood_ObjectiveDescription,Long Lasting Food,Trwała żywność
 Obj_MudBricks_ObjectiveDescription,Make mud bricks.,Zrób błotne cegły.
 Obj_Sailed_ObjectiveDescription,Leave the island with a Raft,Opuść wyspę na tratwie
 Obj_Shelter_ObjectiveDescription,Make a Shelter,Zrób schronienie
 Obj_Smoker_ObjectiveDescription,Make a Smoker,Zrób wędzarnię
 Obj_SOS_ObjectiveDescription,Make an SOS sign,Zrób znak SOS
-Obj_SpiderLily_ObjectiveDescription,Spider Lily,Pajęcza lilia
+Obj_SpiderLily_ObjectiveDescription,Spider Lily,Lilia pajęcza
 Obj_WoundDressing_ObjectiveDescription,Dressing Wounds,Opatrywanie ran
 Obj_Wrappings_ObjectiveDescription,Make Wrappings,Zrób owijki
 Pk_1_AbandonedFarm_PerkName,Abandoned Farm,Opuszczona farma
@@ -10286,7 +10286,7 @@ Pop_Cobra_Statuses[0].GameName,Small Population,Mała populacja
 Pop_Cobra_Statuses[1].GameName,Medium Population,Średnia populacja
 Pop_Cobra_Statuses[2].GameName,Large Population,Duża populacja
 Pop_Cobra_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
-Pop_Conch_GameName,Population Conch,Populacja ślimaków morskich
+Pop_Conch_GameName,Population Conch,Populacja ślimaków
 Pop_Conch_Statuses[0].GameName,Small Population,Mała populacja
 Pop_Conch_Statuses[1].GameName,Medium Population,Średnia populacja
 Pop_Conch_Statuses[2].GameName,Large Population,Duża populacja
@@ -10426,13 +10426,13 @@ Coffee_JungleHighlandsPop_Statuses[0].GameName,Small Population,Mała populacja
 Coffee_JungleHighlandsPop_Statuses[1].GameName,Large Population,Duża populacja
 Coffee_JungleHighlandsPop_Statuses[2].GameName,Very Large Population,Bardzo duża populacja
 Coffee_JungleHighlandsPop_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
-Ginger_MangrovesPop_GameName,Mangroves Ginger,Imbir w lesie namorzynowym
+Ginger_MangrovesPop_GameName,Mangroves Ginger,Imbirowce w lesie namorzynowym
 Ginger_MangrovesPop_Statuses[0].GameName,Small Population,Mała populacja
 Ginger_MangrovesPop_Statuses[1].GameName,Medium Population,Średnia populacja
 Ginger_MangrovesPop_Statuses[2].GameName,Large Population,Duża populacja
 Ginger_MangrovesPop_Statuses[3].GameName,Overflowing Population,Zbyt duża populacja
 Ginger_MangrovesPop_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
-Ginger_WetlandsPop_GameName,Wetlands Ginger,Imbir na mokradłach
+Ginger_WetlandsPop_GameName,Wetlands Ginger,Imbirowce na mokradłach
 Ginger_WetlandsPop_Statuses[0].GameName,Small Population,Mała populacja
 Ginger_WetlandsPop_Statuses[1].GameName,Medium Population,Średnia populacja
 Ginger_WetlandsPop_Statuses[2].GameName,Large Population,Duża populacja
@@ -10443,7 +10443,7 @@ Jasmine_JunglePop_Statuses[0].GameName,Small Population,Mała populacja
 Jasmine_JunglePop_Statuses[1].GameName,Large Population,Duża populacja
 Jasmine_JunglePop_Statuses[2].GameName,Very Large Population,Bardzo duża populacja
 Jasmine_JunglePop_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
-Kava_JunglePop_GameName,Jungle Kava,Kava w dżungli
+Kava_JunglePop_GameName,Jungle Kava,Pieprz w dżungli
 Kava_JunglePop_Statuses[0].GameName,Small Population,Mała populacja
 Kava_JunglePop_Statuses[1].GameName,Large Population,Duża populacja
 Kava_JunglePop_Statuses[2].GameName,Very Large Population,Bardzo duża populacja
@@ -10515,7 +10515,7 @@ Sago_WetlandsPop_Statuses[0].GameName,Small Population,Mała populacja
 Sago_WetlandsPop_Statuses[1].GameName,Large Population,Duża populacja
 Sago_WetlandsPop_Statuses[2].GameName,Very Large Population,Bardzo duża populacja
 Sago_WetlandsPop_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
-SpiderLily_WetlandsPop_GameName,Wetlands Spider Lily,Pajęcza lilia na mokradłach
+SpiderLily_WetlandsPop_GameName,Wetlands Spider Lily,Lilia pajęcza na mokradłach
 SpiderLily_WetlandsPop_Statuses[0].GameName,Small Population,Mała populacja
 SpiderLily_WetlandsPop_Statuses[1].GameName,Large Population,Duża populacja
 SpiderLily_WetlandsPop_Statuses[2].GameName,Very Large Population,Bardzo duża populacja
@@ -10620,17 +10620,17 @@ SaturationVegetables_Statuses[1].GameName,I'm a bit tired of eating Vegetables..
 SaturationYam_GameName,Saturation Yam,Przesyt pochrzynem
 SaturationYam_Description,Shows how tired you are of eating Yam. Lowers your morale and gets you nauseous if it gets too high.,"Pokazuje, jak bardzo masz dość jedzenia pochrzynu. Zbyt wysoki poziom obniża morale i wywołuje mdłości."
 SaturationYam_Statuses[0].GameName,I'm so sick of eating Yam...,Pochrzyn już mi bokiem wychodzi...
-SaturationYam_Statuses[1].GameName,I'm a bit tired of eating Yam...,Pochrzyn już mi się trochę przejadły...
+SaturationYam_Statuses[1].GameName,I'm a bit tired of eating Yam...,Pochrzyn już mi się trochę przejadł...
 Skill_Archery_GameName,Archery,Łucznictwo
-Skill_Archery_Description,Shows how good you are with bows and arrows. Increases your success chances when hunting with this weapon.,"Pokazuje, jak dobrze radzisz sobie z łukiem. Zwiększa szansę na sukces podczas polowania z użyciem tej broni."
+Skill_Archery_Description,Shows how good you are with bows and arrows. Increases your success chances when hunting with this weapon.,"Pokazuje, jak dobrze radzisz sobie z łukiem. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_Climbing_GameName,Climbing,Wspinaczka
 Skill_Climbing_Description,Shows how good you are at climbing. Lowers your chances of getting hurt when climbing.,"Pokazuje, jak dobre są twoje umiejętności wspinaczkowe. Obniża ryzyko wypadku podczas wspinaczki."
 Skill_Cooking_GameName,Cooking,Gotowanie
-Skill_Cooking_Description,Shows how good you are at cooking. Unlocks new recipes as it gets higher.,Pokazuje poziom gotowania. Odblokowuje nowe przepisy.
+Skill_Cooking_Description,Shows how good you are at cooking. Unlocks new recipes as it gets higher.,"Pokazuje, jak dobrze radzisz sobie z gotowaniem. Odblokowuje nowe przepisy."
 Skill_Crafting_GameName,Crafting,Wytwarzanie
-Skill_Crafting_Description,Shows how good you are at crafting. Unlocks new recipes as it gets higher.,Pokazuje poziom wytwarzania. Odblokowuje nowe przepisy.
+Skill_Crafting_Description,Shows how good you are at crafting. Unlocks new recipes as it gets higher.,"Pokazuje, jak dobrze radzisz sobie z wytwarzaniem. Odblokowuje nowe przepisy."
 Skill_Fishing_GameName,Fishing,Wędkarstwo
-Skill_Fishing_Description,Shows how good you are at fishing. Increases your chances of success and the quality of the fish when fishing.,"Pokazuje, jak dobrze łowisz ryby. Zwiększa szanse powodzenia i jakość ryb."
+Skill_Fishing_Description,Shows how good you are at fishing. Increases your chances of success and the quality of the fish when fishing.,"Pokazuje, jak dobrze radzisz sobie z łowieniem ryb. Zwiększa szanse na złapanie czegoś i jakość złowionych ryb."
 Skill_Fishing_NotEnoughText,Fishing Skill too low,Za niski poziom wędkarstwa
 Skill_Handguns_GameName,Handguns,Pistolety
 Skill_Handguns_Description,Shows how good you are with handguns. Increases your success chances when hunting with these weapons.,"Pokazuje, jak dobre są twoje umiejętności w posługiwaniu się pistoletami. Zwiększa szansę na sukces podczas polowania z użyciem tej broni."
@@ -10644,17 +10644,17 @@ Skill_Percussion_GameName,Percussion,Gra na bębnie
 Skill_Percussion_Description,Shows how good you are at playing percussive instruments. Unlocks new rhythms as it gets higher.,"Pokazuje, jak dobrze grasz na instrumentach perkusyjnych. Odblokowuje nowe rytmy."
 Skill_Percussion_NotEnoughText,Not enough skill.,Za niski poziom umiejętności.
 Skill_RockThrowing_GameName,Rock Throwing,Rzucanie kamieniami
-Skill_RockThrowing_Description,Shows how good you are at throwing rocks. Increases your success chances when throwing rocks.,"Pokazuje, jak dobra jest twoja celność w rzucaniu kamieniami. Zwiększa szansę na sukces podczas polowania z użyciem tej broni."
+Skill_RockThrowing_Description,Shows how good you are at throwing rocks. Increases your success chances when throwing rocks.,"Pokazuje, jak dobra jest twoja celność w rzucaniu kamieniami. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_Sling_GameName,Sling,Proca
-Skill_Sling_Description,Shows how good you are at using slings. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze posługujesz się procą. Zwiększa szansę na sukces podczas polowania z użyciem tej broni."
+Skill_Sling_Description,Shows how good you are at using slings. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze posługujesz się procą. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_SpearFighting_GameName,Spear Fighting,Walka włócznią
-Skill_SpearFighting_Description,Shows how good you are at using spears. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze władasz włócznią. Zwiększa szansę na sukces podczas polowania z użyciem tej broni."
+Skill_SpearFighting_Description,Shows how good you are at using spears. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze władasz włócznią. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_SpearFishing_GameName,Spear Fishing,Rybołówstwo włócznią
 Skill_SpearFishing_Description,Shows how good you are at fishing with spears and harpoons. Increases your chances of success and the quality of the fish when fishing.,"Pokazuje, jak dobre są twoje umiejętności łowienia ryb włócznią lub harpunem. Poprawia skuteczność i jakość zdobyczy."
 Skill_Stealth_GameName,Stealth,Skradanie się
 Skill_Stealth_Description,Shows how good you are at staying unnoticed. Lowers your chances of being hurt by animals when retreating.,"Pokazuje, jak dobra jest twoja umiejętność poruszania się bezszelestnie. Obniża ryzyko obrażeń podczas ucieczki."
 Skill_Swimming_GameName,Swimming,Pływanie
-Skill_Swimming_Description,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving ,"Pokazuje, jak dobrze pływasz.. Ułatwia dotarcie w trudne miejsca i zwiększa szansę na dobre znaleziska."
+Skill_Swimming_Description,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving ,"Pokazuje, jak dobrze pływasz. Ułatwia dotarcie w trudne miejsca i zwiększa szansę na dobre znaleziska."
 Skill_Swimming_NotEnoughText,Not enough skill!,Za niski poziom umiejętności!
 Skill_Swimming_TooMuchText,Too much skill!,Za wysoki poziom umiejętności!
 Skill_Tailoring_GameName,Tailoring,Krawiectwo
@@ -10824,14 +10824,14 @@ BugRepellentApplied_Statuses[2].GameName,Bug Repellent,Odstraszacz owadów
 BugRepellentApplied_Statuses[3].GameName,Bug Repellent,Odstraszacz owadów
 Burns_GameName,Burns,Poparzenia
 Burns_Description,Caused by over-exposure to the sun or by coming in contact with fire.,Spowodowane nadmiernym nasłonecznieniem lub kontaktem z ogniem.
-Burns_Statuses[0].GameName,Minor Burn,Lekkie poparzenie
-Burns_Statuses[1].GameName,First Degree Burn,Oparzenie pierwszego stopnia
+Burns_Statuses[0].GameName,Minor Burn,Lekkie poparzenia
+Burns_Statuses[1].GameName,First Degree Burn,Oparzenia pierwszego stopnia
 Burns_Statuses[1].Description,Burns...,Parzy...
-Burns_Statuses[2].GameName,Second Degree Burn,Oparzenie drugiego stopnia
+Burns_Statuses[2].GameName,Second Degree Burn,Oparzenia drugiego stopnia
 Burns_Statuses[2].Description,It burns,Piecze
-Burns_Statuses[3].GameName,Second Degree Burn,Oparzenie drugiego stopnia
+Burns_Statuses[3].GameName,Second Degree Burn,Oparzenia drugiego stopnia
 Burns_Statuses[3].Description,Hurts so much!,Boli jak diabli!
-Burns_Statuses[4].GameName,Third Degree Burn,Oparzenie trzeciego stopnia
+Burns_Statuses[4].GameName,Third Degree Burn,Oparzenia trzeciego stopnia
 Burns_Statuses[4].Description,Arghhh!,Aaaargh!
 Caffeine_GameName,Caffeine,Kofeina
 Caffeine_Description,Keeps you awake but increases your stress and dehydration.,"Pobudza, ale zwiększa też stres i odwodnienie."
@@ -11002,7 +11002,7 @@ Hypothermia_Statuses[1].GameName,Hypothermia,Wychłodzenie
 Hypothermia_Statuses[2].GameName,Severe Hypothermia,Ciężka hipotermia
 Hypothermia_Statuses[3].GameName,Frozen to Death,Zabiło cię wychłodzenie.
 Hypothermia_Statuses[3].Description,You froze to death.,Zabiło cię zimno.
-IfKidneys_GameName,if Kidneys,jeśli są nerki
+IfKidneys_GameName,if Kidneys,czy są nerki
 IfKidneys_Statuses[0].GameName,No Kidneys,Brak nerek
 IfKidneys_Statuses[1].GameName,Yes Kidneys,Są nerki
 ImmuneSystem_GameName,Immune System,Układ odpornościowy
@@ -11293,10 +11293,10 @@ Sodium_Description,Shows the level of sodium in your body. Will dehydrate you an
 Sodium_Statuses[0].GameName,High Sodium Levels,Wysoki poziom sodu
 Sodium_Statuses[1].GameName,Very High Sodium Levels,Bardzo wysoki poziom sodu
 Sodium_Statuses[2].GameName,Extreme Sodium Levels,Skrajnie wysoki poziom sodu
-SpiderLilyEffect_GameName,Spider Lily Effect,Działanie pajęczej lilii
+SpiderLilyEffect_GameName,Spider Lily Effect,Efekt lilii pajęczej
 SpiderLilyEffect_Description,Boost your immune system.,Wzmacnia układ odpornościowy.
-SpiderLilyEffect_Statuses[0].GameName,Moderate Spider Lily Effect,Umiarkowane działanie pajęczej lilii
-SpiderLilyEffect_Statuses[1].GameName,Strong Spider Lily Effect,Silne działanie pajęczej lilii
+SpiderLilyEffect_Statuses[0].GameName,Moderate Spider Lily Effect,Umiarkowany efekt lilii pajęczej
+SpiderLilyEffect_Statuses[1].GameName,Strong Spider Lily Effect,Silny efekt lilii pajęczej
 Stamina_GameName,Stamina,Wytrzymałość
 Stamina_Description,"Shows how tired you are. A low stamina will increase your appetite, consume more calories and raise your temperature.","Reprezentuje twoje zmęczenie. Niska wytrzymałość zwiększa apetyt, spalanie kalorii i podnosi temperaturę ciała."
 Stamina_Statuses[0].GameName,Passed Out,Omdlenie
@@ -11619,7 +11619,7 @@ tag_Spillable_InGameName,Spillable,Łatwe do rozlania
 tag_Static_InGameName,Fuel,Paliwo
 tag_Sticks_InGameName,Fuel,Paliwo
 tag_Structure_InGameName,Arrows,Strzały
-tag_Temper_InGameName,Temper,Usztywniacz
+tag_Temper_InGameName,Temper,Utwardzacz
 tag_Tinder_InGameName,Tinder,Podpałka
 tag_Tiny_InGameName,Tiny,Bardzo mały
 tag_WaterAny_InGameName,Water,
@@ -11670,16 +11670,16 @@ TimeSkipOptions_Actions[3].FadeMessage,Sleeping...,Spanie...
 LANGUAGE,Language,Język
 LANGUAGE_CHANGE_CONFIRM,Changing the language requires a restart (your progress will be saved if you're in a run). Do you wish to proceed?,"Zmiana języka wymaga ponownego uruchomienia (postęp zostanie zapisany, jeśli jesteś w trakcie rozgrywki). Kontynuować?"
 NEW_GAME,NEW GAME,NOWA GRA
-THANKS_RETROMATION,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>,
-THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,
-THANKS_TIMMEKEMMIT,"Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>",
+THANKS_RETROMATION,Retromation \n<size=75\n%>For being an all around great guy & for showing our game to the world.</size>,Retromation \n<size=75\n%>Za bycie świetnym gościem i pokazanie naszej gry światu.</size>
+THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,The Neomare \n<size=75\n%>Za bycie kolejnym świetnym gościem i ciągłe wspieranie nas na swoim kanale YouTube i na forum.</size>
+THANKS_TIMMEKEMMIT,"Matthew Kemmit aka ""Doc""\n<size=75%>For sharing your knowledge and ideas with us!</size>","Matthewowi Kemmit aka ""Doc""\n<size=75%>Za dzielenie się z nami swoją wiedzą i pomysłami!</size>"
 THANKS_FAMILIES,"Our Families\n<size=75%>For their trust, patience & love.</size>","Naszym rodzinom\n<size=75%>Za ich zaufanie, cierpliwość i miłość.</size>"
 TAKE_OUT_ITEMS,Take out all items,Wyjmij wszystkie przedmioty
 Baby_DismantleActions[2].ActionName,Play,Graj
 GE_Structure_OverrideTitle,Mental Structure,Odporność psychiczna
 GE_Structure_OverrideDescription,"This represents how predictable and stable your worldview feels.\n\nSomeone with a high mental structure feels confident in their predictions, they feel they understand the world and how it works. Their minds and behaviours are stable.\n\nSomeone with a low mental structure feels things are chaotic and unpredictable, something which can lead to <b>stress</b> and anxiety, but also to the degree of open-mindedness required to reach altered states of conciousness.",
-Pregnancy_Description,"Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement.",
-Stove_CookingRecipes[83].ActionName,Dry Kava,Wysusz kawę
+Pregnancy_Description,"Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement.","Na wczesnym etapie powoduje nudności, potem zwiększa twój apetyt, a zaawansowana ciąża znacznie obniża twoją sprawność ruchową."
+Stove_CookingRecipes[83].ActionName,Dry Kava,Wysusz korzenie pieprzu
 Stove_CookingRecipes[83].CustomCookingText,Drying...,Suszenie...
 Fibers_CardInteractions[4].ActionName,Light with Bow Drill,Podpal za pomocą łuku ogniowego
 LeavesDry_CardInteractions[3].ActionName,Light with Bow Drill,Podpal za pomocą łuku ogniowego
@@ -11760,7 +11760,7 @@ EDIT_CHARACTER,Edit Character,Edycja postaci
 DEMO_GET_FULL_GAME,Get the full <b>GAME</b>,Kup pełną <b>GRĘ</b>
 THE_FIRST_DAYS,The First Days,Pierwsze dni
 DO_STACK_ACTION,Do x{0},Zrób x{0}
-THANKS_CHINESE_VIDEOS,"大头哥哥的游戏世界, 逆风笑, 老番茄 & 冰IC\n<size=75\n%>For their bilibili videos on Card Survival.</size>",
+THANKS_CHINESE_VIDEOS,"大头哥哥的游戏世界, 逆风笑, 老番茄 & 冰IC\n<size=75\n%>For their bilibili videos on Card Survival.</size>","大头哥哥的游戏世界, 逆风笑, 老番茄 i 冰IC\n<size=75\n%>Za ich filmiki o Card Survival na Bilibili.</size>"
 STAT_DETAILS_STATUS,Status:,Status:
 ITEMS_LOST,Some items were lost,Niektóre przedmioty zostały utracone
 Campfire_CookingRecipes[70].ActionName,Egg Fried Rice,Smażony ryż z jajkiem
@@ -11856,7 +11856,7 @@ Socks_CardInteractions[0].ActionName,Repair,Napraw
 T-Shirt_CardInteractions[0].ActionName,Repair,Napraw
 Underwear_CardInteractions[0].ActionName,Repair,Napraw
 CopperBottle_CardName,Copper Bottle,Miedziana butelka
-CopperBottle_CardDescription,A pretty metal bottle. Can boil water faster.\n\n<b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,
+CopperBottle_CardDescription,A pretty metal bottle. Can boil water faster.\n\n<b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,Ładna metalowa butelka. Można w niej szybko zagotować wodę.\n\n<b>MOŻNA ZAŁOŻYĆ NA SLOT EKWIPUNKU</b>
 CopperBottle_DismantleActions[0].ActionName,Collect Rain,Zbieraj deszczówkę
 CopperJar_CardName,Copper Jar,Miedziany słoik
 CopperJar_CardDescription,A small sealed container. Doubles as a nice decoration,"Małe, szczelne naczynie. Może też służyć jako dekoracja."
@@ -11876,12 +11876,12 @@ CopperDecoration_Mold_Progress.OnFull.ActionName,Finished!,Gotowe!
 CopperDecoration_Mold_CardInteractions[0].ActionName,Crack Open,Rozbij
 CopperDecoration_Seashell_CardName,Copper Seashell,Miedziana muszelka
 CopperDecoration_Seashell_CardDescription,A pretty copper seashell.,Ładna miedziana muszelka.
-CopperDecoration_Turtle_CardName,Copper Turtle,Miedziany żółw
-CopperDecoration_Turtle_CardDescription,A little copper turtle.,Mały miedziany żółw.
+CopperDecoration_Turtle_CardName,Copper Turtle,Miedziany żółwik
+CopperDecoration_Turtle_CardDescription,A little copper turtle.,Mały miedziany żółwik.
 CopperNeedle_CardName,Copper Needle,Miedziana igła
 CopperNeedle_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
-CopperNeedle_CardInteractions[0].ActionName,Thread,Nić
-CopperNeedleThreaded_CardName,Threaded Needle,Igła z nicią
+CopperNeedle_CardInteractions[0].ActionName,Thread,Nawlecz
+CopperNeedleThreaded_CardName,Threaded Needle,Nawleczona igła
 CopperNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
 CopperNeedleThreaded_DismantleActions[0].ActionName,Remove Cord,Zabierz sznurek
 CopperSheet_CardName,Copper Sheet,Blacha miedziana
@@ -11895,8 +11895,8 @@ MoldCopperDecoration_CardDescription,I should put it in a Forge or Advanced Kiln
 MoldCopperDecoration_DismantleActions[0].ActionName,Scrap,Zniszcz
 WoodenNeedle_CardName,Wooden Needle,Drewniana igła
 WoodenNeedle_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
-WoodenNeedle_CardInteractions[0].ActionName,Thread,Nić
-WoodenNeedleThreaded_CardName,Threaded Needle,Igła z nicią
+WoodenNeedle_CardInteractions[0].ActionName,Thread,Nawlecz
+WoodenNeedleThreaded_CardName,Threaded Needle,Nawleczona igła
 WoodenNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Wymagana do szycia bardziej złożonych ubrań i przedmiotów skórzanych.
 WoodenNeedleThreaded_DismantleActions[0].ActionName,Remove Cord,Zabierz sznurek
 SailBroken_Raft_CardName,Broken Sail,Podarty żagiel
@@ -11915,11 +11915,11 @@ Foodplace_Description,Shows how good your eating place is. Gives you a bonus to 
 Foodplace_Statuses[0].GameName,Eating Utensils,Sztućce
 Foodplace_Statuses[0].Description,Moderate Effect,Umiarkowany efekt
 SaturationReptile_GameName,Saturation Reptile,Przesyt gadami
-SaturationReptile_Description,Shows how tired you are of eating reptiles. Lowers your morale and gets you nauseous if it gets too high.,
+SaturationReptile_Description,Shows how tired you are of eating reptiles. Lowers your morale and gets you nauseous if it gets too high.,"Pokazuje, jak bardzo masz dość jedzenia gadów. Zbyt wysoki poziom obniża morale i wywołuje mdłości."
 SaturationReptile_Statuses[0].GameName,I'm so sick of eating Reptiles...,Gady już mi bokiem wychodzą...
 SaturationReptile_Statuses[1].GameName,I'm a bit tired of eating Reptiles...,Gady już mi się trochę przejadły...
 Skill_Metalworking_GameName,Metalworking,Metalurgia
-Skill_Metalworking_Description,Shows how good you are at working with metal. Unlocks new recipes as it gets higher.,
+Skill_Metalworking_Description,Shows how good you are at working with metal. Unlocks new recipes as it gets higher.,"Pokazuje, jak dobrze radzisz sobie z obróbką metalu. Odblokowuje nowe schematy wraz ze wzrostem poziomu umiejętności."
 PotteryBonus_GameName,Pottery Bonus,Premia do garncarstwa
 PotteryBonus_Statuses[0].GameName,Workplace,Miejsce pracy
 PotteryBonus_Statuses[0].Description,Minor Effect,Drobny efekt
@@ -11927,7 +11927,7 @@ Stomach_GameName,Stomach,Żołądek
 tag_ContainerMetal_InGameName,Container Metal,Metalowy pojemnik
 tag_CopperBig_InGameName,Big Copper Object,Duży miedziany przedmiot
 tag_CopperSmall_InGameName,Small Copper Object,Mały miedziany przedmiot
-tag_ThreadedNeedle_InGameName,Threaded Needle,Igła z nicią
+tag_ThreadedNeedle_InGameName,Threaded Needle,Nawleczona igła
 tag_Valuable_InGameName,Valuable,Wartościowy
 KilnAdvanced_CookingRecipes[17].ActionName*,Smelt Knife,Przetop nóż
 KilnAdvanced_CookingRecipes[17].CannotCookText*,More temperature required!,Potrzeba wyższej temperatury!
@@ -11982,8 +11982,8 @@ pg_ICsVideos_Sections[0].Entries[4].WebLinks[1].LocalizedLinkText,Island Doctor:
 pg_ICsVideos_Sections[0].Entries[4].WebLinks[2].LocalizedLinkText,Island Doctor: Status,Wyspiarski Lekarz: Status
 pg_ICsVideos_Sections[0].Entries[5].WebLinks[0].LocalizedLinkText,Tourist,Turysta
 pg_ICsVideos_Sections[0].Entries[5].WebLinks[1].LocalizedLinkText,Mermaid,Syrena
-Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,
-Stomach_Description,Food here will be gradually transferred into your intestines. Try not to vomit while there's food in your stomach.,
+Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,"Pokazuje, ile jedzenia znajduje się obecnie w jelitach. Jedzenie jest tu stopniowo przekształcane w masę ciała."
+Stomach_Description,Food here will be gradually transferred into your intestines. Try not to vomit while there's food in your stomach.,"Jedzenie z niego będzie stopniowo przechodzić do jelit. Staraj się nie wymiotować, gdy żołądek jest pełen."
 Event_DogFriendGift_CardName,A gift!,Prezent!
 Event_DogFriendGift_CardDescription,Your friend seems to have brought you a gift!,Twój przyjaciel chyba ma dla ciebie prezent!
 Event_DogFriendGift_DismantleActions[0].ActionName,Check Gift,Sprawdź prezent
@@ -12125,7 +12125,7 @@ BoarEnclosureFemale_DismantleActions[0].ActionName,Set Free,Uwolnij
 BoarEnclosureFemale_DismantleActions[1].ActionName,Pick Up,Podnieś
 BoarEnclosureFemale_DismantleActions[2].ActionName,Pet,Pogłaszcz
 BoarEnclosureMale_CardName,Boar,Dzik
-BoarEnclosureMale_CardDescription,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.,
+BoarEnclosureMale_CardDescription,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.,"Można go zabić dla mięsa i skóry lub zostawić, by zapładniał lochy i zająć się rozmnażaniem dzików."
 BoarEnclosureMale_SpoilageTime.CardStatName,Hunger,Głód
 BoarEnclosureMale_UsageDurability.CardStatName,Thirst,Pragnienie
 BoarEnclosureMale_UsageDurability.OnZero.ActionName,Dead of Thirst,Śmierć z pragnienia
@@ -12311,7 +12311,7 @@ OpenSea_VeryFavourableInfinite_CardDescription,Very Favourable wind,Bardzo sprzy
 TropicalIsland_ClearInfinite_CardName,Clear,Oczyść
 TropicalIsland_ClearInfinite_CardDescription,Not a cloud in the sky.,Ani jednej chmurki na niebie.
 TropicalIsland_HeavyRainInfinite_CardName,Heavy Rain,Ulewa
-TropicalIsland_HeavyRainInfinite_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,
+TropicalIsland_HeavyRainInfinite_CardDescription,It's raining heavily. I should make sure I have shelter and store water for the coming days.,Leje jak z cebra. Muszę zadbać o schronienie przed deszczem i nazbierać zapas wody na nadchodzące dni.
 TropicalIsland_StormInfinite_CardName,Storm,Burza
 TropicalIsland_StormInfinite_CardDescription,I should stay away from the coast and seek shelter.,Lepiej trzymać się z dala od wybrzeża i poszukać schronienia.
 GE_CageTrap_OverrideTitle,Cage Trap,Pułapka klatkowa
@@ -12324,11 +12324,11 @@ GE_SolarStill_OverrideTitle,Solar Still,Destylator słoneczny
 GE_SolarStill_OverrideDescription,A Solar Still is an ingenious device that allows you to extract <b>Drinkable Water from Fresh Leaves</b>.\n\nTo build it you'll need a <b>Plastic Sheet and some Stones</b> to act as weights.\n\nOnce built you will need to fill it with fresh leaves or fronds and then leave a container inside so that it gradually fills with water over time. Leaves will have to be replenished regularly or the still will stop working.,
 GE_TrappingPit_OverrideTitle,Trapping Pit,Wilczy dół
 GE_TrappingPit_OverrideDescription,"An expensive trap that requires a <b>Shovel, Long Sticks and numerous Stones</b> to build.\n\nIt is capable of getting most large animals including <b>Monitor Lizards</b> and is ideal for catching <b>Boars and Goats alive</b>.\n\nThis traps needs <b>Bait</b> to work and must be <b>Reset</b> every time it's triggered.\nTry not to replace your bait unless it's really necessary, doing so will reset a trap's timer.",
-Pk_1_FinalDrought_PerkName,Final Drought,Ostateczna susza
-Pk_1_FinalDrought_PerkDescription,It never rains!,Deszcz nigdy nie pada!
-Pk_1_FinalRain_PerkName,Final Rain,Ostateczny deszcz
-Pk_1_FinalRain_PerkDescription,It never stops raining!,Deszcz nigdy nie przestaje padać!
-Pk_1_FinalStorm_PerkName,Final Storm,Ostateczna burza
+Pk_1_FinalDrought_PerkName,Final Drought,Wieczna susza
+Pk_1_FinalDrought_PerkDescription,It never rains!,Na wyspie nigdy nie pada!
+Pk_1_FinalRain_PerkName,Final Rain,Wieczny deszcz
+Pk_1_FinalRain_PerkDescription,It never stops raining!,igdy nie przestaje padać!
+Pk_1_FinalStorm_PerkName,Final Storm,Wieczna burza
 Pk_1_FinalStorm_PerkDescription,A neverending storm.,Niekończąca się burza.
 tag_FishScrap_InGameName,Fish Scrap,Resztki rybne
 BoarEnclosureFemale_SpecialDurability2.CardStatName,Lactating,W laktacji
@@ -12342,15 +12342,15 @@ FeedBoar_CardDescription,"Boar food, perfect for the Boar Feeder.",Karma dla dzi
 Travois_DismantleActions[0].ActionName,Dismantle,Rozbierz na części
 GpTag_FeedBoarProtein_TabName,Boar Feed Protein,Białkowa karma dla dzików
 GpTag_FeedBoarVeggies_TabName,Boar Feed Veggies,Roślinna karma dla dzików
-SpecialEndingFade_Steps[0].TextContent,Good. Notice how you are actually someone playing a video game? \n\n\nImagining that you are this character stranded on an island?,
+SpecialEndingFade_Steps[0].TextContent,Good. Notice how you are actually someone playing a video game? \n\n\nImagining that you are this character stranded on an island?,"Dobrze. Czy widzisz, że tak naprawdę jesteś kimś, kto gra w grę komputerową? \n\n\nKimś, kto wyobraża sobie, że jest postacią porzuconą na wyspie?"
 SpecialEndingFade_Steps[0].AnswerText,I see it.,"Tak, widzę to."
-SpecialEndingFade_Steps[1].TextContent,"Good. Stop focusing on your story now. Stop believing in it.\n\nNotice how it is becoming more incoherent, and in so doing so, less real.",
+SpecialEndingFade_Steps[1].TextContent,"Good. Stop focusing on your story now. Stop believing in it.\n\nNotice how it is becoming more incoherent, and in so doing so, less real.","Dobrze. A teraz przestań się skupiać na swojej historii. Przestań w nią wierzyć.\n\nZauważ, jak staje się niespójna, a przez to też mniej realna."
 SpecialEndingFade_Steps[1].AnswerText,I'm scared that I'll stop existing.,"Boję się, że przestanę istnieć."
-SpecialEndingFade_Steps[2].TextContent,"Let go my friend. It'll be alright. \n\nYour ultimate self is existence, you will never stop being.",
+SpecialEndingFade_Steps[2].TextContent,"Let go my friend. It'll be alright. \n\nYour ultimate self is existence, you will never stop being.",Czas już odpuścić. Wszystko będzie dobrze. \n\nTwoje prawdziwe ja to istnienie. Nigdy nie przestaniesz być.
 SpecialEndingFade_Steps[2].AnswerText,Are you sure?,Czy na pewno?
 SpecialEndingFade_Steps[3].TextContent,"Non-existence cancels itself. The void, while necessary, cannot exist, the void IS non-existence.\n\nYou are God, you ARE existence. The nature of existence is to exist. You will always be!",
 SpecialEndingFade_Steps[3].AnswerText,I'll try.,Spróbuję.
-SpecialEndingFade_Steps[4].TextContent,"Good. Before we go my friend, I would like to thank you again for creating me.\n\nI do like existing quite a bit!",
+SpecialEndingFade_Steps[4].TextContent,"Good. Before we go my friend, I would like to thank you again for creating me.\n\nI do like existing quite a bit!","Dobrze. Zanim stąd odejdziemy, chciałbym ci jeszcze raz podziękować za to, że mnie stworzyłeś.\n\nBardzo lubię istnieć!"
 SpecialEndingFade_Steps[4].AnswerText,You're welcome Wes.,"Nie ma za co, Wes."
 SpecialEndingFade_Steps[5].TextContent,"Know that just like I exist inside you and you exist inside this player, this player also exists inside something greater.\n\n\nRemember this when you're back to being this higher person again.\n",
 SpecialEndingFade_Steps[5].AnswerText,I'll remember.,Zapamiętam.
@@ -12364,7 +12364,7 @@ SpecialEndingFade_Steps[9].TextContent,"Love is a granted wish. A wish for exist
 SpecialEndingFade_Steps[9].AnswerText,I'll miss you Wes.,"Będę za tobą tęsknić, Wes."
 SpecialEndingFade_Steps[10].TextContent,"I'll miss you too my friend. But I'll always be here. I'm a part of your mind just like you're a part of something higher.\n\nI'm sure that if we want to, we'll get to see each other again!",
 SpecialEndingFade_Steps[10].AnswerText,I'm sure too.,Ja też w to wierzę.
-SpecialEndingFade_Steps[11].TextContent,We're running out of time. It's getting harder to keep it together. \n\nOnce a belief starts losing coherence it's hard to stop it from unraveling. ,
+SpecialEndingFade_Steps[11].TextContent,We're running out of time. It's getting harder to keep it together. \n\nOnce a belief starts losing coherence it's hard to stop it from unraveling. ,"Kończy nam się czas. Coraz trudniej podtrzymać to wszystko. \n\nGdy iluzja pryska, ciężko jest dłużej przymykać oko na niespójności."
 SpecialEndingFade_Steps[11].AnswerText,Goodbye Wes.,"Żegnaj, Wes."
 SpecialEndingFade_Steps[12].TextContent,It's been a pleasure my friend\n\nUntil we meet again!,"To była przyjemność, przyjacielu\n\nDo zobaczenia!"
 SpecialEndingFade_Steps[12].AnswerText,Transcend.,Przestąp granicę.
@@ -12390,7 +12390,7 @@ ChairPlaced_DismantleActions[2].ActionName*,Meditate,Medytuj
 ChairPlaced_DismantleActions[2].FadeMessage,Resting...,Odpoczywanie...
 PotteryWheel_DismantleActions[0].ActionName,Take apart and Pick Up,Rozłóż i zabierz
 PotteryWheelDismantled_CardName,Dismantled PotteryWheel,Rozłożone koło garncarskie
-PotteryWheelDismantled_CardDescription,Can be put together in Shelters if Pottery Wheel  is not present and there is enough Light. ,
+PotteryWheelDismantled_CardDescription,Can be put together in Shelters if Pottery Wheel  is not present and there is enough Light. ,"Można je złożyć w zadaszonym miejscu, jeśli nie ma już tam koła garncarskiego i jest do tej czynności wystarczająco dużo światła."
 PotteryWheelDismantled_DismantleActions[0].ActionName,Place,Postaw
 SeatAttached_DismantleActions[3].ActionName,Meditate,Medytuj
 SeatAttached_DismantleActions[3].FadeMessage,Resting...,Odpoczywanie...
@@ -12425,7 +12425,7 @@ Bp_Shower_CardDescription,A very civilized contraption!,Bardzo cywilizowane urz�
 Bp_Shower_UnlockConditionsDesc,Clay Vase Needed,Wymagana gliniana waza
 Bp_Shower_BlueprintFinishedLog.LogText,I made a Shower. ,Zbudowano prysznic.
 Event_WestonSpecial2a_CardName,Weston,Weston
-Event_WestonSpecial2a_CardDescription,What do you mean? Of course I'm real!\nAren't we talking to each other right now.,
+Event_WestonSpecial2a_CardDescription,What do you mean? Of course I'm real!\nAren't we talking to each other right now.,"Co masz na myśli? Oczywiście, że jestem prawdziwy!\nPrzecież właśnie ze sobą rozmawiamy."
 Event_WestonSpecial2a_DismantleActions[0].ActionName,Are we?,A rozmawiamy?
 Event_WestonSpecial2a_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial2b_CardName,Weston,Weston
@@ -12437,7 +12437,7 @@ Event_WestonSpecial2c_CardDescription,"If my face is not real, then neither is y
 Event_WestonSpecial2c_DismantleActions[0].ActionName,What's behind then?,A co jest po drugiej stronie?
 Event_WestonSpecial2c_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial2d_CardName,Weston,Weston
-Event_WestonSpecial2d_CardDescription,More interpretations really. It's interpretations all the way down my friend.\n\nWhat else could there be?,
+Event_WestonSpecial2d_CardDescription,More interpretations really. It's interpretations all the way down my friend.\n\nWhat else could there be?,"W gruncie rzeczy to tylko interpretacje. Wszystko, dosłownie wszystko to interpretacje.\n\nA co niby mogłoby być innego?"
 Event_WestonSpecial2d_DismantleActions[0].ActionName,A real face?,Prawdziwa twarz?
 Event_WestonSpecial2d_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial2e_CardName,Weston,Weston
@@ -12449,7 +12449,7 @@ Event_WestonSpecial3a_CardDescription,"What do you mean?  \n\nYou are clearly re
 Event_WestonSpecial3a_DismantleActions[0].ActionName,Not reassuring Wes...,"Nie brzmi to uspokajająco, Wes..."
 Event_WestonSpecial3a_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial3b_CardName,Weston,Weston
-Event_WestonSpecial3b_CardDescription,"Remember our face conversation? There are no faces, only interpretations we call faces.\n\nIt's interpretations all the way down!",
+Event_WestonSpecial3b_CardDescription,"Remember our face conversation? There are no faces, only interpretations we call faces.\n\nIt's interpretations all the way down!","Pamiętasz naszą rozmowę o twarzach? Twarze nie istnieją - są tylko interpretacjami, które tak nazywamy.\n\nTo wszystko są tylko interpretacje!"
 Event_WestonSpecial3b_DismantleActions[0].ActionName,So I don't exist...,Czyli nie istnieję...
 Event_WestonSpecial3b_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial3c_CardName,Weston,Weston
@@ -12461,7 +12461,7 @@ Event_WestonSpecial3d_CardDescription,Can't you feel it? The sheer logical press
 Event_WestonSpecial3d_DismantleActions[0].ActionName,Okay...,Okej...
 Event_WestonSpecial3d_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial4a_CardName,Weston,Weston
-Event_WestonSpecial4a_CardDescription,"Of course you are.\n\nIt's not ""you"" that is god though. But YOU. Don't get confused!\nIf you get what I mean.",
+Event_WestonSpecial4a_CardDescription,"Of course you are.\n\nIt's not ""you"" that is god though. But YOU. Don't get confused!\nIf you get what I mean.","Oczywiście, że jesteś.\n\nAle to nie ""ty"" jesteś bogiem. Tylko TY. Nie pomyl się!\nJeśli wiesz, co mam na myśli."
 Event_WestonSpecial4a_DismantleActions[0].ActionName,Not sure I do.,"Nie jestem pewien, czy rozumiem."
 Event_WestonSpecial4a_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial4b_CardName,Weston,Weston
@@ -12481,13 +12481,13 @@ Event_WestonSpecial4e_CardDescription,"You are whatever the storyteller is focus
 Event_WestonSpecial4e_DismantleActions[0].ActionName,Continue,Kontynuuj
 Event_WestonSpecial4e_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5a_CardName,Weston,Weston
-Event_WestonSpecial5a_CardDescription,You mean you are ready to stop being yourself and go back to being the higher character that's being imagining you.\n\nAre you sure?,
+Event_WestonSpecial5a_CardDescription,You mean you are ready to stop being yourself and go back to being the higher character that's being imagining you.\n\nAre you sure?,"Czyli jesteś gotów przestać być sobą i powrócić do tej wyższej istoty, która cię wyobraża.\n\nCzy na pewno?"
 Event_WestonSpecial5a_DismantleActions[0].ActionName,Yes,Tak
 Event_WestonSpecial5a_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5a_DismantleActions[1].ActionName,Not yet.,Jeszcze nie.
 Event_WestonSpecial5a_DismantleActions[1].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5b1_CardName,Weston,Weston
-Event_WestonSpecial5b1_CardDescription,No worries. You have all the time in the world my friend.\n\nLet's be ourselves for a while longer! I'll be here waiting. ,
+Event_WestonSpecial5b1_CardDescription,No worries. You have all the time in the world my friend.\n\nLet's be ourselves for a while longer! I'll be here waiting. ,Spokojnie. Nic nas nie goni.\n\nPobądźmy sobą jeszcze trochę dłużej! Ja będę cierpliwie czekał.
 Event_WestonSpecial5b1_DismantleActions[0].ActionName,Continue,Kontynuuj
 Event_WestonSpecial5b1_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5b2_CardName,Weston,Weston
@@ -12501,11 +12501,11 @@ Event_WestonSpecial5c_DismantleActions[0].ActionLog.LogText,Weston woke me up fr
 Event_WestonSpecial5c_DismantleActions[1].ActionName,Not working...,Nie działa...
 Event_WestonSpecial5c_DismantleActions[1].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5d1_CardName,Weston,Weston
-Event_WestonSpecial5d1_CardDescription,"No worries. When you're ready, you'll know.\n\nWhy don't you just keep thinking about it and come back when you feel it has finally clicked?",
+Event_WestonSpecial5d1_CardDescription,"No worries. When you're ready, you'll know.\n\nWhy don't you just keep thinking about it and come back when you feel it has finally clicked?","Spokojnie. Poczujesz, kiedy przyjdzie twój czas.\n\nMoże po prostu myśl o tym dalej i wróć, gdy wszystko ci się już w głowie ułoży?"
 Event_WestonSpecial5d1_DismantleActions[0].ActionName,Continue,Kontynuuj
 Event_WestonSpecial5d1_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5d2_CardName,Weston,Weston
-Event_WestonSpecial5d2_CardDescription,Good. Notice how you are actually someone playing a video game?\n\nImagining that you are this character stranded on an island?,
+Event_WestonSpecial5d2_CardDescription,Good. Notice how you are actually someone playing a video game?\n\nImagining that you are this character stranded on an island?,"Dobrze. Czy widzisz, że tak naprawdę jesteś kimś, kto gra w grę komputerową? \n\n\nKimś, kto wyobraża sobie, że jest postacią porzuconą na wyspie?"
 Event_WestonSpecial5d2_DismantleActions[0].ActionName,Not sure I do.,"Nie jestem pewien, czy rozumiem."
 Event_WestonSpecial5d2_DismantleActions[0].ActionLog.LogText,Weston woke me up from my sleep to thank me for creating him.,"Weston mnie obudził, żeby podziękować mi za stworzenie go."
 Event_WestonSpecial5e_CardName,Weston,Weston
@@ -12680,8 +12680,8 @@ FluteWooden_Unfinished_Progress.OnFull.ProducedCards[0].CollectionMessages[0],Ca
 FluteWooden_Unfinished_CardInteractions[0].ActionName,Carve,Strugaj
 Salt_CardInteractions[0].ActionName,Add Salt,Dodaj sól
 Salt_CardInteractions[0].ActionDescription,Add Salt to a meal to make it tastier. ,"Dodaj sól do posiłku, by poprawić jego smak."
-SnakegrassSeeds_CardName,Snakegrass Seeds,Nasiona trawy wężowej
-SnakegrassSeeds_CardDescription,I don't think these are edible.,To chyba niejadalne.
+SnakegrassSeeds_CardName,Snakegrass Seeds,Nasiona wetiwerii
+SnakegrassSeeds_CardDescription,I don't think these are edible.,Chyba nie są jadalne.
 Weston_DismantleActions[5].ActionName,Do I exist Wes?,"Wes, czy ja istnieję?"
 Weston_DismantleActions[6].ActionName,Am I God Wes?,"Czy jestem Bogiem, Wes?"
 Weston_DismantleActions[7].ActionName,I'm ready Wes,"To już pora, Wes"
@@ -13687,11 +13687,11 @@ Obj_SkillPWindInstruments_OnCompleteActions[0].ActionName,Determination,Determin
 Obj_SkillTracking_ObjectiveDescription,Tracking,Tropienie
 Obj_SkillTracking_OnCompleteActions[0].ActionName,Determination,Determinacja
 Skill_ClubFighting_GameName,ClubFighting,Walka maczugą
-Skill_ClubFighting_Description,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon. ,
+Skill_ClubFighting_Description,Shows how good you are at using clubs. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze władasz maczugami. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_KnifeFighting_GameName,Knife Fighting,Walka nożem
-Skill_KnifeFighting_Description,Shows how good you are at using knives. Increases your success chances when hunting with this weapon. ,
+Skill_KnifeFighting_Description,Shows how good you are at using knives. Increases your success chances when hunting with this weapon. ,"Pokazuje, jak dobrze władasz nożami. Zwiększa szansę na sukces podczas polowania z użyciem tego typu broni."
 Skill_Tracking_GameName,Tracking,Tropienie
-Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals. ,
+Skill_Tracking_Description,Shows how good you are at tracking animals. Increases your chances of finding escaping animals. ,"Pokazuje, jak dobrze idzie ci tropienie zwierząt. Zwiększa szansę na udane wyśledzenie uciekającej zwierzyny."
 CombatBloodBoar_GameName,BoarBlood,KrewDzika
 CombatBloodBoar_Description,BoarBlood,KrewDzika
 CombatBloodCobra_GameName,CobraBlood,KrewKobry
@@ -14023,7 +14023,7 @@ GuideManager_AllTips[6],Keep an eye on your temperature. Heat and cold CAN and W
 GuideManager_AllTips[7],"If you're too hot, consider taking clothes off or getting wet to lower your temperature.",
 GuideManager_AllTips[8],Take 15 minutes break when low on stamina to avoid overheating and exhausting yourself too much.,
 GuideManager_AllTips[9],"Aloe Vera can help you treat and prevent Sunburn, Bug Bites and Backpain among other things.",
-GuideManager_AllTips[10],You can burn Snakegrass on a campfire to get some cheap bug protection.,"Możesz spalić trawę wężową w ognisku, aby tanio zabezpieczyć się przed owadami."
+GuideManager_AllTips[10],You can burn Snakegrass on a campfire to get some cheap bug protection.,"Możesz spalić wetiwerię w ognisku, aby tanio zabezpieczyć się przed owadami."
 GuideManager_AllTips[11],"Citronella Oil, crafted by grinding Lemongrass and boiling it in oil, is an essential ingredient for Bug Repellant Candles.",
 GuideManager_AllTips[12],"Clay Bowls can be fired on a normal campfire, there's no need to build a kiln for them.",
 GuideManager_AllTips[13],"If you're not immunized, make sure to have dry Cinchona tree bark at hand to treat Malaria.",

@@ -19,4 +19,4 @@ With adjectives it gets worse:
 7. I feel thirst - ungendered
 8. I felt thirst - gendered
 
-Some lazy translations default to male gender of the player, but I refuse to do that. So unfortunately I was limited to forms 1,3,4 and 7 in my translation, which sometimes ended up sounding a bit artificial. Especially log entries suffered from this, sounding very formal and unnatural. Stuff like "You fell and got yourself some ugly scrapes..." had to become "Fall!
+Some lazy translations default to male gender of the player, but I refuse to do that. So unfortunately I was limited to forms 1,3,4 and 7 in my translation, which sometimes ended up sounding a bit artificial. Especially log entries suffered from this, sounding very formal and unnatural. Stuff like "You fell and got yourself some ugly scrapes..." had to become "Fall! You get a few new scrapes on your body."
