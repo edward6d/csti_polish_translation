@@ -1,0 +1,75 @@
+I kept the typos in the original file to maintain consistency, but here they're all listed:
+
+(General) bug repellant -> bug repellent
+Both forms are used throughout the game files, one is used 8 times, the other 10 times. It would be nice to settle on one spelling and stick to it. I think that in English in general, "repellent" is used more frequently.
+
+Coffe->Coffee
+CropPlotEmpty_CardInteractions[3].ActionLog.LogText,I planted some Coffe on a crop plot.,
+
+snake grass->Snake Grass (for consistency with other similar messages)
+CropPlotEmpty_CardInteractions[5].ActionLog.LogText,I planted some snake grass on a crop plot.,
+
+aloe vera->Aloe Vera (for consistency with other similar messages)
+CropPlotEmpty_CardInteractions[6].ActionLog.LogText,I planted some aloe vera on a crop plot.,
+Bp_AloeGel_BlueprintFinishedLog.LogText,I made some aloe vera gel.,
+AloeVera_DismantleActions[0].ActionLog.LogText,I cut some aloe vera leaves.,
+
+Lilly->Lily
+CropPlotEmpty_CardInteractions[11].ActionLog.LogText,I planted some Weevil Lilly on a crop plot.,
+GE_DeepJungle_OverrideDescription,"The Deep jungle is a lush forest near the Island's valley, surrounded by the <b>Wetlands and the Jungle Highlands</b>.\n\nThis area is rich in plants and animals of all types, in it you can find <b>Bananas, Yam, Weevil Lilly, Partridges, Boars and Beehives</b>.",
+
+temprorary -> temporary
+Bp_Fire_CardDescription,A simple temprorary fire to provide me with warmth and light.,,
+
+dissasemble -> disassemble
+DryingRack_DismantleActions[0].ActionName,Dissasemble,
+Engine2Closed_CardDescription,Here's the other engine. I might be able to dissasemble it for parts if I had a screwdriver.,
+Engine2Open_CardDescription,Here's the other engine. I might be able to dissasemble it for parts.,
+
+rythm -> rhythm
+Bp_Drum_CardDescription,Rythm has arrived to the island.,
+Event_DrumMenu_DismantleActions[1].ActionName,Flowing Rythm,
+Event_DrumMenu_DismantleActions[2].ActionName,Intense Rythm,
+journalHunter7_FacingDestiny_Sections[0].Entries[0].Title,Play the Secret Rythm,
+ObjT5_IntenseDrum_ObjectiveDescription,Play an Intense Rythm,
+
+figth->fight
+Bp_MermaidNest_CardDescription,A nest made of seaweeds. Helps stay wet and figth land sickness.,
+
+starvationl -> starvation
+Event_AnxietyAttack_DismantleActions[0].StatInterruptions[4].Notification,I think I'm dying of starvationl...,
+
+dissassembled -> disassembled
+Engine2Dissassembled_CardName,Engine (dissassembled),
+
+Sandwitch->Sandwich
+ChickenSandwich_DismantleActions[0].ActionLog.LogText,I ate a chicken sandwitch.,
+journalTourist1_Priorities_Sections[0].Entries[2].Title,Eat a Chicken Sandwitch,
+ObjT1_EatSandwitch_ObjectiveDescription,Eat Chicken Sandwitch,
+
+Cocconut->Coconut
+ObjF9_CookCoconutFish_ObjectiveDescription,Cook Cocconut Fish,
+
+pyscho->psycho
+PsychoCounter_GameName,Pyscho Counter,
+
+Advaced->Advanced
+Pregnancy_Statuses[4].GameName,Advaced Pregnancy,
+Pregnancy_Statuses[5].GameName,Advaced Pregnancy,
+
+othert->other
+ClubSerrated_CardDescription,"I can fight animals with it, perhaps othert things too."
+
+Goatfish->Grouper
+GrouperMeatCooked_DismantleActions[0].ActionName,Eat Cooked Goatfish,
+GrouperMeatSmoked_DismantleActions[0].ActionName,Eat Smoked Goatfish,
+
+Shold->Should
+CopperDecoration_Mold_CardDescription,Shold break it to get the decoration inside.,
+
+Honey->Sugar
+LQ_SugarWater_SpoilageTime.OnFull.ActionDescription,Honey Water has Fermented!,
+LQ_SugarWater_Progress.OnFull.ActionDescription,Honey Water has Fermented!,
+
+Encumbramce->Encumbrance
+GE_Encumbrance_OverrideTitle,Encumbramce,
