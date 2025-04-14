@@ -1,0 +1,43 @@
+I kept the typos in the original file to maintain consistency, but here they're all listed:
+
+(General) bug repellant -> bug repellent
+Both forms are used throughout the game files, one is used 8 times, the other 10 times. It would be nice to settle on one spelling and stick to it. I think that in English in general, "repellent" is used more frequently.
+
+line 565 Coffe->Coffee
+CropPlotEmpty_CardInteractions[3].ActionLog.LogText,I planted some Coffee on a crop plot.
+
+line 569 snake grass->Snake Grass (for consistency with other similar messages)
+CropPlotEmpty_CardInteractions[5].ActionLog.LogText,I planted some snake grass on a crop plot.,
+
+line 571 aloe vera->Aloe Vera (for consistency with other similar messages)
+CropPlotEmpty_CardInteractions[6].ActionLog.LogText,I planted some aloe vera on a crop plot.,
+
+line 581 Lilly->Lily
+CropPlotEmpty_CardInteractions[11].ActionLog.LogText,I planted some Weevil Lilly on a crop plot.,
+
+line 1129, 2238 temprorary -> temporary
+
+line 1622 double space between "down" and "in", "put placed down" is an awkward phrase
+Chair_CardDescription,Can be put placed down  in Shelters. ,
+
+lines 1663, 7732, 7737 dissasemble -> disassemble
+
+lines 2212 (+4 others) rythm -> rhythm
+
+line 2344 figth->fight
+Bp_MermaidNest_CardDescription,A nest made of seaweeds. Helps stay wet and figth land sickness.,
+
+line 3303 starvationl -> starvation
+
+line 7734 dissassembled -> disassembled
+
+line 8165 Unfaourable -> Unfavourable
+
+line 8469 Lilly->Lily
+GE_DeepJungle_OverrideDescription,"The Deep jungle is a lush forest near the Island's valley, surrounded by the <b>Wetlands and the Jungle Highlands</b>.\n\nThis area is rich in plants and animals of all types, in it you can find <b>Bananas, Yam, Weevil Lilly, Partridges, Boars and Beehives</b>."
+
+line 9194, 4477 (+3 others) Sandwitch->Sandwich
+
+line 9659 Cocconut->Coconut
+
+line 11178 pyscho->psycho
