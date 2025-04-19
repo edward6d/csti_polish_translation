@@ -960,7 +960,7 @@ Campfire_CookingRecipes[12].ActionName,Bonefish,Albula
 Campfire_CookingRecipes[13].ActionName,Butter Baked Oysters,Ostrygi pieczone w maśle
 Campfire_CookingRecipes[14].ActionName,Candied Ginger,Imbir kandyzowany
 Campfire_CookingRecipes[15].ActionName,Charred Remains,Zwęglone resztki
-Campfire_CookingRecipes[15].CustomCookingText,Burnt in {0},Spalono w: {0}
+Campfire_CookingRecipes[15].CustomCookingText,Burnt in {0},Spali się za: {0}
 Campfire_CookingRecipes[15].CustomNotification,{0} is burnt...,Spalono: {0}
 Campfire_CookingRecipes[16].ActionName,Drunken Crab,Pijany krab
 Campfire_CookingRecipes[17].ActionName,Coconut Fish,Ryba kokosowa
@@ -1058,7 +1058,7 @@ ClayFirePit_CookingRecipes[11].ActionName,Bonefish,Albula
 ClayFirePit_CookingRecipes[12].ActionName,Butter Baked Oysters,Ostrygi pieczone w maśle
 ClayFirePit_CookingRecipes[13].ActionName,Candied Ginger,Imbir kandyzowany
 ClayFirePit_CookingRecipes[14].ActionName,Charred Remains,Zwęglone resztki
-ClayFirePit_CookingRecipes[14].CustomCookingText,Burnt in {0},Spalono w: {0}
+ClayFirePit_CookingRecipes[14].CustomCookingText,Burnt in {0},Spali się za: {0}
 ClayFirePit_CookingRecipes[14].CustomNotification,{0} is burnt...,Spalono: {0}
 ClayFirePit_CookingRecipes[15].ActionName,Drunken Crab,Pijany krab
 ClayFirePit_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
@@ -1155,7 +1155,7 @@ Fire_CookingRecipes[12].ActionName,Bonefish,Albula
 Fire_CookingRecipes[13].ActionName,Butter Baked Oysters,Ostrygi pieczone w maśle
 Fire_CookingRecipes[14].ActionName,Candied Ginger,Imbir kandyzowany
 Fire_CookingRecipes[15].ActionName,Charred Remains,Zwęglone resztki
-Fire_CookingRecipes[15].CustomCookingText,Burnt in {0},Spalono w: {0}
+Fire_CookingRecipes[15].CustomCookingText,Burnt in {0},Spali się za: {0}
 Fire_CookingRecipes[15].CustomNotification,{0} is burnt...,Spalono: {0}
 Fire_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
 Fire_CookingRecipes[17].ActionName,Drunken Crab,Pijany krab
@@ -1279,7 +1279,7 @@ GasCookerOn_CookingRecipes[11].ActionName,Bonefish,Albula
 GasCookerOn_CookingRecipes[12].ActionName,Butter Baked Oysters,Ostrygi pieczone w maśle
 GasCookerOn_CookingRecipes[13].ActionName,Candied Ginger,Imbir kandyzowany
 GasCookerOn_CookingRecipes[14].ActionName,Charred Remains,Zwęglone resztki
-GasCookerOn_CookingRecipes[14].CustomCookingText,Burnt in {0},Spalono w: {0}
+GasCookerOn_CookingRecipes[14].CustomCookingText,Burnt in {0},Spali się za: {0}
 GasCookerOn_CookingRecipes[14].CustomNotification,{0} is burnt...,Spalono: {0}
 GasCookerOn_CookingRecipes[15].ActionName,Drunken Crab,Pijany krab
 GasCookerOn_CookingRecipes[16].ActionName,Coconut Fish,Ryba kokosowa
