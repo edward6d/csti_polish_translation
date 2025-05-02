@@ -56,3 +56,10 @@ PsychoCounter_GameName,Pyscho Counter,
 Advaced->Advanced
 Pregnancy_Statuses[4].GameName,Advaced Pregnancy,
 Pregnancy_Statuses[5].GameName,Advaced Pregnancy,
+
+othert->other
+ClubSerrated_CardDescription,"I can fight animals with it, perhaps othert things too."
+
+Goatfish->Grouper
+GrouperMeatCooked_DismantleActions[0].ActionName,Eat Cooked Goatfish,
+GrouperMeatSmoked_DismantleActions[0].ActionName,Eat Smoked Goatfish,
