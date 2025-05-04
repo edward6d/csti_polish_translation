@@ -70,3 +70,6 @@ CopperDecoration_Mold_CardDescription,Shold break it to get the decoration insid
 Honey->Sugar
 LQ_SugarWater_SpoilageTime.OnFull.ActionDescription,Honey Water has Fermented!,
 LQ_SugarWater_Progress.OnFull.ActionDescription,Honey Water has Fermented!,
+
+Encumbramce->Encumbrance
+GE_Encumbrance_OverrideTitle,Encumbramce,
