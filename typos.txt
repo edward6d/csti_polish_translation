@@ -63,3 +63,10 @@ ClubSerrated_CardDescription,"I can fight animals with it, perhaps othert things
 Goatfish->Grouper
 GrouperMeatCooked_DismantleActions[0].ActionName,Eat Cooked Goatfish,
 GrouperMeatSmoked_DismantleActions[0].ActionName,Eat Smoked Goatfish,
+
+Shold->Should
+CopperDecoration_Mold_CardDescription,Shold break it to get the decoration inside.,
+
+Honey->Sugar
+LQ_SugarWater_SpoilageTime.OnFull.ActionDescription,Honey Water has Fermented!,
+LQ_SugarWater_Progress.OnFull.ActionDescription,Honey Water has Fermented!,
