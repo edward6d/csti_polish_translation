@@ -10670,7 +10670,7 @@ GE_PG_MentalWellbeing_OverrideTitle,Mental Wellbeing,Zdrowie psychiczne
 GE_PG_NutritionBasics_OverrideTitle,Nutrition Basics,Podstawy żywienia
 GE_PG_Pests_OverrideTitle,Pests,Szkodniki
 GE_PG_SecuringFood_OverrideTitle,Securing Food,Zabezpieczanie żywności
-GE_PG_Weaving_OverrideTitle,Weaving,Tkanie
+GE_PG_Weaving_OverrideTitle,Weaving,Tkaniny
 GE_Plank_OverrideTitle,Planks,Deski
 GE_Plank_OverrideDescription,"Wooden boards useful for building wooden structures and furniture.\n\nTo craft them you'll need a <b>Log, a Sharp Axe and a Sharp Knife</b>.","Drewniane deski przydatne do budowy konstrukcji i mebli.\n\nDo ich przygotowania potrzebna jest <b>kłoda, ostra siekiera i ostry nóż</b>."
 GE_Prawns_OverrideDescription,"Abundant in <b>Rocky areas and Tide Pools</b> near the sea, these little crustaceans are a decent source of food.\n\nThey can be <b>cooked for a better taste</b>, but if you can restrain from eating them they can also make good <b>Bait for trapping and fishing.</b>","Występują licznie w <b>skalnych obszarach i basenach pływowych</b> w pobliżu morza. Te małe skorupiaki stanowią przyzwoite źródło pożywienia.\n\nMożna je <b>upiec</b>, aby poprawić ich smak, albo też wykorzystać je jako <b>przynętę do pułapek lub wędkowania</b>."
@@ -11593,7 +11593,7 @@ pg_Tools_Sections[0].Entries[1].Title,<b>Stone Axe</b>,<b>Kamienna siekiera</b>
 pg_Tools_Sections[0].Entries[1].Content,Through the right blueprint one can combine a piece of <b>Wood</b> and a <b>Sharpened Stone</b> to create a rudimentary Stone Axe.,"Dzięki odpowiedniemu schematowi możesz połączyć <b>drewno</b> i <b>naostrzony kamień</b>, aby stworzyć prostą kamienną siekierę."
 pg_Tools_Sections[0].Entries[2].Title,<b>Rustic Spear</b>,<b>Dzida</b>
 pg_Tools_Sections[0].Entries[2].Content,A simple <b>Spear</b> can be crafted by combining a <b>Long Stick</b> with a <b>Cutting tool or a Campfire</b>.\nThe resulting weapon can be used for both <b>Spearfishing and Hunting</b>.,Prostą <b>dzidę</b> możesz zrobić z <b>długiego kija</b> i <b>ostrego narzędzia lub ogniska</b>.\nMożesz ją potem wykorzystać do <b>rybołówstwa i polowań na zwierzęta</b>.
-pg_Weaving_PageTitle,Weaving,Tkanie
+pg_Weaving_PageTitle,Weaving,Tkaniny
 pg_Weaving_Sections[0].Entries[0].Title,<b>Fiber Cords</b>,<b>Sznurki z włókien</b>
 pg_Weaving_Sections[0].Entries[0].Content,"Fiber is a versatile material that can be used for making <b>cord and cloth</b>. It can be extracted from numerous sources, such as <b>coconut husks</b> and <b>snakegrass</b>.\n\n<b>Fiber</b> can be braided into <b>cords</b> which can later be combined into <b>yarns</b> which can be used on a <b>loom</b> to make <b>cloth</b> or further braided into <b>rope</b>.","Włókna to wszechstronny materiał który możesz wykorzystać do wytwarzania <b>sznurków i tkanin</b>. Możesz je pozyskać z różnych źródeł, m.in. z <b>łusek kokosa</b> lub z liści <b>wetiwerii</b>.\n\n<b>Włókna</b> możesz spleść ze sobą w <b>sznurek</b>, które potem możesz połączyć w <b>przędzę</b>. Tę z kolei możesz wykorzystać na <b>krośnie</b> do produkcji <b>tkanin</b>, albo zaplatać ją dalej, aby uzyskać <b>linę</b>."
 pg_Weaving_Sections[0].Entries[1].Title,<b>Baskets</b>,<b>Kosze</b>
@@ -11610,7 +11610,7 @@ pg_Welcome_Sections[0].Entries[1].PageLinks[2].LocalizedLinkText,Mental,Psychicz
 pg_Welcome_Sections[0].Entries[2].Title,Crafting,Wytwarzanie
 pg_Welcome_Sections[0].Entries[2].PageLinks[0].LocalizedLinkText,Fire,Ogień
 pg_Welcome_Sections[0].Entries[2].PageLinks[1].LocalizedLinkText,Tools,Narzędzia
-pg_Welcome_Sections[0].Entries[2].PageLinks[2].LocalizedLinkText,Weaving,Tkanie
+pg_Welcome_Sections[0].Entries[2].PageLinks[2].LocalizedLinkText,Weaving,Tkaniny
 pg_Welcome_Sections[0].Entries[2].PageLinks[3].LocalizedLinkText,Clay,Glina
 pg_Welcome_Sections[0].Entries[3].Title,Health,Zdrowie
 pg_Welcome_Sections[0].Entries[3].PageLinks[0].LocalizedLinkText,Temperature,Temperatura
