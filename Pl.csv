@@ -1246,7 +1246,7 @@ ClayFirePitExtinguished_CardInteractions[6].ActionName,Feed Husk,Dorzuć łusek
 ClayFirePitExtinguished_CardInteractions[7].ActionName,Light Fire,Rozpal ogień
 ClayFirePitExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Zbierz węgiel i popiół
 ClayFirePitExtinguished_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Węgiel drzewny nie jest jeszcze gotowy.
-Fire_CardName,Fire,Ogień
+Fire_CardName,Fire,Małe ognisko
 Fire_CardDescription,A simple temporary source of warmth and light.,"Proste, tymczasowe źródło ciepła i światła."
 Fire_CardInteractions[0].ActionName,Feed Coconut,Dorzuć skorupę kokosa
 Fire_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
@@ -1338,8 +1338,8 @@ Fire_CookingRecipes[65].ActionName,Tropical Almonds,Migdały tropikalne
 Fire_CookingRecipes[66].ActionName,Urchin,Jeżowiec
 Fire_CookingRecipes[67].ActionName,Yam Curry,Curry z pochrzynu
 Fire_CookingRecipes[68].ActionName,Yam Jam,Dżem z pochrzynu
-FireExtinguished_CardName,Fire,Ogień
-FireExtinguished_CardDescription,I should be able to light it with some lit tinder.,Możesz go rozpalić rozżarzoną podpałką.
+FireExtinguished_CardName,Fire,Małe ognisko
+FireExtinguished_CardDescription,I should be able to light it with some lit tinder.,Możesz je rozpalić rozżarzoną podpałką.
 FireExtinguished_CardInteractions[0].ActionName,Feed Coconut,Dorzuć skorupę kokosa
 FireExtinguished_CardInteractions[1].ActionName,Feed Firewood,Dorzuć drewna
 FireExtinguished_CardInteractions[2].ActionName,Feed Fuel,Dorzuć do ognia
@@ -2092,7 +2092,7 @@ Bp_Butter_CardName,Butter,Masło
 Bp_Butter_CardDescription,Can turn milk into tasty butter.,Zamienia mleko w smaczne masło.
 Bp_Butter_UnlockConditionsDesc,Milk Needed,Wymagane mleko
 Bp_ButterBakedOysters_CardName,Butter Baked Oysters,Ostrygi pieczone w maśle
-Bp_ButterBakedOysters_CardDescription,Wow!,Wow!
+Bp_ButterBakedOysters_CardDescription,Wow!,Prawdziwy rarytas!
 Bp_ButterBakedOysters_UnlockConditionsDesc,More Cooking Needed,Wymagane wyższe Gotowanie
 Bp_CandiedGinger_CardName,Candied Ginger,Imbir kandyzowany
 Bp_CandiedGinger_CardDescription,Tasty and durable.,Pyszny i wolno się psuje.
@@ -2535,9 +2535,9 @@ Bp_FeedBoar_UnlockConditionsDesc,Boar Feeder Needed,Wymagany karmnik dla dzików
 Bp_FeedGoat_CardName,Goat Feed,Karma dla kóz
 Bp_FeedGoat_CardDescription,"Goat food, perfect for the feeding trough.",Karma dla kóz. W sam raz do karmnika.
 Bp_FeedGoat_UnlockConditionsDesc,Feeding Trough Needed,Wymagany karmnik dla kóz
-Bp_Fire_CardName,Fire,Ogień
+Bp_Fire_CardName,Fire,Małe ognisko
 Bp_Fire_CardDescription,A simple temprorary fire to provide me with warmth and light.,"Proste, tymczasowe ognisko. Źródło ciepła i światła."
-Bp_Fire_BlueprintFinishedLog.LogText,I built a fire.,Zbudowano ogień.
+Bp_Fire_BlueprintFinishedLog.LogText,I built a fire.,Zbudowano małe ognisko.
 Bp_FishBait_CardName,Fish Bait,Przynęta na ryby
 Bp_FishBait_CardDescription,"Bait made of feathers, cord and seashells.","Przynęta z piór, sznurka i muszelek."
 Bp_FishBait_UnlockConditionsDesc,More Fishing Needed,Wymagane wyższe Wędkarstwo
@@ -2863,15 +2863,15 @@ Bp_WoodShavings_UnlockConditionsDesc,More Woodworking Needed,Wymagane wyższe St
 Bp_WovenBackpack_CardName,Woven Backpack,Pleciony plecak
 Bp_WovenBackpack_CardDescription,I can store things inside.,Możesz w nim przechowywać przedmioty.
 Bp_WovenBackpack_UnlockConditionsDesc,Basket Needed,Wymagany kosz
-Bp_WovenBackpack_BlueprintFinishedLog.LogText,I wove a backpack with palm fronds.,Upleciono plecak z plecionki.
+Bp_WovenBackpack_BlueprintFinishedLog.LogText,I wove a backpack with palm fronds.,Upleciono plecak.
 Bp_WovenBasket_CardName,Woven Basket,Pleciony kosz
 Bp_WovenBasket_CardDescription,A basket for transporting things.,Kosz do przechowywania przedmiotów.
 Bp_WovenBasket_UnlockConditionsDesc,Woven Palm Needed,Wymagana plecionka
-Bp_WovenBasket_BlueprintFinishedLog.LogText,I wove a basket with palm fronds.,Upleciono kosz z plecionki.
+Bp_WovenBasket_BlueprintFinishedLog.LogText,I wove a basket with palm fronds.,Upleciono kosz.
 Bp_WovenHat_CardName,Woven Hat,Pleciony kapelusz
 Bp_WovenHat_CardDescription,Should protect me a bit from the sun and the rain.,Chroni nieco przed słońcem i deszczem.
 Bp_WovenHat_UnlockConditionsDesc,Basket Needed,Wymagany kosz
-Bp_WovenHat_BlueprintFinishedLog.LogText,I wove a hat with palm fronds.,Upleciono kapelusz z plecionki.
+Bp_WovenHat_BlueprintFinishedLog.LogText,I wove a hat with palm fronds.,Upleciono kapelusz.
 EarsBlueprint_CardName,Ears,Uszy
 InnerHeadBlueprint_CardName,Head (Inner),Głowa (wewnątrz)
 InnerHeadBlueprint_CardInteractions[0].ActionName,Craft Head Wrappings,Zrób chustę na głowę
@@ -3188,8 +3188,8 @@ Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[0],The Boar lun
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[1],The Boar thrusts its head in your direction with aggression...,Dzik agresywnie dźga kłami w twoją stronę...
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[2],The Boar's head jerks your way fiercely...,Dzik z furią szarpie łbem w twoją stronę...
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[3],The Boar flings its head at you with rapid force...,Dzik szarpie łbem w twoją stronę z dużą siłą...
-Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[4],"With a forceful motion, the Boar tosses its head in your direction...",Silnym ruchem dzik rzuca głową w twoim kierunku...
-Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[5],The Boar's head sways towards you with violent intent...,Łeb dzika przechyla się w twoją stronę z morderczym zamiarem...
+Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[4],"With a forceful motion, the Boar tosses its head in your direction...",Silnym ruchem dzik szarpie łbem w twoim kierunku...
+Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[5],The Boar's head sways towards you with violent intent...,Dzik przechyla łeb w twoją stronę z morderczym zamiarem...
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[6],The Boar propels its head towards you in an aggressive display...,Dzik z impetem kieruje łeb w twoją stronę...
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[7],"With a wild thrust, the Boar swings its head at you...","Dzik szarżuje prosto na ciebie, nastawiając ostre kły..."
 Combat_EncounterBoar_EnemyActions[0].ActionLog.AlternateLogTexts[8],The Boar jerks its head with a powerful motion in your direction...,Dzik z impetem szarpie łbem w twoją stronę...
@@ -3213,7 +3213,7 @@ Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[3],You deftly 
 Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the attack...,"O mały włos, było bardzo blisko..."
 Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterBoar_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterBoar_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3282,7 +3282,7 @@ Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[3],You deftly
 Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the attack...,"O mały włos, było bardzo blisko..."
 Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterDrone_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterDrone_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3336,7 +3336,7 @@ Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[3],You deftly
 Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the impending attack...,Cudem unikasz nadchodzącego ataku...
 Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterEnemy_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterEnemy_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3396,7 +3396,7 @@ Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[3],You
 Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the impending attack...,Cudem unikasz nadchodzącego ataku...
 Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterHunterSpirit_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterHunter_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3420,13 +3420,13 @@ Combat_EncounterHunter_TieEffects.ResultLog.AlternateLogTexts[0],The Hunter diss
 Combat_EncounterMacaque_EncounterTitle,Macaque Encounter,Spotkanie z makakiem
 Combat_EncounterMacaque_EnemyName,The Macaque,Makak
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.LogText,It flails its arms at you and tries to go for a bite!,Wymachuje ramionami i próbuje cię ugryźć!
-Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[0],"Swinging its arms wildly, it lunges at you with its teeth bared!","Wymachując ramionami, rzuca się na ciebie z odsłoniętymi zębami!"
+Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[0],"Swinging its arms wildly, it lunges at you with its teeth bared!",Wymachuje ramionami i rzuca się na ciebie z odsłoniętymi zębami!
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[1],"It thrashes about, arms flapping, and attempts to sink its teeth into you!","Rzuca się i macha ramionami, próbując wbić w ciebie zęby!"
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[2],"Arms waving in a frenzy, it makes a bold attempt to bite you!",Macha rękami jak w szale i kłapie zębami w twoją stronę!
-Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[3],"With arms flying erratically, it tries to land a bite on you!","Machając chaotycznie rękami, próbuje cię ugryźć!"
+Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[3],"With arms flying erratically, it tries to land a bite on you!",Macha chaotycznie rękami i próbuje cię ugryźć!
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[4],It jerks its arms around in a flurry and aims for a bite!,Szarpie rękami we wszystkie strony i przymierza się do ugryzienia!
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[5],"It lashes out with its arms, trying to snag you with a quick bite!","Rzuca się na ciebie z rękami, chcąc cię capnąć szybkim ugryzieniem!"
-Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[6],"Flapping its arms with intent, it lunges forward to nip at you!","Wymachując ramionami, rzuca się na ciebie, aby cię ugryźć!"
+Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[6],"Flapping its arms with intent, it lunges forward to nip at you!","Wymachuje ramionami i rzuca się na ciebie, aby cię ugryźć!"
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[7],The macaque brandishes its arms and snaps its jaws in your direction!,Makak wymachuje ramionami i kłapie szczękami w twoją stronę!
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[8],"It thrashes its arms and lunges forward, teeth first!",Macha ramionami i rzuca się na ciebie z zębami na wierzchu!
 Combat_EncounterMacaque_EnemyActions[0].ActionLog.AlternateLogTexts[9],It whirls its arms and takes a snap at you with bared teeth!,Kręci ramionami i skacze w twoją stronę z wyszczerzonymi zębami!
@@ -3449,7 +3449,7 @@ Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[3],You deft
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the impending bite...,Cudem unikasz ugryzienia...
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterMacaque_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterMacaque_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3498,7 +3498,7 @@ Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[3],You d
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the impending bite...,Cudem unikasz ugryzienia...
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterMacaqueDen_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterMacaqueDen_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3549,7 +3549,7 @@ Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[3],Yo
 Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the impending bite...,Cudem unikasz ugryzienia...
 Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterMonitorLizard_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterMonitorLizard_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3621,7 +3621,7 @@ Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[3],You def
 Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[4],You narrowly escape the attack...,"O mały włos, było bardzo blisko..."
 Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[5],You skillfully avoid the strike...,Zręcznie unikasz ciosu...
 Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[6],"With quick thinking, you duck out of the way...","Przewidziawszy ruch wroga, uchylasz się w porę..."
-Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Skaczesz w bok w ostatniej sekundzie...
+Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[7],You leap clear of the attack with a split second to spare...,Odskakujesz na bok przed atakiem w ostatniej sekundzie...
 Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[8],You adroitly dart away from the danger...,Zwinnie unikasz zagrożenia...
 Combat_EncounterSeaHound_EnemyActions[0].FailureLog.AlternateLogTexts[9],"With a swift maneuver, you avoid the potential wound...",Szybkim manewrem unikasz rany...
 Combat_EncounterSeaHound_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",Na szczęście ten atak nie był w stanie cię zranić.
@@ -3799,7 +3799,7 @@ Combat_EventSeagull_1_Explore_CardName,You see a Seagull!,Widzisz mewę!
 Combat_EventSeagull_1_Explore_DismantleActions[0].ActionName*,Leave it alone,Zostaw ją w spokoju
 Combat_EventSeagull_1_Explore_DismantleActions[1].ActionName,Hunt it!,Upoluj ją!
 Combat_EventSeagull_2_Track_CardName,Tracking the Seagull,Tropienie mewy
-Combat_EventSeagull_2_Track_CardDescription,The Seagull escaped but you can try to track it down. ,"Kuropatwa uciekła, ale może jeszcze uda się ją złapać."
+Combat_EventSeagull_2_Track_CardDescription,The Seagull escaped but you can try to track it down. ,"Mewa uciekła, ale może jeszcze uda się ją złapać."
 Combat_EventSeagull_2_Track_DismantleActions[0].ActionName,Give Up,Odpuść
 Combat_EventSeagull_2_Track_DismantleActions[0].ActionDescription,Not worth my time. ,Nie warto.
 Combat_EventSeagull_2_Track_DismantleActions[1].ActionName,Give Up,Odpuść
@@ -4622,7 +4622,7 @@ Event_AlienCrater_DismantleActions[0].ActionLog.LogText,An asteroid landed not f
 Event_AnxietyAttack_CardName,Anxiety is getting out of control!,Lęk wymyka ci się spod kontroli!
 Event_AnxietyAttack_CardDescription,I need to stop. I feel like I'm going crazy.\n\nI need to stop and calm down.,"Stop. Czujesz, że zaraz zwariuję.\n\nMusisz się zatrzymać i uspokoić."
 Event_AnxietyAttack_DismantleActions[0].ActionName,Continue,Kontynuuj
-Event_AnxietyAttack_DismantleActions[0].ActionLog.LogText,I was so stressed I had an anxiety attack I couldn't get myself to do anything for an hour.,"Stres był tak silny, że wywołał u ciebie atak paniki. Godzinę zajęło ci dochodzenie do siebie."
+Event_AnxietyAttack_DismantleActions[0].ActionLog.LogText,I was so stressed I had an anxiety attack I couldn't get myself to do anything for an hour.,"Twój poziom stresu sięgnął zenitu i wywołał atak paniki. Mija godzina, zanim udaje ci się trochę opanować."
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[0].Notification,I'm dying of thirst...,Umieram z pragnienia...
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[1].Notification,I'm melting...,Rozpuszczam się...
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[2].Notification,I'm freezing...,Zamarzam...
@@ -6795,8 +6795,8 @@ NipaSeeds_DismantleActions[0].ActionName,Eat,Zjedz
 OysterMeat_CardName,Oyster Meat,Miąższ ostrygi
 OysterMeat_CardDescription,Should cook it for extra nutrition and flavour.,Warto go ugotować dla smaku i wartości odżywczych.
 OysterMeat_DismantleActions[0].ActionName,Eat,Zjedz
-OysterMeatBaked_CardName,Butter Baked Oyster,Ostryga pieczona w maśle
-OysterMeatBaked_CardDescription,Wow!,Wow!
+OysterMeatBaked_CardName,Butter Baked Oyster,Ostrygi pieczone w maśle
+OysterMeatBaked_CardDescription,Wow!,Prawdziwy rarytas!
 OysterMeatBaked_DismantleActions[0].ActionName,Eat,Zjedz
 OysterMeatCooked_CardName,Cooked Oyster,Pieczona ostryga
 OysterMeatCooked_CardDescription,Tasty mollusk meat.,Smaczne mięso z mięczaka.
@@ -12515,7 +12515,7 @@ Discomfort_Statuses[4].GameName,Extreme Discomfort,Ekstremalny dyskomfort
 EnemyDefeated_GameName,Enemy Prescence,Obecność Wroga
 EnemyDefeated_Statuses[0].GameName,A Presence follows me...,Jakaś Obecność podąża za tobą...
 Entertainment_GameName,Entertainment,Rozrywka
-Entertainment_Description,Gained by doing fun activities and avoiding repetitive ones. Increases morale and lowers loneliness.,Zyskiwana przez robienie przyjemnych rzeczy. Powtarzanie wciąż tych samych czynności grozi nudą. Podnosi morale i zmniejsza samotność.
+Entertainment_Description,Gained by doing fun activities and avoiding repetitive ones. Increases morale and lowers loneliness.,Zyskiwana przez robienie przyjemnych rzeczy. Podnosi morale i zmniejsza samotność. Powtarzanie w kółko tych samych czynności grozi nudą.
 Entertainment_Statuses[0].GameName,Bored,Nudzi ci się
 Entertainment_Statuses[1].GameName,Entertained,Nie jest nudno
 Foodplace_GameName,Foodplace,Miejsce do jedzenia
@@ -13099,8 +13099,8 @@ BacteriaTyphus_Statuses[3].GameName,Severe Rash,Mocna wysypka
 BacteriaTyphus_Statuses[3].Description,I'm covered in red spots... this isn't good.,Całe twoje ciało jest w czerwonych plamach... to nie wróży dobrze.
 BacteriaTyphus_Statuses[4].GameName,Severe Rash,Mocna wysypka
 BacteriaTyphus_Statuses[4].Description,I really don't feel good.,Naprawdę kiepsko się czujesz.
-BacteriaTyphus_Statuses[5].GameName,Camp Fever,Tyfus
-BacteriaTyphus_Statuses[5].Description,You died of camp fever.,Śmierć na tyfus.
+BacteriaTyphus_Statuses[5].GameName,Camp Fever,Śmierć na tyfus
+BacteriaTyphus_Statuses[5].Description,You died of camp fever.,Zabił cię tyfus.
 BacteriaTyphusPackage_GameName,Bacteria Typhus Package,Pakiet bakterii tyfusu
 BeeProtection_GameName,Bee Protection,Ochrona przed pszczołami
 BeeProtection_Description,Protects you from bee stings.,Chroni przed użądleniami pszczół.
@@ -13120,8 +13120,8 @@ Blood_Statuses[1].GameName,Low Blood Pressure,Niskie ciśnienie
 Blood_Statuses[1].Description,I feel dizzy...,Kręci ci się w głowie...
 Blood_Statuses[2].GameName,Low Blood Pressure,Niskie ciśnienie
 Blood_Statuses[2].Description,I think I'm going to faint...,Chyba zaraz zemdleję...
-Blood_Statuses[3].GameName,Dead of Blood Loss,Śmierć z wykrwawienia
-Blood_Statuses[3].Description,You bled out....,Wykrwawiasz się...
+Blood_Statuses[3].GameName,Dead of Blood Loss,Śmierć przez utratę krwi
+Blood_Statuses[3].Description,You bled out....,Zabiła cię utrata krwi.
 Blood_NotEnoughText,It's to dark for this action...,"Jest za ciemno, aby wykonać tę czynność..."
 BloodLoss_GameName,Blood Loss,Utrata krwi
 BloodLoss_Description,"Caused by bleeding wounds, use Tourniquets and Dressings to lower it.","Spowodowana krwawiącymi ranami, użyj opaski uciskowej i opatrunku, aby ją zatrzymać."
@@ -13369,7 +13369,7 @@ Hydration_Statuses[5].GameName,Dangerously Dehydrated,Niebezpieczne odwodnienie
 Hydration_Statuses[5].Description,I won't make it for much longer,Długo bez wody już nie pociągniesz.
 Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,"Zbyt duże pragnienie, aby wykonać tę akcję."
 Hydration_Statuses[6].GameName,Dead of Thirst,Śmierć z pragnienia
-Hydration_Statuses[6].Description,You died of dehydration.,Śmierć z odwodnienia.
+Hydration_Statuses[6].Description,You died of dehydration.,Zabiło cię odwodnienie.
 Hydration_Statuses[6].PreventingActionMessage,Too thirsty to perform this action.,"Zbyt duże pragnienie, aby wykonać tę akcję."
 Hyperthermia_GameName,Hyperthermia,Przegrzanie
 Hyperthermia_Description,Shows how much your body is overheating. You will die if the bar fills up completely.,"Pokazuje, jak bardzo przegrzany jest twój organizm. Kiedy poziom przegrzania osiągnie maksimum - umierasz."
@@ -13379,16 +13379,16 @@ Hyperthermia_Statuses[1].GameName,Hyperthermia,Poważne przegrzanie
 Hyperthermia_Statuses[1].Description,I need to cool down...,Musisz się ochłodzić...
 Hyperthermia_Statuses[2].GameName,Severe Hyperthermia,Ciężkie przegrzanie
 Hyperthermia_Statuses[2].Description,I'm going to die if I don't cool down...,"Umrzesz, jeśli się nie schłodzisz..."
-Hyperthermia_Statuses[3].GameName,Overheated to Death,Zabiło cię przegrzanie.
-Hyperthermia_Statuses[3].Description,You died of a heat stroke.,Śmierć od udaru cieplnego.
+Hyperthermia_Statuses[3].GameName,Overheated to Death,Śmierć od udaru cieplnego
+Hyperthermia_Statuses[3].Description,You died of a heat stroke.,Zabił cię udar cieplny.
 Hypothermia_GameName,Hypothermia,Wychłodzenie
 Hypothermia_Description,Shows how much body temperature you have lost. You will die if the bar fills up completely.,"Pokazuje, jak bardzo wychłodzony jest twój organizm. Kiedy poziom wychłodzenia osiągnie maksimum - umierasz."
 Hypothermia_Statuses[0].GameName,Numb,Drętwota
 Hypothermia_Statuses[0].Description,I'm feeling numb,"Czujesz, jak drętwieją ci kończyny."
 Hypothermia_Statuses[1].GameName,Hypothermia,Wychłodzenie
 Hypothermia_Statuses[2].GameName,Severe Hypothermia,Ciężka hipotermia
-Hypothermia_Statuses[3].GameName,Frozen to Death,Zabiło cię wychłodzenie.
-Hypothermia_Statuses[3].Description,You froze to death.,Zabiło cię zimno.
+Hypothermia_Statuses[3].GameName,Frozen to Death,Śmierć na skutek wychłodzenia
+Hypothermia_Statuses[3].Description,You froze to death.,Zabiło cię wychłodzenie.
 IfKidneys_GameName,if Kidneys,czy są nerki
 IfKidneys_Statuses[0].GameName,No Kidneys,Brak nerek
 IfKidneys_Statuses[1].GameName,Yes Kidneys,Są nerki
@@ -13984,7 +13984,7 @@ tag_ContainerMetal_InGameName,Container Metal,Metalowy pojemnik
 tag_ContainerOpen_InGameName,Container Open,Pojemnik - otwarty
 tag_ContainerReservoir_InGameName,Container Reservoir,Pojemnik - zbiornik
 tag_ContainerSealed_InGameName,Container Sealed,Pojemnik - szczelny
-tag_Cookable_InGameName,Cookable,Zdatny do ugotowania
+tag_Cookable_InGameName,Cookable,Można ugotować
 tag_CookingPot_InGameName,Cooking Pot,Garnek
 tag_CopperBig_InGameName,Big Copper Object,Duży miedziany przedmiot
 tag_CopperSmall_InGameName,Small Copper Object,Mały miedziany przedmiot
@@ -14035,8 +14035,8 @@ tag_Jungle_InGameName,Jungle,Dżungla
 tag_Large_InGameName,Large,Duży
 tag_LargeAnimal_InGameName,Large Animal,Duże zwierzę
 tag_Leaves_InGameName,Leaves,Liście
-tag_MealCoconutShell_InGameName,Cookable,Zdatny do ugotowania
-tag_MealCookingpot_InGameName,Cookable,Zdatny do ugotowania
+tag_MealCoconutShell_InGameName,Cookable,Można ugotować
+tag_MealCookingpot_InGameName,Cookable,Można ugotować
 tag_Meat_InGameName,Feed,Nakarm
 tag_Military_InGameName,Military,Wojskowy
 tag_MonitorTerritory_InGameName,Shallow Water,Płytka woda
